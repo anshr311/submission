@@ -1,0 +1,463 @@
+# SOURCE: https://chat.romanticai.com/assets/documents/Terms_&_Conditions.pdf
+# ENTRY: 38 | COMPANY: Romantic AI | DATE: 2026-05-21
+# METHOD: pdfplumber
+
+Terms & Conditions
+BEFORE USING THE APPLICATION YOU MUST READ THESE TERMS
+AND CONDITIONS CAREFULLY AND BY USING THE SITE AND/OR THE
+APPLICATION YOU AGREE TO ACCEPT THEM. IF YOU DO NOT ACCEPT
+THESE TERMS AND CONDITIONS, YOU MAY NOT USE THE SITE AND
+THE APPLICATION.
+Last updated: May 4, 2026
+Welcome to Romantiс AI!
+These Terms of Service (“Terms”) govern your use of Romantic AI and the
+content and services (collectively referred to as the “Service,” “us,” “we,” or
+“our”) offered through Romantic AI via our website chat.romanticai.com and its
+subdomains (the “Website”).
+Your access to and use of the Service is conditioned upon your acceptance of
+and compliance with these Terms. These Terms apply to all visitors and users
+who wish to access or use the Service.
+The following terms shall have the following meanings in these Terms and
+Conditions:
+● The term “device” refers to the device which is used to access the
+Service including but not limited to computers, smartphones, and
+tablets.
+● The term “service” refers to a program that allows chatting with a
+chatbot via text and photos
+● The term “You” refers to the user or visitor of the Service.
+● The term “chatbot ” refers to artificially intelligent simulation taught by
+our Romantiс AI support team.
+
+● The term “Hearts” refers to units that allow you to purchase virtual gifts,
+photo and audio generations to your virtual chatbot (s).
+When you sign up for any of the Services or otherwise use or access them,
+you agree to be bound by these Terms and all applicable laws, rules, and
+regulations. By using the Service, you indicate that you accept these Terms
+and that you agree to abide by them. If you do not agree to these Terms,
+please refrain from using the Service.
+1. OUR SERVICE AND RESPONSIBILITIES
+1.1. Romantiс AI offers a program that allows You to chat with a chatbot via
+text and photos. A chatbot is made as software that responds to your
+messages
+1.2. You acknowledge that you are communicating with software whose
+activity we cannot constantly control. You agree that our responsibility for the
+activities of software is limited in accordance with clauses, including, but not
+limited to, 1.3, 1.4, 1.5, 1.6, 10, 11.1, 11.2, and 11.3 of these Terms. We are
+responsible only for violation of user rights and failure to perform our
+responsibilities under these Terms. If you decide to act on the Service’s
+advice, you bear the risk of the consequences of such actions.
+1.3. If you suppose the Service’s responses are offensive, you can make a
+report either via email at support@romanticai.com or in the Settings
+section/chatbox on the Website. After receiving the report, either to your email
+or through a bot (depending on how you send the report), you will be notified
+that your report is pending.
+1.4. You acknowledge that the communication via the chatbot belongs to
+software.
+1.5. Romantiс AI is neither a provider of healthcare or medical Service nor
+providing medical care, mental health Service, or other professional Service.
+Only your doctor, therapist, or any other specialist can do that. Romantiс AI
+MAKES NO CLAIMS, REPRESENTATIONS, WARRANTIES, OR
+GUARANTEES THAT THE SERVICE PROVIDE A THERAPEUTIC,
+MEDICAL, OR OTHER PROFESSIONAL HELP.
+
+1.6. Please do not use our Service for emergency situations. Provided you
+suggest having a medical or mental health emergency, calling an ambulance,
+or going to the doctor or therapist. We are not liable for any mental disorders,
+the tendency to suicide of users, or any other health damage.
+2. USE OF SERVICE
+2.1. You may use our Website worldwide (except in territories where the use
+of our Website is restricted by the authority and/or Romantiс AI), but You must
+comply with the laws of the relevant country in which you use our Website,
+and You agree to be responsible for compliance with the laws of the relevant
+country.
+2.2. When you start using our Service, you guarantee that you are at least 18
+years old (or at the age of majority in each jurisdiction where you use this
+website) and that the information you provide us is accurate, complete, and
+current at all times. Inaccurate, incomplete, or outdated information may result
+in the immediate termination of your account on the Service.
+2.3. By using the Service, you represent and warrant that you have the right,
+authority, and capacity to enter into these Terms and to abide by all of their
+provisions. You may not authorize others to use your account, nor may you
+assign or transfer your account to any other person or entity. You agree to
+notify the Service immediately of any unauthorized use of your password or
+account or any other breach of security.
+2.4. You are solely responsible for ensuring that your use of the Service
+including any prompts, instructions, or other inputs you submit through the
+Service’s interfaces, and any AI-generated Output resulting from system
+processing as a result does not violate applicable law or these Terms. The
+Service does not allow you to upload image, video, or other media files for
+publication or display on the Website; depictions are generated by our
+systems subject to our policies.
+2.5. To use our Service on your device, your device must meet certain system
+requirements. These requirements can be found on the Website.
+
+2.6. Registration Obligations. You may be required to complete a registration
+form to access and use certain features of the Service. If you choose to
+register, you agree to provide and maintain true, accurate, current, and
+complete information as prompted by the registration form. Registration data
+and certain other information about you are governed by our Privacy Policy.
+2.7. It is your responsibility to stay informed and periodically review these
+Terms for any updates. Romantic AI will not be liable for your neglect of your
+legal rights. You may have only one account with the Service.
+3. SUBSCRIPTION AND PAID SERVICES
+3.1. Romantiс AI offers you subscription programs and paid services which
+are the following:
+● “Basic”: no-charge program, which provides limited access to the
+Service. We reserve the right to deny the free use to anyone at any time
+at our own discretion.
+● “Premium”: a subscription-fee-based program. You can become a
+subscriber to Premium by purchasing a subscription to the Service.
+● You can purchase a currency - Hearts.
+3.2. “Premium” shall be paid in weekly, monthly, quarterly, semi-annual or
+annual installments. You will only have access to a paid subscription while it is
+active and subsisting. Should you fail to pay your subscription within 7 days
+after the due date, you will automatically downgrade to “Basic”.
+3.3. The renewal subscription fees will continue to be billed to the Payment
+Method you provided automatically until canceled.
+In case you prefer not to renew your subscription, you shall cancel your
+subscription before its renewal each billing period in order to avoid billing the
+next subscription fee to the Payment Method you provided.
+You can modify or cancel your paid subscription through your account settings
+or where you originally acquired the subscription. Cancellation will take effect
+at the end of the current billing period, unless otherwise required by applicable
+law.
+
+3.4. We, at our sole discretion and at any time, may modify the subscription
+fees. Any subscription fee change will become effective at the end of the
+then-current subscription period. We will provide you with reasonable prior
+notice of any change in subscription fees to give you an opportunity to
+terminate your subscription before such change becomes effective. Your
+continued use of the Service after the subscription fee change comes into
+effect constitutes your agreement to pay the modified Subscription fee
+amount.
+3.5 All details about your subscription, including start date, end date, and
+subscription plan type, are available in the “Manage Account” section of your
+account.
+You may cancel your subscription at any time by selecting the “Unsubscribe”
+option within your account settings. If you cancel your subscription, it will
+remain active until the end of the current billing period, and you will not be
+charged for any subsequent period.
+4. REFUND POLICY
+4.1. If you purchase a subscription through Stripe, the sale is final, and we do
+not provide refunds. Your purchase will be subject to Stripe’s payment policy,
+which may not offer refunds. However, in certain limited cases, we may
+consider a refund if an error was made on our part or if a technical issue
+affected the service.
+4.2. Refunds will not be granted for any partial subscription periods.
+The 14-day refund policy for EU residents does not apply, as the purchase
+grants immediate access to a digital product.
+5. TERMINATION OF SERVICE
+5.1. You may terminate your account at any time by deleting your account in
+the Service. This action is irreversible. If you delete your account, all the data
+associated with your use of the Service will be removed permanently.
+
+You may terminate “Premium” and downgrade to “Basic” at any time without
+deleting your account. Be noted that termination of “Premium” is effective at
+the end of the applicable billing period.
+5.2. We may terminate or suspend your account and access to the Service
+immediately, without prior notice or liability, under our sole discretion, for any
+reason whatsoever and without limitation, including but not limited to a breach
+of the Terms.
+6. COMMUNICATION & OFFERS
+By agreeing to become a User you opt-in to receive occasional special offers,
+marketing, survey, and Services-based communication notifications. Such
+notifications may include push notifications, reminders, invitations,
+suggestions, and descriptions of existing, new, or future services, other
+important notices, as well as marketing and promotional content.
+7. CONDITIONS OF USE
+7.1. User Conduct
+You are responsible for your use of the Service, including your inputs
+submitted through the Service’s interfaces and your interactions with
+AI-generated Output.
+You may not use the Service to attempt to generate, request, or obtain content
+that violates applicable law or our policies.
+The Service does not host, store, or distribute user-generated content.
+7.2. Non-commercial use. The Service is solely for your personal use.
+7.3 All Users and Visitors acknowledge and agree that Romantic AI is not
+required to proactively verify all actions or inactions of Users and therefore
+cannot be held responsible for such actions or compliance with applicable law
+by Users.
+Romantic AI is not responsible for Users’ behavior while using the Site.
+However, the Service is designed with technical and policy-based safeguards
+
+intended to reduce the likelihood of generating or facilitating content prohibited
+under the Blocked Content Policy.
+If violations are identified or reported, Romantic AI may take reasonable
+measures, including review, restriction, or removal of the relevant content, and
+may implement additional measures to help prevent similar violations in the
+future.
+7.4 Users are responsible for maintaining the confidentiality of their password
+and account, if any, and are fully responsible for any and all activities that
+occur under their password or account. You agree to (a) immediately notify
+Romantic AI of any unauthorized use of your password or account or any
+other breach of security, and (b) ensure that you exit from your account at the
+end of each session when accessing the Services. Romantic AI will not be
+liable for any loss or damage arising from your failure to comply with this
+paragraph.
+Romantic AI is not responsible for any Visitor’s/User’s behavior while using
+the Site.
+7.5. Data Usage for Model Training. You acknowledge and agree that
+anonymous data generated from your interactions with AI chatbots may be
+collected and used to improve and train Romantic AI models. You expressly
+consent to this data usage, understanding that it will not include any
+personally identifiable information. Furthermore, you acknowledge that you
+have no claim or ownership over the collected data and waive any rights or
+claims related to its use for model training.
+8. INTELLECTUAL PROPERTY RIGHTS
+8.1. Romantic AI owns or licenses all intellectual property rights in the Service,
+including but not limited to copyrights, trademarks, design rights, and other
+proprietary rights worldwide.
+The Service is protected by applicable intellectual property laws. You may not
+use our trademarks, branding, or trade dress without prior written consent.
+
+To the extent that you provide Romantic AI with any information (such as
+account details or communications with support), you grant Romantic AI a
+limited, non-exclusive, worldwide license to use such information solely for the
+purpose of operating, maintaining, and improving the Service, in accordance
+with applicable law and our Privacy Policy.
+8.2 System Inputs and Data Processing
+The Service processes information, text, and inputs provided by you solely for
+the purpose of operating and providing the Service.
+Romantic AI does not claim ownership over any inputs provided by users,
+except as necessary to operate, maintain, and improve the Service in
+accordance with applicable law and our Privacy Policy.
+All outputs generated by the Service are AI-generated and do not constitute
+user-generated content.
+You are responsible for ensuring that any inputs you provide do not violate
+applicable laws or third-party rights.
+8.3 Generated Content and External Materials
+Romantic AI is not responsible for any content generated through the Service
+by automated systems, including AI-generated outputs or content created
+through character-based or similar features. This includes, but is not limited
+to, inaccuracies, omissions, or any reliance placed on such content.
+The Service is designed with technical and policy-based safeguards intended
+to reduce the likelihood of generating or facilitating content prohibited under
+the Blocked Content Policy.
+Romantic AI does not pre-screen all outputs generated through the Service.
+However, if content is identified or reported as potentially violating applicable
+laws or our policies, Romantic AI and its designees may review such content
+and take appropriate action, which may include restriction or removal, as well
+as measures intended to prevent similar outputs in the future.
+
+Romantic AI reserves the right, but not the obligation, to restrict or remove
+content that violates these Terms or is otherwise deemed inappropriate in
+accordance with applicable policies.
+You acknowledge that the use of AI-generated content involves inherent
+limitations, and you are responsible for how you use and interpret such
+content.
+8.4. Intellectual Property Infringement
+We respect the intellectual property rights of others. It is Our policy to respond
+to any claim that Content posted on the Service infringes a copyright or other
+intellectual property infringement of any person.
+If You are a copyright owner or authorized on behalf of one, and You believe
+that the copyrighted work has been copied in a way that constitutes copyright
+infringement that is taking place through the Service, You must submit Your
+notice in writing to the attention of our copyright agent via email at
+support@romanticai.com and include in Your notice a detailed description of
+the alleged infringement in accordance with the procedure set forth below:
+● An electronic or physical signature of the person authorized to act on
+behalf of the owner of the copyright's interest.
+● A description of the copyrighted work that You claim has been infringed,
+including the URL (i.e., web page address) of the location where the
+copyrighted work exists or a copy of the copyrighted work.
+● Identification of the URL or other specific location on the Service where
+the material that You claim is infringing is located.
+● Your address, telephone number, and email address.
+● A statement by You that You have a good faith belief that the disputed
+use is not authorized by the copyright owner, its agent, or the law.
+● A statement by You, made under penalty of perjury, that the above
+information in Your notice is accurate and that You are the copyright
+owner or authorized to act on the copyright owner's behalf.
+
+Romantic AI will process and investigate notices of alleged infringement and
+will take appropriate actions under the Digital Millennium Copyright Act
+(“DMCA”) and other applicable intellectual property laws with respect to any
+alleged or actual infringement.
+A written notification of claimed copyright infringement should be mailed to:
+Just Web It Oy, Tegelhagen 2 LT2, 02780 Espoo, Finland
+support@romanticai.com
+Upon receipt of a notification, the Company will take whatever action, at its
+sole discretion, it deems appropriate, including removal of the challenged
+content from the Service.
+9. LINKS TO OTHER WEBSITES
+Our Service may contain links to third-party websites or services that are not
+owned or controlled by us. We have no control over and assume no
+responsibility for the content, privacy policies, or practices of any third-party
+websites or services. We do not warrant the offerings of any of these
+entities/individuals or their websites.
+You acknowledge and agree that we shall not be responsible or liable, directly
+or indirectly, for any damage or loss caused or alleged to be caused by or in
+connection with the use of or reliance on any such content, goods, or services
+available on or through any such third party web sites or services.
+We strongly advise you to read the terms and conditions and privacy policies
+of any third-party websites or services that you visit.
+10. NETWORKING SERVICE
+You may enable, connect, or log in to the Service via your email, Apple,
+Facebook, or Google accounts (“Networking Service''). To make this feature
+and capabilities beneficial, we may ask you to authenticate, register for or log
+into Networking Services on the websites of their respective providers.
+However, kindly remember usage, storage, and disclosure of your information
+
+by Networking Service is governed solely by the policies of such third parties,
+and Romantiс AI shall not be liable or responsible for the privacy practices or
+other actions of any third-party site or service that may be enabled within the
+Service.
+11. INDEMNIFICATION
+You agree to defend, indemnify and hold us and our licensee and licensors,
+and their employees, contractors, agents, officers, and directors, harmless
+from and against any and all claims, damages, obligations, losses, liabilities,
+costs or debt, and expenses (including but not limited to attorney's fees),
+resulting from or arising out of a) your use and access of the Service, by you
+or any person using your account and password, or b) a breach of these
+Terms. This indemnity shall be applicable without regard to the negligence of
+any party, including any indemnified person.
+12. LIMITATION OF LIABILITY
+12.1. You understand that you are communicating with software and it sends
+you the messages according to the triggers that you provide it with. The
+content generated by Romantic AI is produced by automated systems and
+does not constitute user-generated content. You acknowledge that you are
+interacting with AI-generated outputs, which may be incomplete, inaccurate,
+or unsuitable for any specific purpose. That is why by using the Service You
+may be exposed to content that You may find offensive, indecent, incorrect, or
+objectionable, and You agree that under no circumstances will the Company
+be liable in any way for any content, including any errors or omissions in any
+content, or any loss or damage of any kind incurred as a result of your use of
+any content.
+12.2 We reserve the right to suspend or restrict your access to the Service if
+you use it in violation of these Terms or applicable law.
+You agree not to input, transmit, or otherwise use the Service to process any
+unlawful, harmful, or otherwise objectionable material.
+
+The Service is designed with technical and policy-based safeguards intended
+to reduce the likelihood of processing or generating content that violates these
+Terms or the Blocked Content Policy.
+We do not actively monitor all information provided through the Service, but if
+content is identified or reported as potentially violating these Terms, we may
+review it and take appropriate action, which may include restriction or
+removal, as well as measures intended to prevent similar issues in the future.
+12.3. Except in jurisdictions where such provisions are restricted, in no event
+shall we, nor our directors, employees, be liable for any indirect, incidental,
+special, consequential, or punitive damages, including without limitation, loss
+of profits, data, use, goodwill, or other intangible losses, cost of procurement
+of substitute Service or Service interruptions, even if we know or have been
+advised of the possibility of such damages resulting from (i) your access to or
+use of or inability to access or use the Service; (ii) any conduct or content of
+any third party on the Service; (iii) any content obtained from the Service; and
+(iv) unauthorized access, use or alteration of your transmissions or content,
+whether based on warranty, contract, tort (including negligence) or any other
+legal theory, whether or not we have been informed of the possibility of such
+damage, and even if a remedy set forth herein is found to have failed of its
+essential purpose. Notwithstanding anything to the contrary contained herein,
+our liability to you for any cause whatsoever, and regardless of the form of the
+action, will at all times be limited to the amount paid, if any, by you to us for
+the Service during the term of use of your account.
+13. DISCLAIMER
+Your use of the Service is at your sole risk. The Service is provided on an "AS
+IS" and "AS AVAILABLE" basis and is provided without warranties of any kind,
+whether express, statutory, or implied, including, but not limited to, implied
+warranties of merchantability, fitness for a particular purpose,
+non-infringement or course of performance.
+We and our subsidiaries, affiliates, and licensors do not warrant that a) the
+Service will function uninterrupted, secure, or available at any particular time
+
+or location; b) any errors or defects will be corrected; c) the Service is free of
+viruses or other harmful components; d) the results of using the Service will
+meet your requirements and expectations or success.
+Although each user must agree to the Terms, we cannot guarantee that each
+user is at least the required minimum age, nor do we accept responsibility or
+liability for any use of the Service by persons under the age of 18 in violation
+of these Terms.
+It is also possible that unauthorized third parties (including “hackers”) may
+attempt to access the Service or your information. We are not responsible for
+any such unauthorized access or use.
+It also is possible for others to obtain personal information about you due to
+your use of the Service. Those others may use your information for purposes
+other than what you intended. We are not responsible for the use of any
+personal information that you choose to provide through the Service.
+WE DISCLAIM ALL LIABILITY, REGARDLESS OF THE FORM OF ACTION,
+FOR THE ACTS OR OMISSIONS OF THIRD PARTIES, WHETHER SUCH
+ACTS OR OMISSIONS OCCUR DURING THE USE OF THE SERVICE OR
+OTHERWISE.
+Under no circumstances will we be responsible for any loss or damage,
+including personal injury or death, resulting from your use of the Service.
+14. DISPUTE RESOLUTION
+If You have any concerns or disputes about the Service, You agree to first try
+to resolve the dispute informally by contacting the Company through email —
+support@romanticai.com
+You may bring a claim only on your own behalf, and not on behalf of any
+other person, or class of people. You waive your right to participate in or have
+your dispute heard and resolved as a class action, class arbitration, or
+representative action.
+
+You agree to release, indemnify and hold us and our affiliates, our officers,
+employees, directors, and agents harmless from any and all losses, damages,
+and expenses, including reasonable attorneys’ fees, rights, claims, actions of
+any kind, and injury (including death) arising out of or relating to your use of
+the Service, any information you provide, or your violation of these Terms or
+your violation of any rights of another.
+If You are a user from a state or region where the ‘Limitation of Liability’ and
+‘Disclaimer’ sections are limited by applicable law, the above sections are
+intended to be only as broad as is permitted. If any portion of these sections
+is held to be invalid, the remaining portions shall remain in full force and
+effect.
+If You are a European Union consumer, you will benefit from any mandatory
+consumer law provisions of the law of the country in which you are resident. If
+You are a U.S. federal government end user, our Service is a "Commercial
+Item" as defined at 48 C.F.R. §2.101.
+United States Legal Compliance
+You represent and warrant that (i) You are not located in a country that is
+subject to a U.S. government embargo or designated as a “terrorist
+supporting” country, and (ii) You are not listed on any U.S. government list of
+prohibited or restricted parties.
+15. CHARGEBACK AND FRAUD MITIGATION POLICY
+Romantic AI is dedicated to preventing fraud and managing chargebacks
+effectively. We implement stringent security measures to verify transactions
+and user identities, minimizing the risk of fraudulent activities. Users are
+encouraged to report any suspicious transactions or discrepancies promptly.
+In cases of disputed transactions, we engage with users and financial
+institutions to resolve issues in accordance with our transparent
+dispute-resolution process.
+
+16. YOUR PRIVACY
+At Romantiс AI, we respect the privacy of our users. For details please see
+our Privacy Policy. By using the Service, you consent to our collection and
+use of personal data as outlined therein.
+17. COMPLAINT POLICY
+For details on how complaints are handled, please consult the Complaint
+Policy document.
+18. CONTENT MANAGEMENT POLICY
+For information on age verification, content review, and real-time platform
+monitoring, see our Content Management Policy.
+19. CONTENT REMOVAL POLICY
+Guidelines for content removal requests are detailed in the Content Removal
+Policy document.
+20. DMCA POLICY
+For copyright complaints under the Digital Millennium Copyright Act, refer to
+our DMCA Policy.
+21. UNDERAGE POLICY
+Measures to prevent underage access are detailed in the Underage Policy.
+22. COOKIES POLICY
+Our use of cookies and tracking technologies is described in the Cookies
+Policy.
+23. BLOCKED CONTENT POLICY
+Defines prohibited content on our platform to ensure a safe and legal online
+environment. Specifics on what constitutes blocked content and the
+repercussions of violations can be found in our Blocked Content Policy
+document.
+
+24. 18 U.S.C. 2257 Exemption Statement
+This section outlines compliance with the requirements of 18 U.S.C. 2257,
+providing age and record-keeping information related to content. For full
+details, please refer to our 18 U.S.C. 2257 Exemption Statement document.
+25. CHANGES TO THESE TERMS AND CONDITIONS
+We reserve the right, at Our sole discretion, to modify or replace these Terms
+at any time. It is your responsibility to review the Terms and Conditions
+frequently and to remain informed of any changes to them. By continuing to
+access or use Our Service after those revisions become effective, You agree
+to be bound by the revised terms. If You do not agree to the new terms, in
+whole or in part, please stop using the website and the Service.
+26. CONTACT US
+If you have any questions about these Terms, please contact our Customer
+Support Team at support@romanticai.com.
+Just Web It Oy
+Tegelhagen 2 LT2, 02780 Espoo, Finland

@@ -1,0 +1,8 @@
+# SOURCE: https://www.ibm.com/watsonx
+# ENTRY: 52 | COMPANY: IBM | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+IBM watsonx
+Faster, smarter decision-making through AI-powered conversational insights with governed, trusted data for consistent, business-ready outcomes
+Start free trial
+Book live demo

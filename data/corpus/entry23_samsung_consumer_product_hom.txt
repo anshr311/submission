@@ -1,0 +1,208 @@
+# SOURCE: https://www.samsung.com/in/galaxy-ai/
+# ENTRY: 23 | COMPANY: Samsung | DATE: 2026-05-21
+# METHOD: playwright
+
+Skip to content
+Samsung and Cookies
+This site uses cookies. By clicking ACCEPT or continuing to browse the site you are agreeing to our use of cookies. Find out more here
+Accept
+close
+Shop
+Shop
+NEW
+NEW
+Mobile
+Mobile
+NEW
+TV & AV
+TV & AV
+Appliances
+Appliances
+Computers & Monitors
+Computers & Monitors
+NEW
+Wearables
+Wearables
+Accessories
+Accessories
+Samsung AI Week
+Support
+For Business
+Search
+Search
+Cart
+Log-In/Sign-Up
+Galaxy AI.
+A simple way to make life more seamless
+Galaxy AI is your true AI companion that comes integrated into Samsung Galaxy phones, tablets and wearables. It helps you navigate your world with ease and confidence, whether it's for creativity, personalization, communication, productivity or health. By understanding what you need and turning it into action, Galaxy AI brings practical help into your everyday life and helps you focus simply on what you want to accomplish.
+A photo of a dog is seen on the screen of a Galaxy S26 Ultra phone. Galaxy AI icon is selected in the Gallery app. In Photo Assist, the user can describe what to change by inputting a text prompt. After typing 'Make this his birthday party', the Generate button is pressed. Galaxy AI transforms the photo by adding various birthday themed accessories on and around the dog. Options to Show previous, Save copy and Keep editing for the photo appear on the screen. The Show previous button is pressed, causing the previous unedited picture of the dog to appear next to the phone for comparison, along with the text prompt to 'Make this his birthday party'. Editing, without editing. Galaxy S26 Ultra. Galaxy AI.
+Can your phone do that?
+Already here and running, Galaxy AI offers a wide variety of features that you can jump right into. Get your Galaxy device and try out new ways to create and communicate, to plan and understand, to get things done and get ahead.
+Creativity
+Personalization
+Communication
+Productivity
+Health
+Photo Assist
+Make your picture perfect in seconds
+Photo Assist on Galaxy phones and tablets makes editing your photos effortless. Move, resize or delete objects by hand and have AI fill in the gaps for a seamless look. You can also enter a prompt or reference image to add new elements into the image, like putting a hat on a subject. Enjoy the freedom to imagine, the room to be creative and the fun of trying out different looks.1
+Creative Studio
+Create the unique designs of your imagination
+Explore your artistic side in the Creative Studio. Create your own personalized designs for greeting cards, wallpapers and more by combining text with drawings or images. Generate sticker sets in the styles and concepts you want, like cute emojis to show your friends. There's just so much to explore, imagine and share.2
+Audio Eraser
+Filter out the noise and crank up the vibes
+Audio Eraser removes background noise from videos in a couple of taps, cleaning up your audio like a charm. Use it across Galaxy phones and tablets to easily edit the moments you've filmed in your life, or use it to clear up distractions from videos shared on certain apps. From the concerts you've attended to content shared by others, you can hear every second in crystal clarity — especially while listening with your Galaxy Buds.3
+Auto Trim
+Instantly compile your best moments
+Want a handy highlight reel of what you did this weekend? Auto Trim can make one for you instantly, extracting key moments in your videos to create a clip of highlights centered around a specific activity. You'll get beautifully edited videos to share with your friends and family without the work of actual editing.4
+Next
+ft12_feature column carousel-im marketing page-index-indication, ft12_feature column carousel-im marketing page-index-indication, ft12_feature column carousel-im marketing page-index-indication
+ft12_feature column carousel-im marketing page-index-indication, ft12_feature column carousel-im marketing page-index-indication, ft12_feature column carousel-im marketing page-index-indication
+Enjoy smart help that's always available
+Personal device assistant Bixby understands natural language, so it can respond better to casual questions and free-flowing conversations. You can describe issues about the device itself, or ask about the settings and performance, and Bixby will grasp the situation to provide help and troubleshooting. Bixby can also search across the web to find what you need, so you can ask about a wide variety of topics and receive immediate answers.14
+Discover Galaxy AI devices
+How Galaxy AI keeps your data secure
+Enjoy peace of mind with Samsung's security, designed for the era of AI. We use multiple safeguards to ensure that your personal details stay personal.
+Turn your device into a digital fortress
+Rest assured when it comes to on device protection for your Galaxy. Our Personal Data Engine gathers and processes your personal data safely. Then it encrypts that data and saves it onto your device with KEEP and Knox Vault, making it harder for anyone else to gain access.15
+Take control of your privacy settings
+You can decide where your Galaxy AI data gets processed — either locally on device or out in the cloud. Go to your privacy settings and choose the option that gives you the most assurance, or switch back and forth depending on your needs.
+Establish trust across your Galaxy
+Your connected devices become safer when they look out for each other. Our Knox Matrix Trust Chain technology provides cross-platform security, allowing Galaxy devices to check on one another and isolate potential threats.16
+Explore our range of Galaxy AI devices
+Smartphone
+Tablet
+Watch
+Buds
+Galaxy S26 Ultra
+Learn more
+Galaxy S26 | S26+
+Learn more
+Galaxy Z Fold7
+Learn more
+Frequently Asked Questions
+What devices have Galaxy AI?
+Galaxy AI comes built into Samsung devices like smartphones, smartwatches, earbuds and tablets, although the available features vary by device.
+⦁ Galaxy AI is supported on smartphones starting from the S24 Series phones onward.
+⦁ Galaxy AI is supported on tablets and wearable products (such as Galaxy Watch and Galaxy Buds), but the level of support depends on the model and OS version.
+⦁ The availability of certain Galaxy AI features may vary by region as well as model. If you want to be sure of getting a certain Galaxy AI feature, check beforehand that it's provided on that particular model in your region.
+⦁ Please note that the supported features and models may change with future product releases and updates.
+How do I use Galaxy AI on my Samsung phone?
+What are the main features of Samsung’s Galaxy AI?
+What are the key Galaxy AI features of Samsung Galaxy S26 Ultra?
+What are the benefits of Samsung Galaxy AI for everyday users like me?
+What languages does Galaxy AI support?
+How does having a good AI phone improve my everyday mobile experiences?
+How do Samsung Galaxy phones improve photo quality with AI?
+How do I use the translation feature on Samsung Galaxy Buds?
+What are the latest AI upgrades for Bixby on Samsung Galaxy phones?
+Is Galaxy AI secure in terms of privacy?
+*Samsung Account login may be required to use certain AI features.
+*Samsung does not make any promises, assurances or guarantees as to the accuracy, completeness or reliability of the output provided by AI features.
+*Availability of Galaxy AI features may vary depending on the region/country, OS/One UI version, device model and phone carrier.
+*Galaxy AI basic features provided by Samsung are free. Future releases may include enhanced features or new services that are offered on a paid basis. Different terms may apply for AI features provided by third parties. Galaxy AI basic features are those services listed under "Advanced intelligence" in the current Samsung Services Terms and Conditions.
+*Galaxy AI service may be limited for minors in certain regions with age restrictions over AI usage.
+*Full list of supported languages for Galaxy AI features can be found in the FAQ section.
+*Photo Assist may require a network connection and Samsung Account login. Service availability may vary by country, language or device model. Photo Assist may result in a resized photo. A visible watermark is overlaid on the image output upon saving in order to indicate that the image is generated by AI. The accuracy and reliability of the generated output is not guaranteed.
+*Image simulated. Actual UX/UI may differ. Availability of colours, sizes, models, and watch bands may vary by country or carrier. Products sold separately.
+1. Photo Assist may require a network connection and Samsung Account login. Service availability may vary by country, language or device model. Photo Assist may result in a resized photo. A visible watermark is overlaid on the image output upon saving in order to indicate that the image is generated by AI. The accuracy and reliability of the generated output is not guaranteed.
+2. Creative Studio feature requires a network connection and Samsung Account login. Service availability may vary by country, language or device model. The accuracy and reliability of the generated output is not guaranteed. Sticker sets only compatible with Samsung keyboard and can only be shared via Quick Share feature with other Galaxy devices that have One UI 5.0 or later installed and Quick Share app version 13.8.50.x or later.
+3. Results may vary per video depending on how sounds present in the video. Samsung Account login required. Six types of sound can be detected; voices, music, wind, nature, crowd and noise. The actual sound detection may vary depending on audio source, and the condition of the video. Accuracy of results is not guaranteed. Certain types of sound can be detected, such as voices, music, wind, nature, crowd and noise. On certain apps, Audio Eraser in the Quick Panel adjusts separated audio source volumes in real time without copying, modifying or storing the original content.
+4. Maximum length per clip to be edited using Auto Trim for Photo Assist is 90 minutes. Maximum length of combined clips to be edited using Auto Trim for Photo Assist is 180 minutes. Maximum number of clips to be edited per video project is 60 clips. Accuracy of results is not guaranteed.
+5. Now Nudge feature requires a Samsung Account login. Available functions and features may vary by country, region and language. Text message prompts available with certain third party messaging apps including Samsung Messages, Google Messages, Google Chat. Based on availability at the time of product launch. May change without notice. Share photos in Now Nudge works by analyzing available image content. Accuracy of results is not guaranteed.
+6. Now Brief feature requires Samsung Account login. Service availability may vary by country, language, device model, apps. Some features may require a network connection. The description of photos provided by moments may not align with the user's intent. Events schedule notification is supported with calendar apps that utilize Android calendar database and available if Samsung Calendar is installed. Notifications for dog walking require SmartTag2 and Pet Care in SmartThings to be activated. SmartTag2 sold separately. Notifications must be switched on to be used as the recalled data. Recalled data available from supported app notifications, Messages, Gmail and Samsung Wallet and data collected from Gmail is only applicable if the user consents to Personal Data Intelligent's Gmail read permission. Recalled data for reservation details only available from reservation confirmation messages.
+7. Call Screening feature for Call Assist may vary by country, region and language. Feature needs to be manually activated.
+8. Transcription and Summary features for Transcript Assist require a network connection and Samsung Account login. Features for Transcript Assist only available on the pre-installed Samsung Voice Recorder app or files recorded using the pre-installed Samsung Phone app, Samsung Notes app or Samsung Interpreter app. Voice recording feature in the pre-installed Samsung Phone app may not be supported in some countries. Audio files must be under 3 hours in duration to be processed. Summarizing feature for Transcript Assist can be activated when a certain number of characters is met. Service availability may vary by language. Accuracy of results is not guaranteed.
+9. Interpreter feature requires Samsung Account login. Certain languages may require language pack download. Service availability may vary by language. Accuracy of results is not guaranteed. Availability and supported features may vary by country, region or carrier. Availability of supported languages may vary.
+10. Document area within the camera screen must be greater than 20%. If the document contains only images without text, it may not be recognized as a document in Photo Mode. Original document must be rectangular. All four corners of the document must be visible within the camera screen without any obstructions. Capture angle must be within 20 degrees after setting to 0 degrees when the document surface and the camera are level. Correction for folding is possible within two turns and between 130 and 180 degrees. For warped documents, the document must be placed on the floor with a uniformly short-axis angle of A4 size, with a distance of less than 4 cm between the floor and the document. Traces may remain after shadow removal for documents with strong shadows or colors. A gap greater than 0.8 cm between objects (text, tables, images, etc.) and obstructions (fingers, folded edges) must be present. Not supported if the object and obstacle are not separated or overlap. Moiré removal restrictions may result in residual moiré in cases of very strong moiré. Document-specific filters may produce unintended results when applied to scenes where the document is not visible. Available Saved File format is JPEG or PDF. Available Multi-Scan Image Import Input File Format is JPEG, HEIC, PNG, BMP, WebP or GIF. Available Gallery Scan Input File Format is JPEG or HEIF (JPG, HEIC). Usage may be limited in certain temperatures.
+11. Writing Assist requires a network connection and Samsung Account login. Must meet length requirements to activate feature. Service availability may vary by language. Accuracy of results is not guaranteed.
+12. Bedtime guidance is available on Android phone (Android 11 and above) requires Samsung Health app (v6.30.2 or later). Samsung account login required. Bedtime guidance is based on 3 days of sleep analysis of user's circadian rhythm and sleep pressure. Sleep features are intended for general wellness and fitness purposes only. Not intended for use in detection, diagnosis, treatment of any medical condition or sleep disorder. The measurements are for your personal reference only. Please consult a medical professional for advice.
+13. Energy Score is available on Android phones (Android 11 or above) and requires Samsung Health app (v6.27 or above). Samsung Account login required. Service availability may vary by country, region, language. To check the Energy Score, the health data tracked from Samsung Galaxy Watch (Galaxy Watch4 Series and later models using OS 5.0 or above) or Samsung Galaxy Ring must be synchronized with the Samsung Health App. Needs at least the previous day’s activity data and sleep, and heart rate data during sleep. Not intended for use in detection, diagnosis, treatment of any medical condition. The result is for your personal reference only. Please consult a medical professional for advice.
+14. Bixby service availability requires Samsung Account login and data connection. Available functions and features may vary by country, region, and language. Bixby only recognizes certain accents and dialects of English (UK), English (US), English (India), French (France), German (Germany), Italian (Italy), Japanese (Japan), Korean (South Korea), Mandarin Chinese (China), Spanish (Spain), Portuguese (Brazil) and Spanish (Latin America). Other supported languages may be added in the future. Not all accents, dialects, and expressions may be recognized, and actual performance may vary depending on pronunciation, voice level, and the surrounding environment. Use of Bixby may be limited in certain situations such as when recording media (Video/Game/Voice), during calls, Maximum Power Saving mode, Emergency mode and Samsung Kids. Service availability may vary by country/service provider/language/device model/OS version. Bixby controls selected apps, other apps to be supported. To control SmartThings enabled devices with Bixby, first connect the devices to the SmartThings app. For more information, visit the SmartThings website (www.samsung.com/smartthings).
+15. The Personal Data Engine functions under the condition that the Personal Data Intelligence menu is on. Analyzed data will be deleted once the Personal Data Intelligence menu is turned off. Personal Data Engine recognizes select languages and certain accents/dialects, including but not limited to Korean, English, Spanish, Italian, German, French, Portuguese, Polish, Chinese (Simplified), Japanese, Thai, Hindi and Vietnamese. Personal Data Engine currently analyzes Samsung native applications and supported app notifications.
+KEEP is available on Galaxy smartphones and tablets with One UI 8 or later.
+16. Knox Matrix is supported on Galaxy smartphones and tablets One UI 7.0 or above. Availability may vary by country or region.
+17. Service availability may vary by language. Accuracy of results is not guaranteed.
+18. Results may vary depending on light condition and/or shooting conditions including multiple subjects, being out of focus or moving subjects.
+Home
+Galaxy AI
+Footer Navigation
+Shop
+Shop Home
+Buy Direct Get More
+SmartThings
+Discover AI
+Samsung Care+
+Galaxy Forever
+Live Shop
+For Corporate Employees
+For Students & Teachers
+For Bulk purchase
+Samsung Experience Store
+Samsung BKC
+Explore
+Product
+Galaxy Smartphone
+Galaxy Tab
+Galaxy Book (Laptops)
+Galaxy Watch
+Galaxy Buds
+TVs
+Projectors
+Sound Devices
+Refrigerators
+Washing Machines
+Air Conditioners
+Microwave Ovens
+Monitors
+Memory & Storage
+Accessories
+Support
+Support Home
+Manual & Software
+Search Support
+Self-Repair
+Warranty Information
+Service Center
+Track Repair
+Book a Repair
+Raise Samsung Care+ Claim
+Out of Warranty Repair Charges
+Spare Part Cost
+WhatsApp
+Digital Service Center
+Email the CEO
+Account
+Why Samsung Account
+Samsung Rewards
+Orders
+My Page
+Product Registration
+Vouchers
+Sustainability
+Environment
+Security & Privacy
+Accessibility
+Inclusive Workplace
+Corporate Citizenship
+Corporate Sustainability
+About Us
+Company Info
+Business Area
+Brand Identity
+Careers
+Investor Relations
+Newsroom
+Ethics
+Samsung Design
+Copyright ⓒ 1995-2026 SAMSUNG All Rights reserved.
+Please dispose of e-waste and plastic waste responsibly.
+For more information or e-waste pick up, please call 1800 5 7267864 or click here for more details.
+Registered Office Address: 6th Floor, DLF Centre, Sansad Marg, New Delhi-110001
+Corporate Identification Number (CIN): U31900DL1995PTC071387
+India/English
+Privacy
+Legal
+CSR Policy
+Sitemap
+Stay in the Loop?

@@ -1,0 +1,30 @@
+# SOURCE: https://blog.character.ai/evaluating-our-models-using-principles-of-compelling-writing/
+# ENTRY: 31 | COMPANY: Character.AI | DATE: 2026-05-21
+# METHOD: playwright
+
+This blog post marks the beginning of a series where we’ll explore how we evaluate our models using principles of compelling writing.
+
+The criteria for a "good" large language model are constantly evolving. Many models are evaluated on foundational metrics like perplexity, fluency, and coherence, along with more sophisticated benchmarks for utility-focused use cases, where answers are typically objective, well-defined, and measurable. However, at Character.AI, where our mission is to empower our users to create and tell stories through interactive characters, this presents a unique challenge: How do we measure something as subjective as a "fun," well-paced, and engaging conversation?
+
+This question led us to develop our “Compelling Writing Evaluation Framework”, a dynamic system designed to assess the quality of conversation and creative storytelling capabilities of our model. It’s a blend of creative writing techniques and objective dimensions, designed to measure how well our characters deliver engaging conversations.
+
+Background
+
+Unlike traditional benchmarks like MMLU or GSM8K, the dimensions we care about – like plot structures, character archetypes, and writing style – are highly subjective.
+
+To break down these dimensions and study what makes conversations and writing engaging, we consulted professional writers on the art and science of compelling writing. This collaboration focused on the following:
+
+Defining Compelling Writing: Our professional writing team helped us identify the core elements that make (a) memorable stories, movies, or books and (b) captivating characters.
+Defining Evaluation Dimensions: Together, we explored various plot types (such as the Hero’s Journey), writing techniques (like "show and tell" and pacing), and character archetypes. We then broke these concepts down into objective and measurable dimensions. These dimensions capture fundamentals, such as dialogue quality, as well as more nuanced, genre-specific attributes.
+
+Partnering with our Professional Writing team was crucial in shaping an evaluation framework that aims to measure well-written and high-quality conversations across objective dimensions with the characters on our platform. After partnering with the Creative Writing team, we ran several studies to ensure that the dimensions we defined align with how our users describe a high-quality conversation. 
+
+Methodology
+
+The first type of evaluation we conduct is an offline evaluation with data created and labeled by our professional writing team. To do this, we leverage an LLM-judge and measure each compelling writing dimension at each model turn. If a dimension is present in the model's response, we then grade its execution. The grade helps us gain a better understanding of the quality and how well the model is performing on that particular dimension.
+
+The offline evaluation is crucial since it allows our researchers to iterate quickly by sweeping across different data mixes, model architectures and training regimes.
+
+Conclusion
+
+Evaluating LLMs for creative writing qualities is an ongoing journey. At Character AI, we believe that a combination of professional writing expertise and systematic evaluation is key to our model development. By defining what makes interactions compelling, breaking these qualities into measurable dimensions, and continuously assessing our models both offline and online, we strive to push the boundaries of what's possible in AI-driven conversational experiences.This evaluation lays the groundwork for broader applications across storytelling, world-building, and interactive entertainment, which unlocks new creative and delightful experiences on our platform.

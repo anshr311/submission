@@ -1,0 +1,59 @@
+# SOURCE: https://blog.duolingo.com/duolingo-max/
+# ENTRY: 57 | COMPANY: Duolingo | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+March 14, 2023
+Duolingo Team
+Introducing Duolingo Max, a learning experience powered by GPT-4
+AI and education make a great duo.
+March 14, 2023
+Duolingo Team
+We believe that AI and education make a great duo, and we’ve leveraged AI to help us deliver highly-personalized language lessons, affordable and accessible
+English proficiency testing
+, and more. Our mission to make high-quality education available to everyone in the world is made possible by advanced AI technology. That’s why we’re excited to take advantage of GPT-4, the newest technology from OpenAI, to make learning with Duolingo even more powerful. Introducing...
+Duolingo Max!
+DOWNLOAD DUOLINGO
+Duolingo Max is a new subscription tier above Super Duolingo that gives learners access to two brand-new features and exercises:
+Video Call
+and
+Roleplay
+. Both are powered by the newest, most powerful generative AI technology. We’ve been working closely with OpenAI for months to refine the technology and get it ready for learners!
+Here’s everything you need to know about this exciting new experience!
+How is Duolingo Max different than Super Duolingo?
+Duolingo Max gives learners all the benefits of Super (unlimited energy, no ads, and personalized review through the
+Practice Hub
+), as well as two new AI-powered features. These new features are: Video Call and Roleplay.
+Naturally, you might ask...
+What is Video Call?
+With Video Call, you’ll use the language you’re learning in real conversations with Lily! Lily will kick things off, usually about a topic you just studied, and from there you can chat about anything you’d like. Lily responds in real time to keep the conversation going—and she’ll remember what you discussed the next time you call. After you hang up, you can also see a transcript of your conversation to review what you learned!
+What is Roleplay?
+Roleplay allows learners to practice real-world conversation skills with world characters in the app. These challenges, which earn XP, will live alongside the path as one of the “Side Quests” learners can access by tapping on the character. What will you talk about? We’ll guide you through different scenarios! Learners might discuss future vacation plans with Lin, order coffee at a café in Paris, go furniture shopping with Eddy, or ask a friend to go for a hike.
+Although learners aren’t actually talking to a live human, the AI behind this feature is responsive and interactive, meaning no two conversations will be exactly alike! After the interaction, learners get AI-powered feedback on the accuracy and complexity of their responses, as well as tips for future conversations.
+Who has access to these new features?
+Duolingo Max is available in 188 countries for both iOS and Android devices. English speakers learning Spanish, French, German, Italian, and Portuguese have access to both Video Call and Roleplay, and those learning Japanese, Korean, and Chinese can use the new Video Call feature.
+Are humans evaluating the content at all?
+Yes! At Duolingo, our curriculum experts and designers are well-versed at
+working with AI-generated content
+to create fun and effective lessons. These new features are no different!
+Humans write the scenarios that learners see in Roleplay—they make sure the initial prompt (Talk about a vacation! Ask for directions!) is aligned with where the learner is in their course. Our experts also write the initial message in the chat and tell the model where to take the conversation.
+We also constantly review AI-generated content to ensure that the answers are factually correct and have the right tone (fun, encouraging, and if you’re Duo, occasionally snarky 😅).
+What if the AI makes a mistake?
+We know that technology is never perfect (hey, neither are humans!). Part of the reason we’re so excited to use GPT-4 for these features is that it’s the most accurate (and fastest) version of the technology available. We’ve spent months collaborating closely with OpenAI to test and train this technology, and will continue doing so until the mistakes are nearly nonexistent.
+If you notice a mistake or error in an AI-generated response, you can report it by holding down the inaccurate message—a menu will pop up and allow you to select your reason for reporting. Our team will watch for these reports and use them to train the model to be more accurate. (For more about how we work with learners to ensure our lessons are accurate,
+click here
+!)
+A new way to Max-imize your learning
+We’ve spent months testing this technology with our teams and small groups of learners, and we’re impressed by the results. Our mission has always been to bring the highest-quality education to everyone on the planet, and AI helps us do that a lot faster than if we worked alone!
+We’re so excited to continue bringing new features and exercises to all of our learners around the world—Duolingo Max is only the beginning!
+TAGS
+Product
+Company
+Announcements
+Duolingo 101
+Grammar
+Writing
+Learning
+Language
+SHARE ARTICLE
+RELATED ARTICLES
+RELATED ARTICLES

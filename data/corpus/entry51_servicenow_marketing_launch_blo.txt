@@ -1,0 +1,10 @@
+# SOURCE: https://www.servicenow.com/now-platform/now-assist.html
+# ENTRY: 51 | COMPANY: ServiceNow | DATE: 2026-05-21
+# METHOD: playwright
+
+Access Denied
+You don't have permission to access "http://www.servicenow.com/now-platform/now-assist.html" on this server.
+
+Reference #18.2a7c4117.1779314598.7269681
+
+https://errors.edgesuite.net/18.2a7c4117.1779314598.7269681

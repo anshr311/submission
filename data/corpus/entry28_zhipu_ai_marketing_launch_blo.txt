@@ -1,0 +1,77 @@
+# SOURCE: https://www.zhipuai.cn/
+# ENTRY: 28 | COMPANY: Zhipu AI | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Brainstorming
+Reasoning
+Information Q&A
+Content Creation
+Development
+AutoClaw
+AutoClaw: Every PC, 1 Minute.
+The GLM Large Models
+New-Generation AI Model Full-Stack Technology Ecosystem
+GLM-5-Turbo
+GLM-5-Turbo
+Built for Claw. Optimized at the training level for core agent capabilities — tool calling, instruction following, and long-chain execution.
+GLM-5
+On core agentic programming benchmarks such as SWE-bench Verified and Terminal Bench 2.0, GLM-5 reaches open-source SOTA performance, on par with Claude Opus 4.5
+GLM-4.6V
+A leading 100B-class open-source model for visual reasoning, now fully open-sourced
+AutoGLM
+An agent model capable of autonomous planning, reasoning, and execution, addressing core challenges in task planning, data scarcity, and policy optimization, while possessing continuous self-improvement capabilities
+MaaS
+More than models — shaping the future of trustworthy AI
+View all
+High-Performance Model Services
+World-leading, flexible, and cost-effective multimodal large model APIs
+GLM-5
+Zhipu's new flagship, a base model for Agentic Engineering, achieves open-source SOTA-level performance in Coding and Agent
+GLM-4.6V
+Zhipu's latest VLM achieves SOTA visual understanding accuracy at its scale. It features comprehensive function call support.
+Enterprise-Ready Agent APIs
+Dozens of production-ready, business-aligned APIs — built to solve real needs across industries
+General Translation Agent
+Fluent across multiple languages, precisely recognizing context, delivering high-fidelity, context-aware translations.
+GLM Slide/Poster Agent
+From search to design, generate polished presentations and posters in one step, seamlessly blending text and visuals
+End-to-End Development Suite
+A one-stop, modular toolkit for building and customizing with large models
+Model Fine-Tuning
+Flexible fine-tuning options for both language and multimodal models. Tailor models to your unique tasks in as little as ten minutes
+AI Web Search Tools
+Multi-engine integration optimized for large models, enabling real-time, accurate, and traceable content generation.
+Products
+Benefit humanity with reliable intelligence
+View all
+Previous slide
+Next slide
+z.ai
+AutoClaw
+ChatGLM
+Zlearn
+AutoGLM
+Zread.ai
+AMiner
+Autotyper
+Business Ecosystem
+Helping industry partners and cities build successful large model applications
+News
+View all
+Previous slide
+Next slide
+Z.ai 2025 Annual Results
+Z.ai (02513.HK) Announces 2025 Annual Results Conference Call Arrangement
+Z.ai (the “Company, Stock Short Name “Knowledge Atlas”; HKEX stock code: 02513) announces that it will release its annual results for the year ended December 31, 2025 on Tuesday, March 31, 2026.
+中关村自主大模型产业联盟第一次会员大会 结果公示
+2025年8月19日,中关村自主大模型产业联盟在北京市海淀区搜狐网络大厦10层图灵会议室召开了第一次会员大会。会议应出席会员(均为单位会员,下同)数32,实到数32,超过会员总数2/3,会议有效。会议由北京智谱华章科技股份有限公司董事长刘德兵主持。会议主要内容和通过的主要决定如下:一、会员以举手方式表决通过了《中关村自主大模型产业联盟筹备工作报告》、《中关村自主大模型产业联盟章程(草案)》、《中关
+GLM-PC 基座模型,CogAgent-9B 开源
+11 月 29 日,智谱正式提出 GLM-OS 概念,并发布 AutoGLM 和 GLM-PC 两款 Agent 产品。为推动大模型 Agent 生态发展,我们决定将 GLM-PC 的基座模型——CogAgent-9B 开源,供社区进一步开发。CogAgent-9B-20241220是基于 GLM-4V-9B 训练而成的专用 Agent 任务模型。该模型仅需屏幕截图作为输入(无需 HTML 等文本
+Agent 新进展:跨 app、跨设备、更多玩法|智谱 Agent OpenDay
+人类与机器的互动方式正在发生范式转变——这是由于只有对话功能的 Chatbot,正在进化为“有手、有脑、有眼睛”的自主 Agent。作为最早探索 Agent 的大模型企业之一,智谱今天带来了多个新进展:AutoGLM 可以自主执行超过 50 步的长步骤操作,也可以跨 app 执行任务AutoGLM开启「全自动」上网新体验,支持等数十个网站的无人驾驶像人一样操作计算机的GLM-PC 启动内测,基于视
+智谱与英特尔深化智能生态合作,落地端侧智谱清言和CodeGeeX智能编程助手
+10月25日,英特尔 AI PC 生态大会暨英特尔酷睿Ultra处理器(第二代)品鉴会上,智谱作为英特尔的重要合作伙伴受邀出席,分享了智谱和英特尔在AI PC领域联合共创的最新成果:端侧智谱清言和 CodeGeeX 智能编程助手 AIPC 版,携手赋能 AIPC 领域的智能“芯”动力。基于端云一体的模型产品矩阵,智谱和英特尔共同落地多款 AI PC 应用创新成果。智谱副总裁吴玮杰在大会上介绍了端侧
+A leading independent LLM provider in China,
+with coding capabilities tied
+20.00million Tokens for free
+Start Free Trial

@@ -1,0 +1,134 @@
+# SOURCE: https://www.hubspot.com/artificial-intelligence
+# ENTRY: 47 | COMPANY: HubSpot | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Home
+Breeze
+Powerful AI,
+effortlessly simple
+Breeze is HubSpot's collection of AI tools, built into the customer platform to help your marketing, sales, and service teams get more done.
+Get a demo
+of Breeze
+Get started free
+with Breeze by HubSpot
+The complete AI solution for your entire business.
+Accelerate business growth by aligning your marketing, sales, and service teams and unifying your data.
+The complete AI solution for your entire business.
+Accelerate business growth by aligning your marketing, sales, and service teams and unifying your data.
+Create content, grow your audience, and drive leads.
+Close more deals with less manual research and outreach.
+Resolve customer questions faster, without adding headcount.
+299,000+ customers in over 135 countries grow their businesses with HubSpot
+Previous
+Next
+Get AI guidance that knows your business with Breeze Assistant.
+Breeze Assistant is your AI companion that understands your role and works where you do in HubSpot — on desktop or on the go. It pulls from your CRM data, your knowledge base, and HubSpot Academy to give you relevant answers and guidance, not generic advice.
+Learn more
+about Breeze Assistant
+Handle more work with Breeze Agents.
+Breeze Agents are specialized AI teammates that work across your business, handling the repetitive, time-consuming tasks, so your team can focus on higher-impact work. You can find and install pre-built agents that provide the help you need in Breeze marketplace.
+Learn more
+about breeze agents
+Popular Features
+Customer Agent
+Resolve customer inquiries automatically and on-brand across your support channels, with controls that let you decide when your team steps in.
+Prospecting Agent
+Monitor accounts for buying signals, source contacts directly in HubSpot, and launch personalized outreach for reps to review and send.
+Company Research Agent (Beta)
+Research target accounts directly in HubSpot, pulling from their website, recent news, and your CRM, so reps show up to every conversation prepared.
+Data Agent
+Get instant answers to questions about your customers — data agent analyzes your CRM data, conversations, documents, and the web so you don't have to.
+Customer Health Agent (Beta)
+Assess the health of your customer accounts using CRM data, then get suggested next steps, talking points, and a drafted outreach email — all ready to act on.
+Breeze Studio (Beta)
+Tailor pre-built agent teammates across marketing, sales, and customer service without code, plus create custom assistants that work for your specific needs.
+View more
+Access AI features built into every part of your work.
+HubSpot’s 100+ AI features are incorporated into your daily work, helping with everything from email writing to content creation and data analysis, so you can stay focused and get more done faster.
+Popular Features
+AI Blog Writer
+Create compelling blog posts quickly with AI by answering simple prompts.
+Content Remix
+Turn your top-performing content into repurposed assets across channels.
+Website Generator
+Create a single-page website easily with a free AI builder using simple prompts.
+AI Email Writer
+Use AI to generate sales outreach and marketing emails for different audience segments fast.
+Sales Reporting
+Track your sales team's performance with built-in reporting and data.
+Conversation Intelligence
+Capture insights from customer conversations and use them to coach your team.
+View more
+See what's possible with Breeze.
+Agicap saves 750 hours a week and
+increases deal velocity by 20%
+with Breeze.
+Read Agicap's story
+Sandler drives
+25% more engagement and 4x sales leads
+by creating personalized experiences with Breeze.
+Read Sandler's story
+Kaplan uses Breeze to streamline communications for customer service,
+reducing response times by 30%.
+Read Kaplan's story
+AI you can trust
+HubSpot's AI features are designed with trust and safety in mind — so you can use Breeze with confidence.
+Visit HubSpot's AI trust page to learn more
+How to get started with Breeze.
+Previous
+Next
+Marketplace
+Breeze Marketplace
+Browse and install HubSpot-built agents and custom assistants in the Breeze marketplace.
+Visit Breeze marketplace
+Use case library
+Breeze Use Case Library
+Learn how to put Breeze to work across your marketing, sales, and service teams.
+Visit the use case library
+Customer stories
+Breeze Customer Stories
+Read real results from businesses that have grown and resolved their challenges with Breeze.
+Read Breeze customer stories
+Ready to see what Breeze can do for your business?
+Get a demo
+of Breeze
+Get started free
+with Breeze
+Frequently Asked Questions
+How can Breeze benefit my business?
+Breeze can support all areas of your organization, from marketing to sales and service.
+Automate note-taking and enable quick drafting and sending of inquiry responses to streamline your customer service process.
+Enable sales teams with AI tools that automate repetitive tasks, provide actionable insights, predictive forecasts, and lead scoring.
+Create content for email, display, social, and more that increases marketing ROI.
+Improve your digital presence with AI marketing automation tools that can help you design a custom website and create and distribute content.
+Execute marketing and sales tasks confidently with insights from your CRM data.
+What are the different Breeze products, and what do they do?
+Breeze Assistant
+is your AI expert for every employee that understands your business and works where you do. It has full access to your CRM data and business context, so you get relevant, actionable help instead of generic AI responses.
+Breeze Agents handle specialized tasks across marketing, sales, and customer service. Browse and install agents from
+Breeze marketplace
+, or build your own.
+Embedded AI features are available throughout HubSpot’s customer platform to help you get your work done quickly and efficiently.
+How does Breeze interact with my data?
+At HubSpot, it’s important for us to be transparent about how our AI systems interact with your data. You can learn more about how Breeze interacts with your data in our
+model cards
+. You can also learn more about how HubSpot’s AI features have trust and safety built in
+here
+.
+What makes Breeze AI different from other marketing and sales tools?
+Breeze by HubSpot stands apart by seamlessly integrating advanced AI tools for sales and marketing within the HubSpot ecosystem. Unlike standalone AI marketing automation tools, Breeze works with your existing data to provide contextual assistance.
+Our marketing AI tools are designed specifically for revenue teams, learning from successful patterns in your business rather than generic templates. With Breeze, you get the combined power of HubSpot AI's infrastructure with purpose-built applications for your specific business challenges, delivering more personalized customer experiences and measurable business outcomes.
+How much does Breeze cost?
+You can get started with Breeze Assistant and select Breeze features for free in HubSpot. Other Breeze features are available in Starter, Professional, and Enterprise editions of HubSpot. Some Breeze Agents, including customer agent, prospecting agent, and data agent, run on
+HubSpot Credits
+. See the
+pricing page
+for more information.
+How do I access Breeze in my HubSpot portal?
+To gain access to Breeze functionality in public beta, you must
+opt your HubSpot account into the beta features
+. Once you’ve done so, you’ll be able to
+access Breeze tools
+available in your HubSpot subscription.
+Beta terms
+are applicable.

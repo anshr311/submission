@@ -1,0 +1,22 @@
+# SOURCE: https://blog.google/products/gemini/
+# ENTRY: 55 | COMPANY: Google | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Gemini
+The latest news about Gemini. Chat to start writing, planning, learning and more with Google AI.
+Gemini App
+Gemini 3 brings upgraded smarts and new capabilities to the Gemini app
+Today we’re unveiling a major update for the Gemini app, and it all starts with Gemini 3.
+Gemini App
+I/O 2026: Welcome to the agentic Gemini era
+The Gemini app becomes more agentic, delivering proactive, 24/7 help
+Digitize your paper notes with Gemini.
+Gemini Features
+A smarter, more proactive Android with Gemini Intelligence
+March Pixel Drop: New personalization and AI tools
+5 ways Gemini can help students work smarter
+Gemini Models
+Introducing Gemini Omni
+Gemini 3.5: frontier intelligence with action
+Gemini Embedding 2 is now generally available.
+All the Latest

@@ -1,0 +1,164 @@
+# SOURCE: https://www.zendesk.com/service/ai/
+# ENTRY: 50 | COMPANY: Zendesk | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+AI for customer service
+AI that gets better with every resolution
+Zendesk AI is the intelligence powering our Resolution Platform – designed for outcomes from day one. It continuously learns from real interactions, so resolution quality compounds. Faster resolutions today, better resolutions tomorrow.
+Contact Sales
+Zendesk AI solutions
+What you can do with Zendesk AI
+Build trusted knowledge
+Drive automated resolutions
+Empower service teams
+Protect quality standards
+Knowledge
+A knowledge graph to unify your service content
+Deliver fast, accurate answers grounded in trusted knowledge. Build a knowledge base in minutes, unify content across third-party sources and optimise content automatically based on recent conversations.
+Explore Knowledge
+AI Agents
+Self-improving AI agents for any platform
+Resolve complex, multi-step workflows across channels with AI agents that take action across your systems. Powered by the Resolution Learning Loop, every outcome strengthens the next.
+Explore AI agents
+Copilot
+The proactive copilot built for every service role
+Empower agents with an AI assistant that understands context, recommends next best actions and can even take action autonomously. Equip admins to continuously improve service quality by highlighting gaps and making recommendations.
+Explore Copilot
+Quality Assurance
+Exceptional service quality across channels
+Protect your standards with AI monitoring across 100% of interactions. Surface critical conversations, track performance in real time and upgrade your team with targeted coaching to continuously improve resolution quality.
+Explore QA
+What customers say
+30-40
+%
+automation rate
+20
+%
+increase in self-service score
+“There’s a wealth of information in these AI agent conversation logs. We’re using them not just for support, but also to improve our product and strategy, too.”
+Noah Kardos-Fein
+Director of Digital Support, Vimeo.
+Read customer story
+80
+%
+automation rate
+$
+500
+K+
+annual cost savings from AI
+“Zendesk AI agents are a game changer. It has turned our agents from widget movers into problem solvers.”
+Corrine Porcaro
+Senior Director of Service Quality, Best Egg
+Read customer story
+80
+%
+automation rate
+99
+%
+reduction in repetitive emails
+“Zendesk’s AI agents automatically detect intent and respond to frequent email questions. Now, our human agents have more time to tackle challenging problems for our customers.”
+Davide Donini
+IT Lead for Integrations, TeamSystem
+Read customer story
+90
+%
+drop in live chat processing time
+75
+%
+decrease in average handling time
+“I love that the AI really understands the tone and context of customer enquiries. It knows when to escalate a ticket to a live agent – that way, our agents can really focus on customers with more complex interactions.”
+Rhonda Floyd
+Head of Customer Success, Fortnum & Mason
+Read customer story
+30-40
+%
+automation rate
+20
+%
+increase in self-service score
+“There’s a wealth of information in these AI agent conversation logs. We’re using them not just for support, but also to improve our product and strategy, too.”
+Noah Kardos-Fein
+Director of Digital Support, Vimeo.
+Read customer story
+80
+%
+automation rate
+$
+500
+K+
+annual cost savings from AI
+“Zendesk AI agents are a game changer. It has turned our agents from widget movers into problem solvers.”
+Corrine Porcaro
+Senior Director of Service Quality, Best Egg
+Read customer story
+80
+%
+automation rate
+99
+%
+reduction in repetitive emails
+“Zendesk’s AI agents automatically detect intent and respond to frequent email questions. Now, our human agents have more time to tackle challenging problems for our customers.”
+Davide Donini
+IT Lead for Integrations, TeamSystem
+Read customer story
+90
+%
+drop in live chat processing time
+75
+%
+decrease in average handling time
+“I love that the AI really understands the tone and context of customer enquiries. It knows when to escalate a ticket to a live agent – that way, our agents can really focus on customers with more complex interactions.”
+Rhonda Floyd
+Head of Customer Success, Fortnum & Mason
+Read customer story
+30-40
+%
+automation rate
+20
+%
+increase in self-service score
+“There’s a wealth of information in these AI agent conversation logs. We’re using them not just for support, but also to improve our product and strategy, too.”
+Noah Kardos-Fein
+Director of Digital Support, Vimeo.
+Read customer story
+The ROI of switching to Zendesk
+Outgrown Intercom? See why growing support teams switch to Zendesk for greater control, less manual work and a platform built to scale.
+Read the report
+Additional resources
+Article
+The humanising power of AI in CX
+Article
+Memory-rich AI and the new era of personalisation at scale
+Article
+Knowledge has evolved: 4 tips to help service leaders catch up
+Article
+Zendesk named a Leader in the 2025 Gartner® Magic QuadrantTM for the CRM Customer Engagement Centre
+Frequently asked questions
+What is Zendesk AI?
+Zendesk AI is the intelligence powering our Resolution Platform. Zendesk AI enhances every part of the service experience by providing AI-powered tools for agents and admins and automating customer interactions with AI agents. Zendesk offers a set of AI-powered tools in the Suite, as well as a robust set of tools for agents and admins in the Copilot add-on.
+What are AI agents in customer service?
+AI agents are autonomous systems designed to understand and autonomously resolve complex issues on any channel. Unlike traditional chatbots, they can reason across multi-step requests, execute actions across business systems and continuously improve based on outcomes. Learn more about Zendesk AI agents
+here
+.
+How does Zendesk AI improve ticketing?
+AI ticketing automation provides advantages over traditional ticketing systems. It automates tasks so businesses can do more with less, boosting efficiency and reducing costs. AI improves
+customer satisfaction
+through fast response times, quick ticket resolution and personalised support. It also improves over time by learning from each interaction. Learn more about the Zendesk AI-powered ticketing system
+here
+.
+How can I access Zendesk AI solutions?
+Zendesk currently provides some AI features within our Suite, including generative search. For more information on pricing and packaging,
+view our pricing page
+.
+How is Zendesk protecting my data?
+Zendesk AI is built on the core principles of privacy, security and compliance, by design. Zendesk leverages a set of
+design principles
+that not only set the standard for how we design, develop and build everything we do, but that set a clear foundation for our use of AI for customer experiences (CX) and employee experience (EX). Learn more about our approach
+here
+.
+How does Zendesk work with OpenAI and other Large Language Models?
+Zendesk AI leverages a flexible, modular architecture that enables the use of multiple leading Large Language Models (LLMs), including frontier and open-source models. Generative AI features in Zendesk are currently powered by OpenAI (using zero data retention endpoints) or models hosted on Microsoft Azure, Amazon Bedrock or Google Cloud Platform (where the model provider never has access to prompts or outputs). Learn more about our multi-LLM architecture
+here
+.
+Try Zendesk today
+Contact Sales

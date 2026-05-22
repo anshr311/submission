@@ -1,0 +1,259 @@
+# SOURCE: https://www.salesforce.com/products/einstein/overview/
+# ENTRY: 45 | COMPANY: Salesforce | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Artificial Intelligence (AI) at Salesforce | Salesforce
+
+Skip to content
+
+Join real Agentforce customers as they break down how to build an AI agent.
+
+        Register today
+    
+
+    Talk to an expert
+    
+    
+    
+    
+        
+            
+                
+            
+        
+    
+    
+
+    
+
+2016
+
+2023
+
+2024
+
+Present
+
+Salesforce Einstein
+
+Generative AI
+
+Agentforce
+
+The Agentic Enterprise
+
+We introduced the industry’s first predictive AI for CRM, bringing machine learning, like Predictive Lead Scoring and Predictive Forecasting, directly into sales and service workflows.
+
+We launched the Trust Layer and introduced generative AI capabilities, such as AI Call Summaries, to securely draft content and summarize records.
+
+We moved from assistants to agents. AI now reasons, plans, and executes tasks autonomously 24/7 across the entire Customer 360 with the Atlas Reasoning Engine.
+
+We’ve processed over 11trillion LLM tokens, empowering businesses to bring AI and humans even closer together to augment every team and workflow.
+
+    Start for free
+    
+    
+    
+    
+        
+            
+                
+            
+        
+    
+    
+
+    
+
+    Learn more
+    
+    
+    
+    
+        
+            
+        
+    
+    
+
+    
+
+                    Predictive AI
+                    
+                        
+
+For nearly a decade, Salesforce has leveraged machine learning to help businesses see around corners. 
+Predictive AI
+ 
+identifies hidden patterns and calculates probabilities to help your teams work with foresight rather than hindsight. Whether it’s forecasting in sales analytics or anticipating customer churn in service, predictive AI surfaces deep insights from historical data to drive smarter, proactive decision-making.
+
+                    Generative AI
+                    
+                        
+
+Generative AI
+ leverages 
+large language models
+ (LLMs) to identify patterns in vast amounts of data and create original, human-like content such as text summaries, images, or email drafts. When paired with a CRM like Salesforce, generative AI goes beyond generic chat by using your specific business information to provide answers and content that are grounded in your actual customer data. This helps your teams work significantly faster by turning hours of manual research or drafting into seconds of high-quality work.
+
+                    Agentic AI
+                    
+                        
+
+Agentic AI
+ is an advanced form of AI that goes beyond simple assistance to autonomously plan, reason, and execute multi-step tasks to achieve a specific goal. It differs from predictive and generative AI because it doesn't just suggest the next step; it plans, makes decisions, and takes actions on its own. 
+Agentforce
+ is the agentic AI solution in Salesforce that enables you to build enterprise ready agents that are grounded in your business’ data from day one.
+
+                    Data
+                    
+                        
+
+AI without context is just a guess. 
+product.data-cloud
+ acts as the engine of the Agentforce 360 Platform by unifying all your siloed customer information into a single, unified view. By connecting these dots, Salesforce ensures that your AI is grounded in the actual facts of your business, providing responses that are highly accurate, relevant, and timely.
+
+                    Trust
+                    
+                        
+
+Deploy AI confidently with the Agentforce Trust Layer, a native security framework built into the 
+Agentforce360 Platform
+. Using dynamic grounding for accuracy and data masking for privacy, it ensures your AI is context-aware and secure. The Agentforce Trust Layer guarantees your proprietary data remains protected and is never used to train external models.
+
+                    Open Ecosystem
+                    
+                        
+
+Salesforce provides the flexibility enterprises need to leverage existing AI investments. Our open model ecosystem offers secure access to leading foundation models from partners like OpenAI and Anthropic. Additionally, we enable enterprise-grade agentic interoperability through 
+Model Context Protocol
+, allowing you to orchestrate and connect AI agents seamlessly across your entire business infrastructure.
+
+                    Sales AI
+                    
+                        
+
+Sell faster with 
+trusted AI
+ for sales. Use predictive AI to prioritize pipelines with high-probability lead scoring and accurate revenue forecasting. Scale productivity with generative AI to instantly draft personalized outreach and summarize complex sales calls. Finally, transform operations with agentic AI which autonomously research prospects and qualify leads 24/7, ensuring sellers focus on building relationships and no lead gets left behind.
+
+See Agentforce Sales
+
+                    Customer Service AI
+                    
+                        
+
+Deliver more personalized and impactful customer service while significantly boosting productivity across your entire organization. Leverage predictive AI to anticipate customer needs and identify potential escalations before they happen. Augment your human agents with generative AI that instantly summarizes complex cases and drafts personalized replies grounded in your trusted knowledge base. Finally, transform your service model with AI agents that autonomously resolve customer inquiries and execute multi-step workflows, providing 24/7 support without increasing headcount.
+
+See Agentforce Service
+
+                    Marketing AI
+                    
+                        
+
+Drive engagement with predictive AI that identifies the best segments and timing for every campaign. Scale personalization with generative AI to instantly create relevant content for any channel. Finally, transform your strategy with agentic AI by deploying marketing agents that autonomously optimize journeys and campaign performance in real-time, ensuring every interaction drives maximum ROI without manual intervention.
+See Agentforce Marketing
+
+                    Commerce AI
+                    
+                        
+
+Maximize revenue with predictive AI that anticipates buyer intent and delivers smart product recommendations. Increase merchant productivity with generative AI to instantly create data-grounded product descriptions and personalized storefront content. Finally, drive growth with agentic AI by deploying commerce agents that autonomously guide shoppers through complex purchases and optimize your digital storefront 24/7 to ensure maximum conversion.
+See Agentforce Commerce
+
+    
+        Talk to an expert.
+    
+
+            
+    Tell us a bit more so the right person can reach out faster. 
+
+        
+
+    Request a call
+    
+    
+    
+    
+        
+            
+                
+            
+        
+    
+    
+
+    
+
+    
+        Stay up to date.
+    
+
+            
+    Get the latest research, industry insights, and product news delivered straight to your inbox.
+
+        
+
+    Sign up for newsletter
+    
+    
+    
+    
+        
+            
+        
+    
+    
+        
+
+                    What is the difference between generative AI and agentic AI?
+                    
+                        
+
+While generative AI focuses on creating content and summarizing information, agentic AI focuses on autonomous action. Generative AI acts as a highly skilled assistant that helps you write or research, whereas agentic AI, powered by Agentforce, uses a reasoning engine to plan and execute multi-step business tasks independently like resolving a service case or qualifying a lead without needing constant human prompts.
+
+                    How does Salesforce ensure generative AI data security?
+                    
+                        
+
+Salesforce secures enterprise data through the Agentforce Trust Layer. This native security architecture protects your information by using Sensitive Data Masking to hide PII and a Zero-Retention Policy, which ensures your proprietary data is never stored or used to train external AI models. This allows businesses to leverage powerful LLMs while keeping their data safely within their own security perimeter.
+
+                    Can I use third-party AI models like OpenAI or Google Gemini with Salesforce?
+                    
+                        
+
+Yes. Salesforce is built on an open ecosystem that supports model openness. Through our "Bring Your Own Model" (BYOM) capabilities, you can securely connect to foundation models from partners like OpenAI, Anthropic, and Google. This allows you to choose the best AI model for your specific business needs while maintaining the security guardrails of the Salesforce platform.
+
+                    How does AI at Salesforce work?
+                    
+                        
+
+AI at Salesforce is natively embedded into the Agentforce 360 Platform and leverages data from CRM and external applications to provide insights, predictions, and generated content directly in the flow of work.
+
+                    What are AI Agents?
+                    
+                        
+
+AI Agents are autonomous, proactive applications designed to execute specialized tasks to help employees and customers. Agents use large language models (LLMs) to analyze and understand the full context of customer interactions or an automated trigger, then reason through decisions on the next steps autonomously.
+These agents generate responses that are consistent with your company’s brand voice and guidelines using trusted business data, including Salesforce CRM data, external data from Data 360 and more. These agents are capable of operating 24/7 across various platforms like self-service portals and messaging channels, handling tasks proactively within set guardrails. When faced with complex issues beyond their scope, they can escalate the matter to human agents, ensuring that queries are resolved efficiently and accurately.
+
+                    Is there a way for me to access AI features for free within Salesforce?
+                    
+                        
+
+Yes
+.
+ Salesforce free CRM specifically designed for small businesses gives your access to AI assistive features. Within 
+Free Suite
+, you get access to AI features that include:
+
+Record Summarization:
+ Instantly get a bulleted summary of any Lead, Account, Opportunity, Contact, or Case so you don’t have to dig through old notes.
+
+Email Drafting:
+ Reach customers and prospects faster with AI drafted or revised emails
+
+It’s a 
+1-click setup
+. Meaning you don't need a technical background or an IT team to get started. You simply toggle it on with one click, and the AI immediately begins surfacing insights from your data.
+

@@ -1,0 +1,72 @@
+# SOURCE: https://www.together.ai/about
+# ENTRY: 18 | COMPANY: Together AI | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+About us
+Building the AI Native Cloud
+The full stack platform for production AI, powered by cutting-edge systems research.
+Our mission
+We design a full-stack AI platform powered by cutting edge system research — helping teams ship faster, scale reliably and achieve superior unit economics.
+Our values
+Open and responsible development
+Empower innovation
+Everything works best when we help the open-source community work better together.
+Discover the magic
+Our wonder, curiosity, and hope drive us to find ways to make everyone’s lives better.
+Do more with less
+We are optimizers, making the most with what we have and not taking more than what we need.
+Model stewardship
+We build everything with the purpose of benefiting society.
+Our partners
+Featured partners that help us scale
+Our team
+Meet our leaders, researchers and engineers building the systems behind Together AI.
+Vipul Ved Prakash
+Founder & CEO
+Ce Zhang
+Founder & CTO
+Chris Ré
+Founder
+Tri Dao
+Founder & Chief Scientist
+Percy Liang
+Founder
+Charles Zedlewski
+Chief Product Officer
+Kai Mak
+Chief Revenue Officer
+Meicheng Shi
+SVP of Finance
+Nicolette Lea
+Senior Director of People & Ops
+Vanessa Hsu
+Chief of staff to the CEO
+Mahadev Konar
+SVP of Engineering Infrastructure
+Alon Gavrielov
+VP of Infrastructure Strategy
+Albert Meixner
+SVP of Engineering
+Dan Fu
+VP of Kernels
+Leon Song
+VP of Research
+Max Ryabinin
+VP of Model Shaping
+Susan Lee
+VP OF Technical Program Management
+Derek Chamorro
+Head of Security
+Prem Prakash
+VP of Marketing
+Arielle Fidel
+VP of Strategic Partnerships
+Jon Fields
+VP of Sales
+Namrata Ram
+VP of Revenue Operations
+James Barker
+VP of Sales, EMEA
+Sarung Tripathi
+VP of Customer Experience
+Load more

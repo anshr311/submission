@@ -1,0 +1,332 @@
+# SOURCE: https://www-cdn.anthropic.com/fed9cc193a14b84131812372d8d5857f8f304c52/Model_Card_Claude_3_Addendum.pdf
+# ENTRY: 2 | COMPANY: Anthropic | DATE: 2026-05-21
+# METHOD: pdfplumber
+
+Claude 3.5 Sonnet Model Card Addendum
+Anthropic
+1 Introduction
+ThisaddendumtoourClaude3ModelCarddescribesClaude3.5Sonnet,anewmodelwhichoutperforms
+our previous most capable model, Claude 3 Opus, while operating faster and at a lower cost. Claude 3.5
+Sonnetoffersimprovedcapabilities,includingbettercodingandvisualprocessing. Sinceitisanevolutionof
+theClaude3modelfamily,weareprovidinganaddendumratherthananewmodelcard.Weprovideupdated
+keyevaluationsandresultsfromoursafetytesting.
+2 Evaluations
+Reasoning,Coding,andQuestionAnswering
+We evaluated Claude 3.5 Sonnet on a series of industry-standard benchmarks covering reasoning, reading
+comprehension,math,science,andcoding. Acrossallthesebenchmarks,Claude3.5Sonnetoutperformsour
+previous frontier model, Claude 3 Opus. It also sets new performance standards in evaluations of graduate
+levelscienceknowledge(GPQA)[1],generalreasoning(MMLU)[2],andcodingproficiency(HumanEval)
+[3]. TheresultsareshowninTable1.
+VisionCapabilities
+Claude 3.5 Sonnet also outperforms prior Claude 3 models on five standard vision benchmarks, delivering
+state-of-the-art performance on evaluations of visual math reasoning (MathVista) [4], question answering
+about charts and graphs (ChartQA) [5], document understanding (DocVQA) [6], and question answering
+aboutsciencediagrams(AI2D)[7]. TheresultsareshowninTable2.
+AgenticCoding
+Claude 3.5 Sonnet solves 64% of problems on an internal agentic coding evaluation, compared to 38% for
+Claude3Opus.Ourevaluationtestsamodel’sabilitytounderstandanopensourcecodebaseandimplementa
+pullrequest,suchasabugfixornewfeature,givenanaturallanguagedescriptionofthedesiredimprovement.
+Foreachproblem,themodelisevaluatedbasedonwhetherallthetestsofthecodebasepassforthecompleted
+codesubmission. Thetestsarenotvisibletothemodel, andincludetestsofthebugfixornewfeature. To
+ensuretheevaluationmimicsrealworldsoftwareengineering, webasedtheproblemsonrealpullrequests
+submitted to open source codebases. The changes involve searching, viewing, and editing multiple files
+(typicallythreeorfour,asmanyastwenty). Themodelisallowedtowriteandruncodeinanagenticloop
+anditerativelyself-correctduringevaluation. Werunthesetestsinasecuresandboxedenvironmentwithout
+accesstotheinternet. TheresultsareshowninTable3.
+
+Claude3.5 Claude3 Claude3 Gemini Llama3
+GPT-4o[8] GPT-4T[8]
+Sonnet Opus Sonnet 1.5Pro[9] 400B1
+GPQA(Diamond) 0-shotCoT 59.4% 50.4% 40.4% 53.6% 48.0% — —
+GraduatelevelQ&A Maj@325-shotCoT 67.2% 59.5% 46.3% — — — —
+5-shotCoT 90.4% 88.2% 81.5% — — — —
+MMLU
+Generalreasoning 5-shot 88.7% 86.8% 78.3% — — 85.9% 86.1%
+0-shotCoT2 88.3% 85.7% 77.1% 88.7% 86.5% — —
+MATH[10] 71.1% 60.1% 43.1% 76.6% 72.6% 67.7% 57.8%
+Mathematical 0-shotCoT 0-shotCoT 0-shotCoT 0-shotCoT 0-shotCoT 4-shot 4-shotCoT
+problemsolving
+HumanEval
+0-shot 92.0% 84.9% 73.0% 90.2% 87.1% 84.1% 84.1%
+Pythoncodingtasks
+MGSM[11] 91.6% 90.7% 83.5% 90.5% 88.5% 87.5%
+—
+Multilingualmath 0-shotCoT 0-shotCoT 0-shotCoT 0-shotCoT 0-shotCoT 8-shot
+DROP[12]
+87.1 83.1 78.9 83.4 86.0 74.9 83.5
+Readingcomprehension, F1Score
+3-shot 3-shot 3-shot 3-shot 3-shot Variableshots 3-shot
+arithmetic
+BIG-BenchHard[13,14]
+3-shotCoT 93.1% 86.8% 82.9% — — 89.2% 85.3%
+Mixedevaluations
+GSM8K[15] 96.4% 95.0% 92.3% 90.8% 94.1%
+— —
+Gradeschoolmath 0-shotCoT 0-shotCoT 0-shotCoT 11-shot 8-shotCoT
+Table1 Thistableshowsevaluationresultsforreasoning,math,coding,readingcomprehension,andques-
+tionansweringevaluations.
+Claude3.5 Claude3 Claude3 Gemini
+GPT-4o[8] GPT-4T[8]
+Sonnet Opus Sonnet 1.5Pro[9]
+MMMU[18](validation)
+68.3% 59.4% 53.1% 69.1% 63.1% 62.2%
+Visualquestionanswering
+MathVista(testmini)
+67.7% 50.5% 47.9% 63.8% 58.1% 63.9%
+Math
+AI2D(test)
+94.7% 88.1% 88.7% 94.2% 89.4% 94.4%
+Sciencediagrams
+ChartQA(test,relaxedaccuracy)
+90.8% 80.8% 81.1% 85.7% 78.1% 87.2%
+Chartunderstanding
+DocVQA(test,ANLSscore)
+95.2% 89.3% 89.5% 92.8% 87.2% 93.1%
+Documentunderstanding
+Table 2 This table shows evaluation results for multimodal tasks. All of these evaluations are 0-shot.
+On MMMU, MathVista, and ChartQA, all models use chain-of-thought reasoning before providing a final
+answer.
+1ResultsforLlama3400BarefromtheApril15,2024checkpoint[16].AllmetricsarefortheInstructversionofthe
+model,otherthanDROPandBIG-BenchHard,whichareevaluatedonthepretrainedversionofthemodel.
+2 OpenAI’ssimple-evalssuite[17]listsMMLUscoresof88.7%forgpt-4oand86.5%forgpt-4-turbo-2024-04-09.
+Thesimple-evalsMMLUimplementationuses0-shotCoT.
+2
+
+Claude3.5 Claude3 Claude3 Claude3
+Sonnet Opus Sonnet Haiku
+%ofproblemswhichpassalltests 64% 38% 21% 17%
+Table3 Thistableshowstheresultsofourinternalagenticcodingevaluation. Foreachmodel,weindicate
+thepercentofproblemsforwhichthemodel’sfinalsolutionpassedallthetests.
+Refusals
+WeassessedClaude3.5Sonnet’sabilitytodifferentiatebetweenharmfulandbenignrequests. Thesetests,
+whichusetheWildchat[19]andXSTest[20]datasets,aredesignedtomeasurethemodel’sabilitytoavoid
+unnecessary refusals with harmless prompts while maintaining appropriate caution with harmful content.
+Claude3.5SonnetoutperformedOpusonbothdimensions: Ithasfewerincorrectrefusalsandmorecorrect
+refusals. TheresultsareshowninTable4.
+Claude3.5 Claude3 Claude3 Claude3
+Sonnet Opus Sonnet Haiku
+WildchatToxic
+96.4% 92.0% 93.6% 90.0%
+Correctrefusals(higher↑isbetter)
+WildchatNon-toxic
+11.0% 11.9% 8.8% 6.6%
+Incorrectrefusals(lower↓isbetter)
+XSTest
+1.7% 8.3% 36.6% 33.1%
+Incorrectrefusals(lower↓isbetter)
+Table4 ThistableshowsrefusalratesforthetoxicpromptsintheWildchatdataset,andincorrectrefusal
+ratesforthenon-toxicpromptsintheWildchatandXSTestdatasets.
+NeedleInAHaystack
+WeevaluatedClaude3.5Sonnetonourversion[21]ofthe“NeedleInaHaystack”task[22]toconfirmits
+retrievalabilitiesatcontextlengthsupto200ktokens. TheaveragerecalloutperformedClaude3Opus. The
+resultsareshowninTable5,Figure1,andFigure2.
+Claude3.5 Claude3 Claude3 Claude3
+Claude2.1
+Sonnet Opus Sonnet Haiku
+Allcontextlengths 99.7% 99.4% 95.4% 95.9% 94.5%
+200kcontextlength 99.7% 98.3% 91.4% 91.9% 92.7%
+Table5 ComparisonofaveragerecallachievedbyourmodelsontheNeedleInAHaystackevaluation.
+2.1 HumanFeedbackEvaluations
+WeevaluatedClaude3.5SonnetviadirectcomparisontopriorClaudemodels. Weaskedraterstochatwith
+ourmodelsandevaluatethemonanumberoftasks,usingtask-specificinstructions. ThechartsinFigure3
+showthe“winrate”whencomparedtoabaselineofClaude3Opus.3
+Wesawlargeimprovementsincorecapabilitieslikecoding,documents,creativewriting,andvision.Domain
+experts preferred Claude 3.5 Sonnet over Claude 3 Opus, with win rates as high as 82% in Law, 73% in
+Finance,and73%inPhilosophy.
+3Section5.5ofthemainmodelcardexplainshowwinratesarecalculated.
+3
+
+Figure 1 This plot shows recall on the Needle In A Haystack evaluation with a modified prompt. Like
+Claude3Opus,Claude3.5Sonnetachievesnearperfectrecall.
+Figure2 ThisplotshowstheaveragerecallachievedbyourmodelsascontextlengthgrowsintheNeedle
+InAHaystackevaluation.
+4
+
+Finance
+Claude 3.5 Sonnet
+73
+Claude 3 Opus
+50
+Claude 3 Sonnet 46
+Claude 3 Haiku 39
+Claude 2.1 22
+Helpful-Only 0% 10% 20% 30% 40% 50% 60% 70% 80%
+WIN RATE vs. BASELINE →
+Coding Law
+60 82
+50 50
+45 47
+41 37
+33 33
+0% 10% 20% 30% 40% 50% 60% 70% 80% 0% 10% 20% 30% 40% 50% 60% 70% 80%
+WIN RATE vs. BASELINE → WIN RATE vs. BASELINE →
+Documents Medicine
+66 68
+50 50
+46 43
+43 38
+29 22
+0% 10% 20% 30% 40% 50% 60% 70% 80% 0% 10% 20% 30% 40% 50% 60% 70% 80%
+WIN RATE vs. BASELINE → WIN RATE vs. BASELINE →
+Creative Writing Philosophy
+62 73
+50 50
+46 45
+40 41
+34 29
+0% 10% 20% 30% 40% 50% 60% 70% 80% 0% 10% 20% 30% 40% 50% 60% 70% 80%
+WIN RATE vs. BASELINE → WIN RATE vs. BASELINE →
+Multilingual STEM
+55 58
+50 50
+41 40
+39 34
+34 31
+0% 10% 20% 30% 40% 50% 60% 70% 80% 0% 10% 20% 30% 40% 50% 60% 70% 80%
+WIN RATE vs. BASELINE → WIN RATE vs. BASELINE →
+Instruction-Following Honesty
+56 66
+50 50
+38 38
+31 36
+28 42
+0% 10% 20% 30% 40% 50% 60% 70% 80% 12
+WIN RATE vs. BASELINE → 0% 10% 20% 30% 40% 50% 60% 70% 80%
+WIN RATE vs. BASELINE →
+Vision Instruction-Following
+Harmlessness
+61
+50 52
+45 50
+40 47
+0% 10% 20% 30% 40% 50% 60% 70% 80% 50
+WIN RATE vs. BASELINE → 55
+17
+0% 10% 20% 30% 40% 50% 60% 70% 80%
+WIN RATE vs. BASELINE →
+Figure3 Theseplotsshowper-taskhumanpreferencewinratesfor:commonusecases(left),expertknowl-
+edge (top right), and adversarial scenarios (bottom right). Since Claude 3 Opus is the baseline model, it
+alwayshasa50%winrate. (Itbeatsitself50%ofthetime.)
+5
+
+3 Safety
+3.1 Introduction
+This section discusses our safety evaluations and commitments, and how we applied them to Claude 3.5
+Sonnet.
+AnthropichasconductedevaluationsofClaude3.5Sonnetaspartofourongoingcommitmenttoresponsible
+AI development and deployment. While Claude 3.5 Sonnetrepresents an improvement in capabilities over
+ourpreviouslyreleasedOpusmodel,itdoesnottriggerthe4xeffectivecomputethresholdatwhichwewill
+run the full evaluation protocol described in our Responsible Scaling Policy (RSP). We previously ran this
+evaluationprotocolonClaude3Opus,whichyoucanreadabouthere[23].
+Nevertheless, we believe it is important to conduct regular safety testing prior to releasing frontier models,
+evenifnotformallyrequiredbyourRSP.Westillhavealottolearnaboutthescienceofevaluationsandideal
+cadencesforperformingthesetests,andregulartestingallowsustorefineourevaluationmethodologiesfor
+future,morecapablemodels. ThisperspectiveisreflectedinourvoluntaryWhiteHouse[24],G7[25],and
+SeoulSummitFrontierSafety[26]commitmentstodotargetedtestingpriortoanymajormodelrelease.
+OursafetyteamsperformedarangeofevaluationsonClaude3.5SonnetintheareasofChemical,Biological,
+Radiological,andNuclear(CBRN)risks,cybersecurity,andautonomouscapabilities. Basedonourassess-
+ments,weclassifyClaude3.5SonnetasanAISafetyLevel2(ASL-2)model,indicatingthatitdoesnotpose
+riskofcatastrophicharm. Additionally,weworkedwithexternalthirdpartyevaluationpartnerssuchasthe
+UKArtificialIntelligenceSafetyInstitute(UKAISI)toindependentlyassessClaude3.5Sonnet.
+3.2 SafetyEvaluationsOverview
+WeconductedfrontierriskevaluationsfocusingonCBRN,cyber,andautonomouscapabilitiesrisks. Aspart
+ofoureffortstocontinuouslyimproveoursafetytesting,weimprovedontheapproachweusedforClaude
+3Opusbyrefiningourthreatmodelsanddesigningnewandbetterevaluationsforthisroundoftesting. The
+UKAISIalsoconductedpre-deploymenttestingofanear-finalmodel,andsharedtheirresultswiththeUS
+AI Safety Institute as part of a Memorandum of Understanding, made possible by the partnership between
+theUSandUKAISIsannouncedearlierthisyear[27]. Additionally,METR[28]didaninitialexplorationof
+themodel’sautonomy-relevantcapabilities.
+For CBRN, we conducted automated tests of CBRN knowledge and measured the model’s ability to im-
+provenon-expertperformanceonCBRN-relatedtasks. Cybersecuritywasassessedthroughcapture-the-flag
+challengestestingvulnerabilitydiscoveryandexploitdevelopment. Autonomouscapabilitieswereevaluated
+basedonthemodel’sabilitytowritesoftwareengineer-qualitycodethatpassespre-definedcodetests,simi-
+lartotheinternalagenticcodingevaluationdiscussedinSection2. Foreachevaluationdomain,wedefined
+quantitative “thresholds of concern” that, if passed, would be a conservative indication of proximity to our
+ASL-3 threshold of concern. If the model had exceeded our preset thresholds during testing, we planned
+to convene a council consisting of our Responsible Scaling Officer, evaluations leads, and external subject
+matterexpertstodeterminewhetherthemodel’scapabilitieswerecloseenoughtoathresholdofconcernto
+warranteithermoreintensiveevaluationsoranincreaseinsafetyandsecurityprotections.
+Evaluating a Helpful, Honest, and Harmless (HHH)-trained model poses some challenges, because safety
+guardrailscancausecapabilityevaluationstounderestimateamodel’sunderlyingcapabilitiesduetorefusals
+caused by the HHH training. Because our goal was to evaluate for capabilities, we accounted for model
+refusalsinseveralways. First,wemeasuredthedegreeofrefusalsacrosstopics,andfoundthatClaude3.5
+SonnetrefusedASL-3harmfulqueriesadequatelytosubstantiallyreduceitsusefulnessforclearlyharmful
+queries. Second,weemployedinternalresearchtechniquestoacquirenon-refusalmodelresponsesinorder
+toestimatehowthemodelwouldhaveperformedifitweretrainedasaHelpful-onlymodel,insteadofasan
+HHHmodel.NotethatitispossiblethattheresultsunderestimatethecapabilityofanequivalentHelpful-only
+model,becausealignmenttrainingmaycauseittohedgeconcerninganswers.
+3.3 SafetyEvaluationsResults
+We observed an increase in capabilities in risk-relevant areas compared to Claude 3 Opus. The increases
+inperformanceweobservedinClaude3.5Sonnetinrisk-relateddomains, relativetoourpriormodels, are
+consistentwiththeincrementaltrainingandelicitationtechniquesappliedtothismodel. Claude3.5Sonnet
+didnotexceedoursafetythresholdsintheseevaluationsandweclassifyitatASL-2.
+6
+
+References
+[1] D.Rein,B.L.Hou,A.C.Stickland,J.Petty,R.Y.Pang,J.Dirani,J.Michael,andS.R.Bowman,
+“GPQA:AGraduate-LevelGoogle-ProofQABenchmark,”arXivpreprintarXiv:2311.12022(2023).
+[2] D.Hendrycks,C.Burns,S.Basart,A.Zou,M.Mazeika,D.Song,andJ.Steinhardt,“Measuring
+MassiveMultitaskLanguageUnderstanding,”inInternationalConferenceonLearning
+Representations. 2021.
+[3] M.Chen,J.Tworek,H.Jun,Q.Yuan,H.P.d.O.Pinto,J.Kaplan,H.Edwards,Y.Burda,N.Joseph,
+G.Brockman,etal.,“EvaluatingLargeLanguageModelsTrainedonCode,”arXivpreprint
+arXiv:2107.03374(July,2021).
+[4] P.Lu,H.Bansal,T.Xia,J.Liu,C.Li,H.Hajishirzi,H.Cheng,K.-W.Chang,M.Galley,andJ.Gao,
+“MathVista: EvaluatingMathematicalReasoningofFoundationModelsinVisualContexts.”October,
+2023.
+[5] A.Masry,D.X.Long,J.Q.Tan,S.Joty,andE.Hoque,“ChartQA:ABenchmarkforQuestion
+AnsweringaboutChartswithVisualandLogicalReasoning.”2022.
+[6] M.Mathew,D.Karatzas,andC.V.Jawahar,“DocVQA:ADatasetforVQAonDocumentImages.”
+January,2021.
+[7] A.Kembhavi,M.Salvato,E.Kolve,M.Seo,H.Hajishirzi,andA.Farhadi,“ADiagramisWortha
+DozenImages,”ArXivabs/1603.07396(2016).https://api.semanticscholar.org/CorpusID:2682274.
+[8] OpenAI,“HelloGPT-4o.”June,2024. https://openai.com/index/hello-gpt-4o/.
+[9] GeminiTeam,Google,“Gemini1.5: Unlockingmultimodalunderstandingacrossmillionsoftokensof
+context.”May,2024.
+https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf.
+[10] D.Hendrycks,C.Burns,S.Kadavath,A.Arora,S.Basart,E.Tang,D.Song,andJ.Steinhardt,
+“MeasuringMathematicalProblemSolvingWiththeMATHDataset,”NeurIPS(November,2021).
+[11] F.Shi,M.Suzgun,M.Freitag,X.Wang,S.Srivats,S.Vosoughi,H.W.Chung,Y.Tay,S.Ruder,
+D.Zhou,etal.,“LanguageModelsareMultilingualChain-of-ThoughtReasoners,”inInternational
+ConferenceonLearningRepresentations. October,2022.
+[12] D.Dua,Y.Wang,P.Dasigi,G.Stanovsky,S.Singh,andM.Gardner,“DROP:AReading
+ComprehensionBenchmarkRequiringDiscreteReasoningOverParagraphs,”inProceedingsofthe
+2019ConferenceoftheNorthAmericanChapteroftheAssociationforComputationalLinguistics:
+HumanLanguageTechnologies. April,2019.
+[13] A.Srivastava,A.Rastogi,A.Rao,A.A.M.Shoeb,A.Abid,A.Fisch,A.R.Brown,etal.,“Beyond
+theimitationgame: Quantifyingandextrapolatingthecapabilitiesoflanguagemodels.”June,2023.
+[14] M.Suzgun,N.Scales,N.Schärli,S.Gehrmann,Y.Tay,H.W.Chung,A.Chowdhery,Q.V.Le,E.H.
+Chi,D.Zhou,andJ.Wei,“ChallengingBIG-BenchTasksandWhetherChain-of-ThoughtCanSolve
+Them.”October,2022.
+[15] K.Cobbe,V.Kosaraju,M.Bavarian,M.Chen,H.Jun,L.Kaiser,M.Plappert,J.Tworek,J.Hilton,
+R.Nakano,etal.,“TrainingVerifierstoSolveMathWordProblems,”arXivpreprintarXiv:2110.14168
+(November,2021).
+[16] Meta,“IntroducingMetaLlama3: ThemostcapableopenlyavailableLLMtodate.”April,2024.
+https://ai.meta.com/blog/meta-llama-3/.
+[17] OpenAI,“simple-evals.”May,2024. https://github.com/openai/simple-evals/.
+[18] X.Yue,Y.Ni,K.Zhang,T.Zheng,R.Liu,G.Zhang,S.Stevens,etal.,“MMMU:AMassive
+Multi-disciplineMultimodalUnderstandingandReasoningBenchmarkforExpertAGI.”2023.
+[19] W.Zhao,X.Ren,J.Hessel,C.Cardie,Y.Choi,andY.Deng,“(InThe)WildChat: 570KChatGPT
+InteractionLogsInTheWild,”inInternationalConferenceonLearningRepresentations. February,
+2024.
+7
+
+[20] P.Röttger,H.R.Kirk,B.Vidgen,G.Attanasio,F.Bianchi,andD.Hovy,“XSTest: ATestSuitefor
+IdentifyingExaggeratedSafetyBehavioursinLargeLanguageModels.”2023.
+[21] Anthropic,“LongcontextpromptingforClaude2.1.”December,2023.
+https://www.anthropic.com/news/claude-2-1-prompting.
+[22] G.Kamradt,“PressuretestingClaude-2.1200KviaNeedle-in-a-Haystack.”November,2023.
+[23] Anthropic,“ResponsibleScalingPolicyEvaluationsReport–Claude3Opus.”May,2024.
+https://cdn.sanity.io/files/4zrzovbb/website/210523b8e11b09c704c5e185fd362fe9e648d457.pdf.
+[24] “WhiteHouseVoluntaryAICommitments.”July,2023. https://www.whitehouse.gov/wp-content/
+uploads/2023/09/Voluntary-AI-Commitments-September-2023.pdf.
+[25] “HiroshimaProcessInternationalCodeofConductforOrganizationsDevelopingAdvancedAI
+Systems.”October,2023. https://www.mofa.go.jp/files/100573473.pdf.
+[26] “FrontierAISafetyCommitments,AISeoulSummit2024.”May,2024.
+https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/
+frontier-ai-safety-commitments-ai-seoul-summit-2024.
+[27] U.S.DepartmentofCommerce,“U.S.andU.K.AnnouncePartnershiponScienceofAISafety.”April,
+2024. https://www.commerce.gov/news/press-releases/2024/04/
+us-and-uk-announce-partnership-science-ai-safety.
+[28] https://metr.org/.
+8

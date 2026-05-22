@@ -1,0 +1,227 @@
+# SOURCE: https://www.adobe.com/products/firefly.html
+# ENTRY: 46 | COMPANY: Adobe | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg
+Adobe Firefly. Create like never before.
+It’s never been easier to bring your ideas to life. Generate and edit images, video, audio, and designs using top AI models from Adobe, Google, OpenAI, Kling AI, and more.
+Create now
+https://main--da-cc--adobecom.aem.page/cc-shared/ff-gallery-assets.json
+base-offset=100px
+parallax-distance=70px
+Tablet-base-offset=350px
+Tablet-parallax-distance=-250px
+base-offset=160px
+parallax-distance=10px
+Tablet-base-offset=200px
+Tablet-parallax-distance=-300px
+base-offset=50px
+parallax-distance=-80px
+Tablet-base-offset=-80px
+Tablet-parallax-distance=-550px
+base-offset=-70px
+parallax-distance=-130px
+Tablet-base-offset=-450px
+Tablet-parallax-distance=-50px
+style
+dark
+background
+#000
+Create with Firefly.
+Seamlessly generate and edit video and images.
+image
+video
+Adobe models
+Commercially safe
+Partner models
+Models created by others
+https://main--cc--adobecom.aem.live/creativecloud/animation/testdoc/unity/generate.svg
+Generate
+Describe what you want to generate
+ff_campaign=embed_generate_acom&promoid=NQCJQWSV&mv=other
+Unable to process the request
+Please describe what you want to generate.
+Prompt exceeds the max length of 750 characters
+AI MODELS
+Create with multiple top AI models, all in one place.
+Choose
+top AI models
+from Adobe, Google, OpenAI, Runway, and more to create your best content ever.
+background
+#FFF
+style
+grid-width-8, xxl-spacing-top, xl-top-rounded-corners, static links
+#FFF
+One login. Multiple top AI models.
+Mix and layer outputs to best suit your vision. More models means more creative range, and you get them all with one login.
+#FFF
+The AI you need. When you need it.
+Whether you’re doing full-on generative AI work, or just getting a fast workflow assist, you always have the right model for the job.
+#FFF
+Astounding power. Abundant controls.
+Make the most of these advanced AI capabilities with the creative control you expect from Adobe. It’s all included.
+style
+Three up, s spacing top, spacing bottom 180
+background
+#FFF
+https://main--da-cc--adobecom.aem.page/cc-shared/fragments/products/firefly/firefly-ai-assistant-blade
+FEATURES
+Get started creating with Firefly.
+The industry-leading generative AI tools for images, video, audio, and vectors are in the Firefly app.
+View all features.
+background
+#F0F0F7
+style
+xxl-spacing-top, xl-top-rounded-corners, static links
+https://main--da-cc--adobecom.aem.page/cc-shared/fragments/products/firefly/editorial-carousel-firefly
+FLEXIBILITY
+Firefly is for everyone.
+From generating podcast thumbnails and graphics to prototyping complete brand campaigns, Firefly has the AI models and design tools you need to go from initial idea to final product.
+background
+#FFF
+style
+grid-width-8, xxl-spacing-top, xl-top-rounded-corners
+#FFF
+Content creators and video editors.
+Generate sound effects, cinematic b-roll, and atmospheric layers like smoke, water, or lens flares. Translate videos into multiple languages without losing tone and timing.
+#FFF
+Art directors and marketers.
+Explore, organize, and edit ideas in Firefly Boards. Brainstorm, ideate, and iterate on projects, then bring your designs into Adobe Photoshop or Adobe Express for refining.
+#FFF
+Design teams who collaborate.
+Explore and create faster with teammates on an infinite canvas. Visualize, test, and align on ideas for mood boards, storyboards, brand identities, and mock-ups.
+style
+Three up, s spacing top, xxl spacing bottom
+background
+#FFF
+style
+xxl spacing bottom, no-spacing-bottom-mobile, no-spacing-bottom-tablet
+BE SEEN
+Remix content from the community.
+Discover Firefly prompts to remix and submit your own images to the gallery.
+text2Image | NQCJQWSV
+View
+Explore the Gallery
+style
+dark
+“Adobe Firefly unleashed our creativity. It’s a magic machine that helps us play, explore, and innovate, without compromising speed or safety.”
+Michael Meurer – Global Design Lead
+background
+#F0F0F7
+https://main--da-cc--adobecom.aem.page/cc-shared/fragments/products/firefly/segment-blade
+https://main--da-cc--adobecom.aem.page/cc-shared/fragments/products/firefly/create-consistent-images-at-scale-aside
+https://main--da-cc--adobecom.aem.page/cc-shared/fragments/products/firefly/drive-business-results-aside
+con-block-row-bgcolor
+#000
+FIREFLY ON MOBILE
+Introducing the Adobe Firefly mobile app.
+Quickly ideate and generate eye-catching content wherever inspiration strikes with the power of creative AI in the palm of your hand.
+Learn more
+Discover popular features and partner models.
+AI image generator
+AI video generator
+AI video editor
+AI image editor
+Nano Banana
+FLUX
+Runway
+Luma
+GPT Image
+ElevenLabs
+Topaz
+Questions? We have answers.
+What is {{Adobe Firefly}}?
+Adobe Firefly is family of creative generative AI models. Features powered by Firefly are embedded in Adobe’s flagship apps and Adobe Stock.
+Firefly is the natural extension of the technology Adobe has produced over the past 40 years, driven by the belief that people should be empowered to bring their ideas into the world precisely as they imagine them.
+What is generative AI?
+Generative AI
+is a type of artificial intelligence that can translate text and other inputs into extraordinary results. While the conversation around this technology has centered on AI image and art generation, generative AI can do much more than generate static images from text prompts. With a few simple words and the right AI generator, anyone can create videos, documents, and digital experiences, as well as rich images and art. AI art generators can also be useful for producing “creative building blocks” like brushes, vectors, and textures that can add to or form the foundation of pieces of content.
+What is Adobe doing to ensure AI-generated images are created responsibly?
+As part of our work to design Firefly to be commercially safe, we trained our first Firefly model on licensed images from Adobe Stock and public domain content where copyright has expired.
+We perform internal testing on our generative AI models to mitigate against any harmful biases or stereotypes. We also provide feedback mechanisms so users can report potentially biased outputs and we can remediate any concerns.
+In addition, Adobe is committed to building trust and transparency into digital content with
+Content Credentials
+. Content Credentials function as a digital "nutrition label" that can show important information about how and when content was created and modified, including whether and how AI was used. Adobe automatically attaches Content Credentials to images created in Firefly to show that they were AI generated. This level of transparency gives creators a way to authenticate their content and helps consumers make informed decisions about content they see online.
+This is the mission behind cross-industry coalition the Content Authenticity Initiative (CAI). The CAI was co-founded by Adobe in 2019 and now counts more than 3,300 members including tech companies, news organizations, NGOs, academia and more. The CAI works alongside the
+Coalition for Content Provenance and Authenticity
+(C2PA) industry standards organization, which developed the technical specification for provenance technology used in Content Credentials.
+What is the best AI image and video generator?
+We believe the best AI text-to-image and text-to-video generators help creators go from prompt to polished images and videos fast, without sacrificing creative control. Adobe Firefly and Adobe partner models make this easy with intuitive features that allow you to turn text prompts into
+images
+and
+videos
+, turn
+images into videos
+,
+generate sound effects
+, and collaborate in
+Firefly Boards
+.
+How does Adobe Firefly compare to other AI image, video, and audio generators?
+Firefly offers enhanced visual effects, brand safety, generated images with higher quality, more detail, and improved lighting and color, and deep creative control. It supports the use of industry-leading partner models for images, video, and vectors, as well as cinematic output, real motion elements, and Adobe integration.
+How do I generate a video using Firefly?
+Log in to Firefly and select Text to Video or Image to Video. Write a text prompt that includes details like style, angle, effects, and subjects, or upload an image and add a prompt to bring it to life. Click Generate to create your video, then refine by adjusting settings such as aspect ratio, camera angle, or motion. Once you’re happy, download or share your MP4 in just a few clicks.
+Learn more about generating videos
+.
+Which {{Creative-Cloud-apps}} have Firefly?
+We are bringing Adobe Firefly to Creative Cloud apps. Features powered by Firefly can currently be found inside
+{{Photoshop}}
+,
+{{Illustrator}}
+,
+{{Adobe-Express}}
+,
+{{Substance-3D}}
+,
+{{InDesign}}
+,
+{{lightroom}}
+and
+{{Adobe-Stock}}
+.
+What are generative credits?
+Your Creative Cloud, Adobe Express, Firefly, or Adobe Stock subscription includes monthly generative credits that give you access to content creation features powered by Firefly.
+Find out more about generative credits.
+What languages does Firefly support?
+Firefly is bringing the power of generative AI to global audiences by supporting over 100 languages for text prompt inputs. For audio and video translation, Firefly supports over 20 languages.
+What is the difference between Firefly Image models?
+The newer generation of image generation models within Firefly produces higher quality images, better interpretation of prompts, and more accurate text in images.
+Where does Firefly get its data from?
+As part of our work to design Firefly to be commercially safe, we trained our first Firefly model on licensed images from Adobe Stock and public domain content where copyright has expired.
+We also provide our customers with the ability to train their own Custom Models so they can easily generate content with their own styles, subjects and/or brand language.
+Does Adobe train Firefly with Adobe Stock editorial content?
+No. Adobe Stock's editorial content is not used to train Adobe Firefly's generative AI models.
+As an Adobe customer, will I have my content used automatically to train Firefly?
+No. We do not train on any Creative Cloud subscribers’ personal content. For Adobe Stock contributors, the content is part of the Firefly training dataset, in accordance with Stock Contributor license agreements.
+What is Adobe’s approach to ethics in generative AI?
+We have developed and deployed
+generative AI
+at Adobe in accordance with our AI ethics principles of accountability, responsibility, and transparency. Read about
+AI ethics at Adobe
+to learn more about our approach and commitment to developing generative AI in a way that respects our customers and aligns with our company values.
+What is Adobe doing to ensure that Firefly is commercially safe?
+As part of Adobe’s effort to design Firefly to be commercially safe, we are training our initial commercial Firefly model on licensed content, such as Adobe Stock, and public domain content where copyright has expired.
+Can I use Firefly-generated outputs in commercial projects?
+Outputs from generative AI features without the beta label can be used commercially. Outputs from generative AI beta features can be used commercially unless otherwise designated in the product or elsewhere, but these outputs are not eligible for indemnification while in beta.
+What is Adobe GenStudio? How does it relate to Firefly?
+Adobe Firefly is an integral part of Adobe GenStudio — a generative AI-first offering for marketers to quickly plan, create, manage, activate, and measure on-brand content. Adobe GenStudio natively integrates Adobe Experience Cloud and Creative Cloud applications like Frame.io, Adobe Express, and Firefly Services to automate content production at scale.
+What is Firefly Services?
+Firefly Services is a comprehensive set of generative AI and creative APIs, tools and services for content generation, editing, and assembly, empowering organizations to automate the production of content while maintaining quality and control. These new generative AI capabilities powered by Adobe Firefly help organizations automate content production and tailor it to their brand. Learn more
+here|Here about What is Firefly services
+.
+style
+container, static links
+Adobe Firefly. Your AI-powered creative space.
+image
+video
+Adobe models
+Commercially safe
+Partner models
+Models created by others
+https://main--cc--adobecom.aem.live/creativecloud/animation/testdoc/unity/generate.svg
+Generate
+Describe what you want to generate
+ff_campaign=embed_generate_acom&promoid=NQCJQWSV&mv=other
+Unable to process the request
+Please describe what you want to generate.
+Prompt exceeds the max length of 750 characters

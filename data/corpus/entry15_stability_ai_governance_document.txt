@@ -1,0 +1,107 @@
+# SOURCE: https://stability.ai/news-updates/stability-ais-annual-integrity-transparency-report
+# ENTRY: 15 | COMPANY: Stability AI | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Stability AI’s Annual Integrity Transparency Report
+Sep 17
+Written By
+Guest User
+Key Takeaways:
+At Stability AI, we are committed to building and deploying generative AI responsibly, and we believe that transparency is foundational to safe and ethical AI.
+This transparency report is part of our ongoing effort to share meaningful information about how our models are developed and released with safety-by-design principles at the forefront.
+You can read the full report on our
+Child Safety page
+.
+Purpose
+:
+At Stability AI, we are committed to building and deploying generative AI responsibly, and we believe that transparency is foundational to safe and ethical AI. This transparency report is part of our ongoing effort to share meaningful information about how our models are developed and released with
+Safety by Design
+principles at the forefront. We want to provide visibility into our safety practices, including how we design, test, and monitor our AI systems. We also share how we prevent and respond to misuse. Through this report, we aim to foster accountability and build trust with users, developers, researchers, and policymakers.
+Scope:
+Video, Image, 3D and Audio models, also available through our Application Programming Interface (API).
+Time Period:
+April 2024 - April 2025
+Model Safety Approach
+Stability AI is deeply committed to preventing the misuse of our technology. We take our ethical responsibilities very seriously and have implemented robust safeguards to enhance our safety standards to protect against bad actors.
+Our mission to prevent harmful content starts when we are assessing datasets and conducting risk assessments prior to the release of any new model.  Our approach to preventing harmful content focuses on three key areas:  1) eliminating harmful content from our training data, (2) preventing users from using our models to generate harmful content, and (3) enforcement of our
+Acceptable Use Policy
+(AUP), which prohibits harmful content.
+Our policy is to report any Child Sexual Exploitation Material (CSAM) to the
+National Center for Missing and Exploited Children
+(NCMEC) via their
+CyberTipline
+who triages and disseminates these reports to appropriate law enforcement agencies.
+Safety and Responsible AI Practices
+Our foundational models are developed using three primary sources of data information: (1) data that is publicly available on the internet, (2) data that we partner with third parties to access, and (3) synthetic data that our researchers generate.
+Our training data used for our image, video, and 3D models is derived from open datasets and from responsibly sourced and publicly available websites.  Model cards are available online.  We do not collect data from sources that proliferate harmful content, like the dark web or adult websites. We also do not intentionally collect data from sources that are behind paywalls.
+We use
+not-suitable-for-work (NSFW) classifiers built in-house and open source classifiers to filter training data. We have also run industry CSAM hashlists from
+Thorn's Safer
+and from the
+Internet Watch Foundation
+(IWF) across a subset of our current training data, and have not detected any CSAM to date.
+Here are our training data metrics for the reporting period:
+The number of instances of CSAM and CSEM detected in our training datasets: 0%
+Model and Platform API Safety
+With respect to our efforts to ensure that our models do not generate harmful content, we apply multiple layers of mitigation, both at the platform API level and model level.
+At the platform API level, we implement real-time safeguards such as content filters and classifiers to detect policy-violating inputs and outputs. We also integrate CSAM hashing systems to detect, block and report known CSAM. Together, these layered mitigations help enforce our safety policies and support responsible use of our technology.
+At the model level, we use techniques such as fine-tuning and safety LoRAs, informed by insights from structured red teaming (probing the model for policy-violating or harmful outputs), prior to releasing the model.
+Red Teaming
+Our Integrity team assesses the model’s risks by red teaming. Red teaming is a core part of our safety evaluation process that focuses on identifying and mitigating severe risks.This involves engaging both internal and external experts to test our models for potential harms. These structured evaluations help us uncover potential risk failure modes, improve our safeguards, and inform our deployment decisions. Red teaming is an ongoing process that evolves alongside our models, allowing us to proactively address emerging risks as capabilities advance.
+We have developed an approach to access CSAM/CSEM generation capabilities by red teaming using adult nudity/sexual activity prompts as indicators. We have also collaborated with Online CSEA Covert Intelligence Team (OCCIT, a UK law enforcement unit) to conduct red teaming exercises on our Stable Diffusion 3 model prior to release and no CSAM was able to be generated. If harmful capabilities are identified through our red-teaming process, the model undergoes further safety fine-turning to remove those concepts prior to any release.
+Here are our red teaming metrics for the reporting period:
+The percentage of generative AI models that have been stress-tested for CSAM and CSEM capabilities
+(leveraging prompts containing depictions of adult nudity and adult sexual activities)
+: 100%
+The percentage of generative AI models that were discovered to have CSAM and CSEM related issues, as a result of this stress-testing: 0%
+Age Requirements
+Consumers using any Stability AI technology to create content must first agree to the Company’s AUP. As outlined in the AUP, users must be 18 years of age or older and must agree to not use, or allow others to use, our technology to, among other things, (1) violate the law; (2) facilitate hateful or discriminatory content, exploit or harm children; or (3) deceive or mislead others, including facilitating disinformation.
+Provenance
+At Stability AI, we implement
+Coalition for Content Provenance and Authenticity
+(C2PA) through our API to help users and content distribution platforms identify AI-generated content. Images, video, as well as our API wav. generated audio media (which is focused on sound effects and instrument riffs, without CSEM risks) generated through our API are tagged with metadata indicating the content was produced with a generative AI tool. This metadata includes the model name and version number used to generate the content. Once generated, the metadata is digitally sealed with a cryptographic Stability AI certificate and stored within the file.
+Content provenance has not been implemented during the content generation process for our openly released models. These are areas that require further work to strengthen provenance and traceability across our systems.
+While we have found challenges with other types of watermarking solutions (non-C2PA) that resulted in quality degradation of image output, we are continuously exploring more effective and reliable ways to address provenance and content authenticity. As we advance our research and deployment, we remain committed to improving provenance tools that are both robust and preserve the integrity of generated content.
+Content Moderation
+Our Integrity team engages in content moderation that involves both automated tools and human review to evaluate or enforce suspected or attempted misuse of its products.
+Automated Detection:
+We enforce our policies through model refusals by blocking violatory content. We have built in-house text filters and NSFW image classifiers with performance to detect prompts, images and videos that violate our policies. We focus on controls that operate at the point where a user is seeking to upload or generate an image:
+We have implemented prompt filters, which apply to the textual prompts and instructions a user provides to generate an image. These filters seek to block users from creating images that would potentially violate our AUP, including CSAM.
+We have developed an NSFW image classifier that flags image and video uploads that could potentially violate the AUP and blocks any generation of content.
+Stability AI compares all uploaded images to a hash database of known CSAM images maintained by third-party service provider Thorn. If a user attempts to upload an image that matches, the image gets rejected.
+Human Review:
+To allow us to monitor user activities, we have a content moderation team in-house and externally. Our content moderators review flagged prompts and images as well as a subset of non-flagged content, and apply enforcement actions as needed. When CSAM is detected in a user’s Stability AI account, we take appropriate action, including submitting a CyberTipline report to NCMEC. We may also enforce additional measures on the account, such as with warnings or disabling the account entirely. Our content moderation specialists also engage directly with business customers when downstream users attempt to misuse our product. For example, our API allows businesses to pass a unique identifier that helps them trace activity back to specific end users and take action.
+Notices and Appeals:
+We believe in transparent communication when enforcement actions are taken. We communicate decisions to the user in writing, and also provide the user an option to
+appeal
+the decision.
+NCMEC Reporting
+Stability AI is dedicated to combating online CSAM, which is prohibited by our AUP. We report all instances of CSAM to the National Center for Missing and Exploited Children (NCMEC), who then forward these reports to law enforcement agencies globally. To uphold this commitment, comprehensive policies and rigorous training programs have been established to ensure that any instance of detected CSAM through our APIs is promptly and accurately reported to NCMEC.
+All Integrity employees are educated on the identification of CSAM and the critical steps for its immediate reporting. This training covers the legal obligations surrounding its detection, and the precise procedures for submitting reports to NCMEC. By close collaboration with NCMEC we are actively contributing to the global fight against child exploitation.
+Here are our NCMEC metrics for the reporting period:
+Total number of reports sent from Stability AI to NCMEC: 13
+Note: Multiple reports may be submitted for the same user such as when more than one image upload attempt was detected.
+User Reporting
+Anyone can
+report misuse
+that they may suspect is taking place on our platform and provide feedback to our safety team.
+There has been no user reports submitted to Stability AI for CSAM and CSEM related model violations.
+Collaboration
+We have established leading collaborations across industry and government to prevent misuse, including:
+In April 2024, we announced our commitment to join
+Thorn
+and
+All Tech Is Human
+to enact child safety commitments for Gen AI through Safety by Design.
+In July 2024, we announced our partnership with the
+Internet Watch Foundation
+(IWF), to tackle the creation of AI generated child sexual abuse imagery online.
+In July 2024, we joined
+Tech Coalition's Pathways
+program for expert advice, resources and opportunities to further build capacity to combat online child sexual exploitation and abuse.
+Looking Ahead
+As part of our ongoing commitment to responsible AI development and deployment, we are actively taking steps to align our practices with emerging responsible AI frameworks. This includes conducting internal audits, updating risk management processes, scaling our technology, and refining our transparency, safety, and human oversight protocols to meet evolving ethical standards. We are also closely monitoring regulatory developments and will continue to adapt our systems, documentation, and operational practices to ensure our compliance.
+You can read the full report below as well as on our
+Child Safety page
+.
+Guest User

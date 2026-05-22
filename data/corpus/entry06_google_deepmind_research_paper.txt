@@ -1,0 +1,309 @@
+# SOURCE: https://arxiv.org/abs/2201.08239
+# ENTRY: 6 | COMPANY: Google DeepMind | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Computer Science > Computation and Language
+arXiv:2201.08239
+(cs)
+[Submitted on 20 Jan 2022 (
+v1
+), last revised 10 Feb 2022 (this version, v3)]
+Title:
+LaMDA: Language Models for Dialog Applications
+Authors:
+Romal Thoppilan
+,
+Daniel De Freitas
+,
+Jamie Hall
+,
+Noam Shazeer
+,
+Apoorv Kulshreshtha
+,
+Heng-Tze Cheng
+,
+Alicia Jin
+,
+Taylor Bos
+,
+Leslie Baker
+,
+Yu Du
+,
+YaGuang Li
+,
+Hongrae Lee
+,
+Huaixiu Steven Zheng
+,
+Amin Ghafouri
+,
+Marcelo Menegali
+,
+Yanping Huang
+,
+Maxim Krikun
+,
+Dmitry Lepikhin
+,
+James Qin
+,
+Dehao Chen
+,
+Yuanzhong Xu
+,
+Zhifeng Chen
+,
+Adam Roberts
+,
+Maarten Bosma
+,
+Vincent Zhao
+,
+Yanqi Zhou
+,
+Chung-Ching Chang
+,
+Igor Krivokon
+,
+Will Rusch
+,
+Marc Pickett
+,
+Pranesh Srinivasan
+,
+Laichee Man
+,
+Kathleen Meier-Hellstern
+,
+Meredith Ringel Morris
+,
+Tulsee Doshi
+,
+Renelito Delos Santos
+,
+Toju Duke
+,
+Johnny Soraker
+,
+Ben Zevenbergen
+,
+Vinodkumar Prabhakaran
+,
+Mark Diaz
+,
+Ben Hutchinson
+,
+Kristen Olson
+,
+Alejandra Molina
+,
+Erin Hoffman-John
+,
+Josh Lee
+,
+Lora Aroyo
+,
+Ravi Rajakumar
+,
+Alena Butryna
+,
+Matthew Lamm
+,
+Viktoriya Kuzmina
+,
+Joe Fenton
+,
+Aaron Cohen
+,
+Rachel Bernstein
+,
+Ray Kurzweil
+,
+Blaise Aguera-Arcas
+,
+Claire Cui
+,
+Marian Croak
+,
+Ed Chi
+,
+Quoc Le
+View a PDF of the paper titled LaMDA: Language Models for Dialog Applications, by Romal Thoppilan and 59 other authors
+View PDF
+Abstract:
+We present LaMDA: Language Models for Dialog Applications. LaMDA is a family of Transformer-based neural language models specialized for dialog, which have up to 137B parameters and are pre-trained on 1.56T words of public dialog data and web text. While model scaling alone can improve quality, it shows less improvements on safety and factual grounding. We demonstrate that fine-tuning with annotated data and enabling the model to consult external knowledge sources can lead to significant improvements towards the two key challenges of safety and factual grounding. The first challenge, safety, involves ensuring that the model's responses are consistent with a set of human values, such as preventing harmful suggestions and unfair bias. We quantify safety using a metric based on an illustrative set of human values, and we find that filtering candidate responses using a LaMDA classifier fine-tuned with a small amount of crowdworker-annotated data offers a promising approach to improving model safety. The second challenge, factual grounding, involves enabling the model to consult external knowledge sources, such as an information retrieval system, a language translator, and a calculator. We quantify factuality using a groundedness metric, and we find that our approach enables the model to generate responses grounded in known sources, rather than responses that merely sound plausible. Finally, we explore the use of LaMDA in the domains of education and content recommendations, and analyze their helpfulness and role consistency.
+Subjects:
+Computation and Language (cs.CL)
+; Artificial Intelligence (cs.AI)
+Cite as:
+arXiv:2201.08239
+[cs.CL]
+(or
+arXiv:2201.08239v3
+[cs.CL]
+for this version)
+https://doi.org/10.48550/arXiv.2201.08239
+Focus to learn more
+arXiv-issued DOI via DataCite
+Submission history
+From: Romal Thoppilan [
+view email
+]
+[v1]
+Thu, 20 Jan 2022 15:44:37 UTC (1,502 KB)
+[v2]
+Fri, 21 Jan 2022 19:41:03 UTC (1,521 KB)
+[v3]
+Thu, 10 Feb 2022 16:30:11 UTC (1,520 KB)
+Full-text links:
+Access Paper:
+View a PDF of the paper titled LaMDA: Language Models for Dialog Applications, by Romal Thoppilan and 59 other authors
+View PDF
+TeX Source
+view license
+Current browse context:
+cs.CL
+< prev
+|
+next >
+new
+|
+recent
+|
+2022-01
+Change to browse by:
+cs
+cs.AI
+References & Citations
+NASA ADS
+Google Scholar
+Semantic Scholar
+6 blog links
+(
+what is this?
+)
+DBLP
+- CS Bibliography
+listing
+|
+bibtex
+Noam Shazeer
+Heng-Tze Cheng
+Yaguang Li
+Hongrae Lee
+Amin Ghafouri
+...
+export BibTeX citation
+Loading...
+BibTeX formatted citation
+×
+loading...
+Data provided by:
+Bookmark
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer
+(
+What is the Explorer?
+)
+Connected Papers Toggle
+Connected Papers
+(
+What is Connected Papers?
+)
+Litmaps Toggle
+Litmaps
+(
+What is Litmaps?
+)
+scite.ai Toggle
+scite Smart Citations
+(
+What are Smart Citations?
+)
+Code, Data, Media
+Code, Data and Media Associated with this Article
+alphaXiv Toggle
+alphaXiv
+(
+What is alphaXiv?
+)
+Links to Code Toggle
+CatalyzeX Code Finder for Papers
+(
+What is CatalyzeX?
+)
+DagsHub Toggle
+DagsHub
+(
+What is DagsHub?
+)
+GotitPub Toggle
+Gotit.pub
+(
+What is GotitPub?
+)
+Huggingface Toggle
+Hugging Face
+(
+What is Huggingface?
+)
+Links to Code Toggle
+Papers with Code
+(
+What is Papers with Code?
+)
+ScienceCast Toggle
+ScienceCast
+(
+What is ScienceCast?
+)
+Demos
+Demos
+Replicate Toggle
+Replicate
+(
+What is Replicate?
+)
+Spaces Toggle
+Hugging Face Spaces
+(
+What is Spaces?
+)
+Spaces Toggle
+TXYZ.AI
+(
+What is TXYZ.AI?
+)
+Related Papers
+Recommenders and Search Tools
+Link to Influence Flower
+Influence Flower
+(
+What are Influence Flowers?
+)
+Core recommender toggle
+CORE Recommender
+(
+What is CORE?
+)
+Author
+Venue
+Institution
+Topic
+About arXivLabs
+arXivLabs: experimental projects with community collaborators
+arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.
+Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.
+Have an idea for a project that will add value for arXiv's community?
+Learn more about arXivLabs
+.
+Which authors of this paper are endorsers?
+|
+Disable MathJax
+(
+What is MathJax?
+)

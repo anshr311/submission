@@ -1,0 +1,16 @@
+# SOURCE: https://clova.ai/hyperclova
+# ENTRY: 24 | COMPANY: Naver | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+출처
+HyperCLOVA X 점수
+타사 4모델 점수
+K-MMLU – Korean-Specific Subset
+55.21
+54.89
+HAE-RAE Bench [LREC-COLING 2024 발표]
+84.14
+68.2
+KorNAT – Common Knowledge Alignment (CKA)
+70.7
+38.6

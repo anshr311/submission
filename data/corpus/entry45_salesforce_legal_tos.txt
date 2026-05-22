@@ -1,0 +1,10 @@
+# SOURCE: https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/
+# ENTRY: 45 | COMPANY: Salesforce | DATE: 2026-05-21
+# METHOD: playwright
+
+Access Denied
+You don't have permission to access "http://www.salesforce.com/company/legal/sfdc-website-terms-of-service/" on this server.
+
+Reference #18.c5543f17.1779324932.b384dbfb
+
+https://errors.edgesuite.net/18.c5543f17.1779324932.b384dbfb

@@ -1,0 +1,64 @@
+# SOURCE: https://newsroom.snap.com/
+# ENTRY: 40 | COMPANY: Snap Inc. | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+The Future of Ads Is Conversational: Introducing AI Sponsored Snaps
+Read More
+Latest News
+Snapchat
+05.20.26
+Announcing Unified Attribution on Snapchat
+A Smarter and Easier Way to Optimize Campaigns
+Read More
+Spectacles
+05.11.26
+Inside the First Spectacles Developer Bootcamp
+Last month, we welcomed 45 of our most active Spectacles developers to Snap Inc.’s Santa Monica headquarters for a full day with the engineering teams building the platform.
+Read More
+Spectacles
+04.29.26
+Save the Date: Evan Spiegel to Speak at AWE on June 16, 2026
+Snap Inc. co-founder and CEO Evan Spiegel will headline
+Augmented World Expo
+(AWE) USA 2026 with a keynote address titled “Making Computing More Human.”
+Read More
+Snapchat
+04.28.26
+The Future of Ads Is Conversational: Introducing AI Sponsored Snaps
+Today, we’re introducing AI Sponsored Snaps, a new way for brands to show up in Chat through AI agents that Snapchatters can interact with directly.
+Read More
+Snapchat
+04.22.26
+Introducing Place Loyalty on Snap Map
+Celebrate the places you love most – and see how your visits stack up
+Read More
+Snap Inc.
+04.20.26
+Chief Financial Officer Transition
+Snap Inc. CEO Evan Spiegel sent the following note to Snap Inc. team members on April 20, 2026.
+Read More
+Snap Inc.
+04.15.26
+Organizational Changes at Snap
+Snap Inc. CEO Evan Spiegel sent the following note to Snap Inc. team members on April 15, 2026.
+Read More
+Spectacles
+04.10.26
+Snap and Qualcomm Expand Strategic Collaboration
+Long-term agreement brings Snapdragon XR solutions to future generations of Specs, strengthening the platform for developers and customers
+Read More
+Snap Inc.
+is a technology company
+Snap Inc.
+is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.
+The Company operates Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world, and Specs Inc., a wholly-owned subsidiary dedicated to making computing more human, in addition to Bitmoji, Saturn, and other digital services.
+Over 900 Million
+use Snapchat every month, on average.
+Over 350 Million
+Snapchatters engage with augmented reality every day, on average.
+Get in touch
+Email press@snap.com.
+For all other inquiries, please visit our
+Support site
+.
+Download our Brand Guidelines

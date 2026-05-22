@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+
+# Generated outputs (re-creatable by running score_ads.py)
+ads_scores.csv

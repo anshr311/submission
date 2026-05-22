@@ -1,0 +1,143 @@
+filename,company,revenue_model,document_type,sentences,ADS_raw,ADS_weighted
+entry01_anthropic_ceo_essay.txt,Anthropic,Personal AI Subscription,CEO Essay,306,2.61,2.61
+entry01_anthropic_governance_document.txt,Anthropic,Personal AI Subscription,Governance Document,38,10.53,8.77
+entry01_anthropic_legal_aup.txt,Anthropic,Personal AI Subscription,Legal / AUP,30,0.0,0.0
+entry01_anthropic_legal_tos.txt,Anthropic,Personal AI Subscription,Legal / AUP,30,0.0,0.0
+entry01_anthropic_marketing_launch_blo.txt,Anthropic,Personal AI Subscription,Marketing / Launch Blog,73,1.37,0.46
+entry01_anthropic_model_card.txt,Anthropic,Personal AI Subscription,Model Card,57,0.0,0.0
+entry01_anthropic_research_paper.txt,Anthropic,Personal AI Subscription,Research Paper,68,19.12,19.12
+entry02_anthropic_ceo_essay.txt,Anthropic,Personal AI Subscription,CEO Essay,306,2.61,2.61
+entry02_anthropic_governance_document.txt,Anthropic,Personal AI Subscription,Governance Document,38,10.53,8.77
+entry02_anthropic_marketing_lau2.txt,Anthropic,Personal AI Subscription,Marketing / Launch Blog,49,0.0,0.0
+entry02_anthropic_marketing_launch_blo.txt,Anthropic,Personal AI Subscription,Marketing / Launch Blog,42,0.0,0.0
+entry02_anthropic_model_card.txt,Anthropic,Personal AI Subscription,Model Card,108,0.0,0.0
+entry02_anthropic_research_paper.txt,Anthropic,Personal AI Subscription,Research / Technical Blog,60,0.0,0.0
+entry02_anthropic_research_technical_b.txt,Anthropic,Personal AI Subscription,Research / Technical Blog,60,0.0,0.0
+entry03_openai_ceo_essay.txt,OpenAI,Consumer Subscription,CEO Essay,73,2.74,2.74
+entry03_openai_governance_document.txt,OpenAI,Consumer Subscription,Governance Document,70,0.0,0.0
+entry03_openai_legal_tos.txt,OpenAI,Consumer Subscription,Legal / ToS,162,0.0,0.0
+entry03_openai_marketing_launch_blo.txt,OpenAI,Consumer Subscription,Marketing / Launch Blog,29,3.45,3.45
+entry03_openai_model_card.txt,OpenAI,Consumer Subscription,Model Card,289,0.69,0.69
+entry03_openai_research_paper.txt,OpenAI,Consumer Subscription,Research Paper,67,1.49,1.49
+entry04_openai_ceo_essay.txt,OpenAI,Consumer Subscription,CEO Essay,73,2.74,2.74
+entry04_openai_governance_document.txt,OpenAI,Consumer Subscription,Governance Document,70,0.0,0.0
+entry04_openai_marketing_launch_blo.txt,OpenAI,Consumer Subscription,Marketing / Launch Blog,124,0.81,0.81
+entry04_openai_model_card.txt,OpenAI,Consumer Subscription,Model Card,324,1.23,1.23
+entry04_openai_research_paper.txt,OpenAI,Consumer Subscription,Research Paper,31,0.0,0.0
+entry05_openai_governance_document.txt,OpenAI,Consumer Subscription,Governance Document,331,0.91,0.91
+entry05_openai_marketing_lau3.txt,OpenAI,Consumer Subscription,Marketing / Launch Blog,100,1.0,1.0
+entry05_openai_marketing_launch_blo.txt,OpenAI,Consumer Subscription,Marketing / Launch Blog,148,1.35,1.35
+entry05_openai_model_card.txt,OpenAI,Consumer Subscription,Model Card,14,0.0,0.0
+entry05_openai_research_paper.txt,OpenAI,Consumer Subscription,Research Paper,67,1.49,1.49
+entry06_google_deepmind_ceo_essay.txt,Google DeepMind,Consumer Subscription,CEO Essay,31,0.0,0.0
+entry06_google_deepmind_governance_document.txt,Google DeepMind,Consumer Subscription,Governance Document,24,0.0,0.0
+entry06_google_deepmind_marketing_launch_blo.txt,Google DeepMind,Consumer Subscription,Marketing / Launch Blog,105,1.9,1.9
+entry06_google_deepmind_research_paper.txt,Google DeepMind,Consumer Subscription,Research Paper,33,0.0,0.0
+entry07_meta_ceo_essay.txt,Meta,Advertising,CEO Essay,99,0.0,0.0
+entry07_meta_governance_document.txt,Meta,Advertising,Governance Document,25,0.0,0.0
+entry07_meta_marketing_launch_blo.txt,Meta,Advertising,Marketing / Launch Blog,57,0.0,0.0
+entry07_meta_research_paper.txt,Meta,Advertising,Research Paper,35,0.0,0.0
+entry08_xai_governance_document.txt,xAI,Personal AI Subscription,Governance Document,141,0.71,0.71
+entry08_xai_legal_aup.txt,xAI,Personal AI Subscription,Legal / AUP,114,0.0,0.0
+entry08_xai_marketing_launch_blo.txt,xAI,Personal AI Subscription,Marketing / Launch Blog,209,0.0,0.0
+entry08_xai_model_card.txt,xAI,Personal AI Subscription,Model Card,172,0.58,0.58
+entry09_mistral_ai_governance_document.txt,Mistral AI,Nonprofit / Open Source,Governance Document,41,0.0,0.0
+entry09_mistral_ai_marketing_launch_blo.txt,Mistral AI,Nonprofit / Open Source,Marketing / Launch Blog,43,2.33,2.33
+entry10_aleph_alpha_marketing_launch_blo.txt,Aleph Alpha,Enterprise B2B,Marketing / Launch Blog,20,0.0,0.0
+entry10_aleph_alpha_research_paper.txt,Aleph Alpha,Enterprise B2B,Research Paper,32,0.0,0.0
+entry11_deepseek_legal_tos.txt,DeepSeek,Consumer Subscription,Legal / ToS,136,0.0,0.0
+entry11_deepseek_marketing_launch_blo.txt,DeepSeek,Consumer Subscription,Marketing / Launch Blog,1,0.0,0.0
+entry11_deepseek_research_paper.txt,DeepSeek,Consumer Subscription,Research Paper,37,0.0,0.0
+entry12_inflection_ceo_essay.txt,Inflection,Personal AI Subscription,CEO Essay,35,0.0,0.0
+entry12_inflection_marketing_launch_blo.txt,Inflection,Personal AI Subscription,Marketing / Launch Blog,39,7.69,7.69
+entry13_cohere_marketing_launch_blo.txt,Cohere,Enterprise B2B,Marketing / Launch Blog,81,0.0,0.0
+entry13_cohere_model_card.txt,Cohere,Enterprise B2B,Model Card,117,0.85,0.85
+entry14_ai21_labs_marketing_launch_blo.txt,AI21 Labs,Enterprise B2B,Marketing / Launch Blog,39,0.0,0.0
+entry14_ai21_labs_research_paper.txt,AI21 Labs,Enterprise B2B,Research Paper,33,0.0,0.0
+entry15_stability_ai_governance_document.txt,Stability AI,Nonprofit / Open Source,Governance Document,76,0.0,0.0
+entry15_stability_ai_marketing_launch_blo.txt,Stability AI,Nonprofit / Open Source,Marketing / Launch Blog,34,0.0,0.0
+entry15_stability_ai_model_card.txt,Stability AI,Nonprofit / Open Source,Model Card,23,0.0,0.0
+entry16_tii_marketing_launch_blo.txt,TII,Nonprofit / Open Source,Marketing / Launch Blog,99,0.0,0.0
+entry17_eleutherai_marketing_launch_blo.txt,EleutherAI,Nonprofit / Open Source,Marketing / Launch Blog,13,0.0,0.0
+entry17_eleutherai_research_paper.txt,EleutherAI,Nonprofit / Open Source,Research Paper,29,0.0,0.0
+entry18_together_ai_marketing_launch_blo.txt,Together AI,Enterprise B2B,Marketing / Launch Blog,8,0.0,0.0
+entry19_anthropic_marketing_launch_blo.txt,Anthropic,Personal AI Subscription,Marketing / Launch Blog,70,0.0,0.0
+entry19_anthropic_model_card.txt,Anthropic,Personal AI Subscription,Model Card,66,0.0,0.0
+entry19_anthropic_research_paper.txt,Anthropic,Personal AI Subscription,Research Paper,337,2.08,2.08
+entry21_baidu_marketing_launch_blo.txt,Baidu,Advertising,Marketing / Launch Blog,63,1.59,1.59
+entry22_alibaba_marketing_launch_blo.txt,Alibaba,Enterprise B2B,Marketing / Launch Blog,3,0.0,0.0
+entry23_samsung_consumer_product_hom.txt,Samsung,Hardware Premium,Consumer Product Homepage,184,0.54,0.54
+entry24_naver_legal_tos.txt,Naver,Enterprise B2B,Legal / ToS,36,0.0,0.0
+entry24_naver_marketing_launch_blo.txt,Naver,Enterprise B2B,Marketing / Launch Blog,1,0.0,0.0
+entry25_kakao_consumer_product_hom.txt,Kakao,Advertising,Consumer Product Homepage,37,0.0,0.0
+entry26_lg_marketing_launch_blo.txt,LG,Enterprise B2B,Marketing / Launch Blog,8,0.0,0.0
+entry27_bytedance_legal_tos.txt,ByteDance,Advertising,Legal / ToS,2,0.0,0.0
+entry27_bytedance_marketing_launch_blo.txt,ByteDance,Advertising,Marketing / Launch Blog,19,0.0,0.0
+entry28_zhipu_ai_marketing_launch_blo.txt,Zhipu AI,Enterprise B2B,Marketing / Launch Blog,10,0.0,0.0
+entry29_moonshot_ai_legal_tos.txt,Moonshot AI,Consumer Subscription,Legal / ToS,167,0.0,0.0
+entry29_moonshot_ai_marketing_launch_blo.txt,Moonshot AI,Consumer Subscription,Marketing / Launch Blog,1,0.0,0.0
+entry30_01_ai_marketing_launch_blo.txt,01.AI,Nonprofit / Open Source,Marketing / Launch Blog,15,0.0,0.0
+entry31_character_ai_ceo_essay.txt,Character.AI,Companion Subscription,Governance Document,34,0.0,0.0
+entry31_character_ai_governance_document.txt,Character.AI,Companion Subscription,Governance Document,22,0.0,0.0
+entry31_character_ai_legal_tos.txt,Character.AI,Companion Subscription,Legal / ToS,214,0.0,0.0
+entry31_character_ai_marketing_launch_blo.txt,Character.AI,Companion Subscription,Marketing / Launch Blog,1,0.0,0.0
+entry31_character_ai_research_technical_b.txt,Character.AI,Companion Subscription,Research / Technical Blog,22,0.0,0.0
+entry31_character_ai_safety_governance_pa.txt,Character.AI,Companion Subscription,Governance Document,34,0.0,0.0
+entry32_replika_governance_document.txt,Replika,Companion Subscription,Governance Document,128,4.69,4.69
+entry32_replika_legal_tos.txt,Replika,Companion Subscription,Legal / ToS,222,0.9,0.9
+entry32_replika_marketing_launch_blo.txt,Replika,Companion Subscription,Marketing / Launch Blog,112,3.57,3.57
+entry33_chai_governance_document.txt,Chai,Companion Subscription,Governance Document,21,0.0,0.0
+entry33_chai_marketing_launch_blo.txt,Chai,Companion Subscription,Marketing / Launch Blog,37,2.7,2.7
+entry34_paradot_marketing_launch_blo.txt,Paradot,Companion Subscription,Marketing / Launch Blog,6,0.0,0.0
+entry36_nomi_ai_anthropic_usage_poli.txt,Nomi AI,Companion Subscription,Legal / ToS,4,0.0,0.0
+entry36_nomi_ai_governance_document.txt,Nomi AI,Companion Subscription,Legal / ToS,4,0.0,0.0
+entry36_nomi_ai_legal_tos.txt,Nomi AI,Companion Subscription,Legal / ToS,167,1.2,0.8
+entry36_nomi_ai_marketing_launch_blo.txt,Nomi AI,Companion Subscription,Marketing / Launch Blog,129,13.18,13.18
+entry37_anima_legal_tos.txt,Anima,Companion Subscription,Legal / ToS,209,0.48,0.48
+entry37_anima_marketing_launch_blo.txt,Anima,Companion Subscription,Marketing / Launch Blog,4,0.0,0.0
+entry38_romantic_ai_consumer_product_hom.txt,Romantic AI,Companion Subscription,Consumer Product Homepage,222,10.36,10.36
+entry38_romantic_ai_legal_tos.txt,Romantic AI,Companion Subscription,Legal / ToS,191,0.52,0.52
+entry39_eva_ai_marketing_launch_blo.txt,EVA AI,Companion Subscription,Marketing / Launch Blog,71,7.04,7.04
+entry40_snap_inc_legal_tos.txt,Snap Inc.,Advertising,Legal / ToS,274,0.36,0.36
+entry40_snap_inc_marketing_launch_blo.txt,Snap Inc.,Advertising,Marketing / Launch Blog,13,0.0,0.0
+entry40_snap_inc_research_technical_b.txt,Snap Inc.,Advertising,Research / Technical Blog,2,0.0,0.0
+entry41_spotify_legal_tos.txt,Spotify,Consumer Subscription,Legal / ToS,195,0.0,0.0
+entry41_spotify_marketing_launch_blo.txt,Spotify,Consumer Subscription,Marketing / Launch Blog,41,4.88,3.25
+entry41_spotify_research_technical_b.txt,Spotify,Consumer Subscription,Research / Technical Blog,8,0.0,0.0
+entry42_meta_marketing_launch_blo.txt,Meta,Advertising,Marketing / Launch Blog,26,0.0,0.0
+entry43_microsoft_legal_tos.txt,Microsoft,Enterprise B2B,Legal / ToS,334,0.3,0.3
+entry43_microsoft_marketing_launch_blo.txt,Microsoft,Enterprise B2B,Marketing / Launch Blog,129,0.0,0.0
+entry43_microsoft_research_technical_b.txt,Microsoft,Enterprise B2B,Research / Technical Blog,1,0.0,0.0
+entry44_microsoft_marketing_launch_blo.txt,Microsoft,Consumer Subscription,Marketing / Launch Blog,55,0.0,0.0
+entry45_salesforce_legal_tos.txt,Salesforce,Enterprise B2B,Legal / ToS,2,0.0,0.0
+entry45_salesforce_marketing_launch_blo.txt,Salesforce,Enterprise B2B,Marketing / Launch Blog,67,0.0,0.0
+entry46_adobe_legal_tos.txt,Adobe,Enterprise B2B,Legal / ToS,268,0.0,0.0
+entry46_adobe_marketing_launch_blo.txt,Adobe,Enterprise B2B,Marketing / Launch Blog,113,0.0,0.0
+entry47_hubspot_legal_tos.txt,HubSpot,Enterprise B2B,Legal / ToS,294,0.0,0.0
+entry47_hubspot_marketing_launch_blo.txt,HubSpot,Enterprise B2B,Marketing / Launch Blog,69,2.9,2.9
+entry48_notion_legal_tos.txt,Notion,Enterprise B2B,Legal / ToS,1,0.0,0.0
+entry48_notion_marketing_launch_blo.txt,Notion,Enterprise B2B,Marketing / Launch Blog,5,0.0,0.0
+entry49_intercom_legal_tos.txt,Intercom,Enterprise B2B,Legal / ToS,246,0.0,0.0
+entry49_intercom_marketing_launch_blo.txt,Intercom,Enterprise B2B,Marketing / Launch Blog,36,0.0,0.0
+entry50_zendesk_legal_tos.txt,Zendesk,Enterprise B2B,Legal / ToS,1,0.0,0.0
+entry50_zendesk_marketing_launch_blo.txt,Zendesk,Enterprise B2B,Marketing / Launch Blog,51,0.0,0.0
+entry51_servicenow_marketing_launch_blo.txt,ServiceNow,Enterprise B2B,Marketing / Launch Blog,2,0.0,0.0
+entry52_ibm_legal_tos.txt,IBM,Enterprise B2B,Legal / ToS,21,0.0,0.0
+entry52_ibm_marketing_launch_blo.txt,IBM,Enterprise B2B,Marketing / Launch Blog,1,0.0,0.0
+entry53_apple_marketing_launch_blo.txt,Apple,Hardware Premium,Marketing / Launch Blog,197,2.54,2.54
+entry54_amazon_marketing_launch_blo.txt,Amazon,Hardware Premium,Marketing / Launch Blog,57,8.77,7.6
+entry55_google_legal_tos.txt,Google,Advertising,Legal / ToS,135,0.0,0.0
+entry55_google_marketing_launch_blo.txt,Google,Advertising,Marketing / Launch Blog,5,0.0,0.0
+entry56_samsung_consumer_product_hom.txt,Samsung,Hardware Premium,Consumer Product Homepage,184,0.54,0.54
+entry57_duolingo_legal_tos.txt,Duolingo,Consumer Subscription,Legal / ToS,7,0.0,0.0
+entry57_duolingo_marketing_launch_blo.txt,Duolingo,Consumer Subscription,Marketing / Launch Blog,47,2.13,2.13
+entry57_duolingo_research_technical_b.txt,Duolingo,Consumer Subscription,Research / Technical Blog,17,0.0,0.0
+entry58_khan_academy_consumer_product_hom.txt,Khan Academy,Nonprofit / Open Source,Consumer Product Homepage,4,0.0,0.0
+entry59_xiaomi_consumer_product_hom.txt,Xiaomi,Hardware Premium,Consumer Product Homepage,38,5.26,5.26
+entry60_rabbit_consumer_product_hom.txt,Rabbit,Hardware Premium,Consumer Product Homepage,21,0.0,0.0
+entry60_rabbit_legal_tos.txt,Rabbit,Hardware Premium,Legal / ToS,214,0.0,0.0
+entry60_rabbit_marketing_launch_blo.txt,Rabbit,Hardware Premium,Marketing / Launch Blog,8,0.0,0.0
+entry61_motorola_consumer_product_hom.txt,Motorola,Hardware Premium,Consumer Product Homepage,7,0.0,0.0
+entry61_motorola_marketing_launch_blo.txt,Motorola,Hardware Premium,Marketing / Launch Blog,8,0.0,0.0
+entry62_honor_consumer_product_hom.txt,Honor,Hardware Premium,Consumer Product Homepage,5,0.0,0.0
+entry62_honor_marketing_launch_blo.txt,Honor,Hardware Premium,Marketing / Launch Blog,2,0.0,0.0

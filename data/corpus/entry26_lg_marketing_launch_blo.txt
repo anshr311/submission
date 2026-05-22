@@ -1,0 +1,30 @@
+# SOURCE: https://www.lgresearch.ai/exaone
+# ENTRY: 26 | COMPANY: LG | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+EXAONE Journey
+2020년부터 LG AI연구원은 인공지능의 발전을 이끌어 왔습니다. 국내 최초의 멀티모달 모델인 EXAONE 개발을 통해 전략적인 AI 리더십을 확보했으며, 이제는
+ 그 혁신의 가치를 전 세계로 확장하고 있습니다. LG AI연구원은 고도화된 AI 솔루션을 바탕으로 단순한 기술 구현을 넘어 세상의 가능성을 현실로 만들고,
+ 산업 전 영역의 성장에 앞장서고 있습니다.
+EXAONE 4.5
+설계 단계부터 시각과 언어를 하나로 결합한 '네이티브 멀티모달' 구조로 시각 지능의 깊이를 더했습니다.
+복잡한 산업 현장의 시각적 맥락까지 읽어내는 기술력을 구현한 진정한 멀티모달 모델을 지금 확인해 보세요.
+Your browser does not support the video tag.
+EXAONE 4.5
+Visual Encoder가 통합된 모델 구조
+자체 Vision Encoder에 기반한 Modality 확장
+전문 문서 이해에 기반한 추론 성능 우수
+MTP 적용으로 기존 대비
+약 1.5배 빠른 속도
+다국어 지원을 위한
+vocabulary 추가
+다양한 전문 산업 분야
+지원
+Performance
+EXAONE 4.5는 글로벌 범용 벤치마크에서 뛰어난 경쟁력을 입증했을 뿐만 아니라,
+복잡한 문서 기반 작업과 한국어 및 한국의 시각적 맥락을 이해하는 데 있어 독보적인 강점을 갖추게 되었습니다.
+Read Technical Report
+Try EXAONE 4.5
+Join us on your AI journey
+EXAONE Showroom
+Contact Us

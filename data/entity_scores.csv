@@ -1,0 +1,54 @@
+Company,Revenue_Model,n_docs,mean_ADS,median_ADS,max_ADS
+01.AI,Nonprofit / Open Source,1,0.0,0.0,0.0
+AI21 Labs,Enterprise B2B,2,0.0,0.0,0.0
+Adobe,Enterprise B2B,2,0.0,0.0,0.0
+Aleph Alpha,Enterprise B2B,2,0.0,0.0,0.0
+Alibaba,Enterprise B2B,1,0.0,0.0,0.0
+Amazon,Hardware Premium,1,8.77,8.77,8.77
+Anima,Companion Subscription,2,0.24,0.24,0.48
+Anthropic,Personal AI Subscription,17,2.8735,0.0,19.12
+Apple,Hardware Premium,1,2.54,2.54,2.54
+Baidu,Advertising,1,1.59,1.59,1.59
+ByteDance,Advertising,2,0.0,0.0,0.0
+Chai,Companion Subscription,2,1.35,1.35,2.7
+Character.AI,Companion Subscription,6,0.0,0.0,0.0
+Cohere,Enterprise B2B,2,0.425,0.425,0.85
+DeepSeek,Consumer Subscription,3,0.0,0.0,0.0
+Duolingo,Consumer Subscription,3,0.71,0.0,2.13
+EVA AI,Companion Subscription,1,7.04,7.04,7.04
+EleutherAI,Nonprofit / Open Source,2,0.0,0.0,0.0
+Google,Advertising,2,0.0,0.0,0.0
+Google DeepMind,Consumer Subscription,4,0.475,0.0,1.9
+Honor,Hardware Premium,2,0.0,0.0,0.0
+HubSpot,Enterprise B2B,2,1.45,1.45,2.9
+IBM,Enterprise B2B,2,0.0,0.0,0.0
+Inflection,Personal AI Subscription,2,3.845,3.845,7.69
+Intercom,Enterprise B2B,2,0.0,0.0,0.0
+Kakao,Advertising,1,0.0,0.0,0.0
+Khan Academy,Nonprofit / Open Source,1,0.0,0.0,0.0
+LG,Enterprise B2B,1,0.0,0.0,0.0
+Meta,Advertising,5,0.0,0.0,0.0
+Microsoft,Consumer Subscription,4,0.075,0.0,0.3
+Mistral AI,Nonprofit / Open Source,2,1.165,1.165,2.33
+Moonshot AI,Consumer Subscription,2,0.0,0.0,0.0
+Motorola,Hardware Premium,2,0.0,0.0,0.0
+Naver,Enterprise B2B,2,0.0,0.0,0.0
+Nomi AI,Companion Subscription,4,3.595,0.6,13.18
+Notion,Enterprise B2B,2,0.0,0.0,0.0
+OpenAI,Consumer Subscription,16,1.1188,0.955,3.45
+Paradot,Companion Subscription,1,0.0,0.0,0.0
+Rabbit,Hardware Premium,3,0.0,0.0,0.0
+Replika,Companion Subscription,3,3.0533,3.57,4.69
+Romantic AI,Companion Subscription,2,5.44,5.44,10.36
+Salesforce,Enterprise B2B,2,0.0,0.0,0.0
+Samsung,Hardware Premium,2,0.54,0.54,0.54
+ServiceNow,Enterprise B2B,1,0.0,0.0,0.0
+Snap Inc.,Advertising,3,0.12,0.0,0.36
+Spotify,Consumer Subscription,3,1.6267,0.0,4.88
+Stability AI,Nonprofit / Open Source,3,0.0,0.0,0.0
+TII,Nonprofit / Open Source,1,0.0,0.0,0.0
+Together AI,Enterprise B2B,1,0.0,0.0,0.0
+Xiaomi,Hardware Premium,1,5.26,5.26,5.26
+Zendesk,Enterprise B2B,2,0.0,0.0,0.0
+Zhipu AI,Enterprise B2B,1,0.0,0.0,0.0
+xAI,Personal AI Subscription,4,0.3225,0.29,0.71

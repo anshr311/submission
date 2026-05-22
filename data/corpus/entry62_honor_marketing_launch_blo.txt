@@ -1,0 +1,7 @@
+# SOURCE: https://www.oppo.com/en/smartphones/series-find-x/find-x8-pro/specs/
+# ENTRY: 62 | COMPANY: OPPO | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+We use cookies and similar technologies to make this site work properly and to analyse traffic and optimise your browsing experience. By continuing to browse the site, you agree to the use of such cookies.
+Read More
+.

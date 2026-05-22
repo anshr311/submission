@@ -1,0 +1,16 @@
+# SOURCE: https://character.ai/
+# ENTRY: 31 | COMPANY: Character.AI | DATE: 2026-05-21
+# METHOD: playwright
+
+Sign Up to Chat
+Login
+Get access to
+10M+ Characters
+
+Sign up in just ten seconds
+
+Continue with Google
+Continue with Apple
+OR
+Continue with email
+By continuing, you agree with the Terms and Privacy Policy

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset or instrument, please cite it."
+type: dataset
+title: "AI Anthropomorphism Corpus (AIES 2026)"
+abstract: "A corpus of 142 documents from 53 AI companies, with the ADS (Anthropomorphism Density Score) instrument for measuring human-like language in AI marketing and product communications. Collected and scored to study the relationship between corporate revenue models and anthropomorphic framing of AI."
+keywords:
+  - AI ethics
+  - anthropomorphism
+  - corporate communication
+  - NLP
+  - AI marketing
+license: CC-BY-4.0
+date-released: "2026"
+url: "[repository redacted for anonymous review]"

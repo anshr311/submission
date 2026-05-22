@@ -1,0 +1,751 @@
+# SOURCE: https://arxiv.org/abs/2303.08774
+# ENTRY: 4 | COMPANY: OpenAI | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Computer Science > Computation and Language
+arXiv:2303.08774
+(cs)
+[Submitted on 15 Mar 2023 (
+v1
+), last revised 4 Mar 2024 (this version, v6)]
+Title:
+GPT-4 Technical Report
+Authors:
+OpenAI
+,
+Josh Achiam
+,
+Steven Adler
+,
+Sandhini Agarwal
+,
+Lama Ahmad
+,
+Ilge Akkaya
+,
+Florencia Leoni Aleman
+,
+Diogo Almeida
+,
+Janko Altenschmidt
+,
+Sam Altman
+,
+Shyamal Anadkat
+,
+Red Avila
+,
+Igor Babuschkin
+,
+Suchir Balaji
+,
+Valerie Balcom
+,
+Paul Baltescu
+,
+Haiming Bao
+,
+Mohammad Bavarian
+,
+Jeff Belgum
+,
+Irwan Bello
+,
+Jake Berdine
+,
+Gabriel Bernadett-Shapiro
+,
+Christopher Berner
+,
+Lenny Bogdonoff
+,
+Oleg Boiko
+,
+Madelaine Boyd
+,
+Anna-Luisa Brakman
+,
+Greg Brockman
+,
+Tim Brooks
+,
+Miles Brundage
+,
+Kevin Button
+,
+Trevor Cai
+,
+Rosie Campbell
+,
+Andrew Cann
+,
+Brittany Carey
+,
+Chelsea Carlson
+,
+Rory Carmichael
+,
+Brooke Chan
+,
+Che Chang
+,
+Fotis Chantzis
+,
+Derek Chen
+,
+Sully Chen
+,
+Ruby Chen
+,
+Jason Chen
+,
+Mark Chen
+,
+Ben Chess
+,
+Chester Cho
+,
+Casey Chu
+,
+Hyung Won Chung
+,
+Dave Cummings
+,
+Jeremiah Currier
+,
+Yunxing Dai
+,
+Cory Decareaux
+,
+Thomas Degry
+,
+Noah Deutsch
+,
+Damien Deville
+,
+Arka Dhar
+,
+David Dohan
+,
+Steve Dowling
+,
+Sheila Dunning
+,
+Adrien Ecoffet
+,
+Atty Eleti
+,
+Tyna Eloundou
+,
+David Farhi
+,
+Liam Fedus
+,
+Niko Felix
+,
+Simón Posada Fishman
+,
+Juston Forte
+,
+Isabella Fulford
+,
+Leo Gao
+,
+Elie Georges
+,
+Christian Gibson
+,
+Vik Goel
+,
+Tarun Gogineni
+,
+Gabriel Goh
+,
+Rapha Gontijo-Lopes
+,
+Jonathan Gordon
+,
+Morgan Grafstein
+,
+Scott Gray
+,
+Ryan Greene
+,
+Joshua Gross
+,
+Shixiang Shane Gu
+,
+Yufei Guo
+,
+Chris Hallacy
+,
+Jesse Han
+,
+Jeff Harris
+,
+Yuchen He
+,
+Mike Heaton
+,
+Johannes Heidecke
+,
+Chris Hesse
+,
+Alan Hickey
+,
+Wade Hickey
+,
+Peter Hoeschele
+,
+Brandon Houghton
+,
+Kenny Hsu
+,
+Shengli Hu
+,
+Xin Hu
+,
+Joost Huizinga
+,
+Shantanu Jain
+,
+Shawn Jain
+,
+Joanne Jang
+,
+Angela Jiang
+,
+Roger Jiang
+,
+Haozhun Jin
+,
+Denny Jin
+,
+Shino Jomoto
+,
+Billie Jonn
+,
+Heewoo Jun
+,
+Tomer Kaftan
+,
+Łukasz Kaiser
+,
+Ali Kamali
+,
+Ingmar Kanitscheider
+,
+Nitish Shirish Keskar
+,
+Tabarak Khan
+,
+Logan Kilpatrick
+,
+Jong Wook Kim
+,
+Christina Kim
+,
+Yongjik Kim
+,
+Jan Hendrik Kirchner
+,
+Jamie Kiros
+,
+Matt Knight
+,
+Daniel Kokotajlo
+,
+Łukasz Kondraciuk
+,
+Andrew Kondrich
+,
+Aris Konstantinidis
+,
+Kyle Kosic
+,
+Gretchen Krueger
+,
+Vishal Kuo
+,
+Michael Lampe
+,
+Ikai Lan
+,
+Teddy Lee
+,
+Jan Leike
+,
+Jade Leung
+,
+Daniel Levy
+,
+Chak Ming Li
+,
+Rachel Lim
+,
+Molly Lin
+,
+Stephanie Lin
+,
+Mateusz Litwin
+,
+Theresa Lopez
+,
+Ryan Lowe
+,
+Patricia Lue
+,
+Anna Makanju
+,
+Kim Malfacini
+,
+Sam Manning
+,
+Todor Markov
+,
+Yaniv Markovski
+,
+Bianca Martin
+,
+Katie Mayer
+,
+Andrew Mayne
+,
+Bob McGrew
+,
+Scott Mayer McKinney
+,
+Christine McLeavey
+,
+Paul McMillan
+,
+Jake McNeil
+,
+David Medina
+,
+Aalok Mehta
+,
+Jacob Menick
+,
+Luke Metz
+,
+Andrey Mishchenko
+,
+Pamela Mishkin
+,
+Vinnie Monaco
+,
+Evan Morikawa
+,
+Daniel Mossing
+,
+Tong Mu
+,
+Mira Murati
+,
+Oleg Murk
+,
+David Mély
+,
+Ashvin Nair
+,
+Reiichiro Nakano
+,
+Rajeev Nayak
+,
+Arvind Neelakantan
+,
+Richard Ngo
+,
+Hyeonwoo Noh
+,
+Long Ouyang
+,
+Cullen O'Keefe
+,
+Jakub Pachocki
+,
+Alex Paino
+,
+Joe Palermo
+,
+Ashley Pantuliano
+,
+Giambattista Parascandolo
+,
+Joel Parish
+,
+Emy Parparita
+,
+Alex Passos
+,
+Mikhail Pavlov
+,
+Andrew Peng
+,
+Adam Perelman
+,
+Filipe de Avila Belbute Peres
+,
+Michael Petrov
+,
+Henrique Ponde de Oliveira Pinto
+,
+Michael
+(Rai)
+Pokorny
+,
+Michelle Pokrass
+,
+Vitchyr H. Pong
+,
+Tolly Powell
+,
+Alethea Power
+,
+Boris Power
+,
+Elizabeth Proehl
+,
+Raul Puri
+,
+Alec Radford
+,
+Jack Rae
+,
+Aditya Ramesh
+,
+Cameron Raymond
+,
+Francis Real
+,
+Kendra Rimbach
+,
+Carl Ross
+,
+Bob Rotsted
+,
+Henri Roussez
+,
+Nick Ryder
+,
+Mario Saltarelli
+,
+Ted Sanders
+,
+Shibani Santurkar
+,
+Girish Sastry
+,
+Heather Schmidt
+,
+David Schnurr
+,
+John Schulman
+,
+Daniel Selsam
+,
+Kyla Sheppard
+,
+Toki Sherbakov
+,
+Jessica Shieh
+,
+Sarah Shoker
+,
+Pranav Shyam
+,
+Szymon Sidor
+,
+Eric Sigler
+,
+Maddie Simens
+,
+Jordan Sitkin
+,
+Katarina Slama
+,
+Ian Sohl
+,
+Benjamin Sokolowsky
+,
+Yang Song
+,
+Natalie Staudacher
+,
+Felipe Petroski Such
+,
+Natalie Summers
+,
+Ilya Sutskever
+,
+Jie Tang
+,
+Nikolas Tezak
+,
+Madeleine B. Thompson
+,
+Phil Tillet
+,
+Amin Tootoonchian
+,
+Elizabeth Tseng
+,
+Preston Tuggle
+,
+Nick Turley
+,
+Jerry Tworek
+,
+Juan Felipe Cerón Uribe
+,
+Andrea Vallone
+,
+Arun Vijayvergiya
+,
+Chelsea Voss
+,
+Carroll Wainwright
+,
+Justin Jay Wang
+,
+Alvin Wang
+,
+Ben Wang
+,
+Jonathan Ward
+,
+Jason Wei
+,
+CJ Weinmann
+,
+Akila Welihinda
+,
+Peter Welinder
+,
+Jiayi Weng
+,
+Lilian Weng
+,
+Matt Wiethoff
+,
+Dave Willner
+,
+Clemens Winter
+,
+Samuel Wolrich
+,
+Hannah Wong
+,
+Lauren Workman
+,
+Sherwin Wu
+,
+Jeff Wu
+,
+Michael Wu
+,
+Kai Xiao
+,
+Tao Xu
+,
+Sarah Yoo
+,
+Kevin Yu
+,
+Qiming Yuan
+,
+Wojciech Zaremba
+,
+Rowan Zellers
+,
+Chong Zhang
+,
+Marvin Zhang
+,
+Shengjia Zhao
+,
+Tianhao Zheng
+,
+Juntang Zhuang
+,
+William Zhuk
+,
+Barret Zoph
+et al. (181 additional authors not shown)
+View a PDF of the paper titled GPT-4 Technical Report, by OpenAI and 279 other authors
+View PDF
+HTML (experimental)
+Abstract:
+We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs. While less capable than humans in many real-world scenarios, GPT-4 exhibits human-level performance on various professional and academic benchmarks, including passing a simulated bar exam with a score around the top 10% of test takers. GPT-4 is a Transformer-based model pre-trained to predict the next token in a document. The post-training alignment process results in improved performance on measures of factuality and adherence to desired behavior. A core component of this project was developing infrastructure and optimization methods that behave predictably across a wide range of scales. This allowed us to accurately predict some aspects of GPT-4's performance based on models trained with no more than 1/1,000th the compute of GPT-4.
+Comments:
+100 pages; updated authors list; fixed author names and added citation
+Subjects:
+Computation and Language (cs.CL)
+; Artificial Intelligence (cs.AI)
+Cite as:
+arXiv:2303.08774
+[cs.CL]
+(or
+arXiv:2303.08774v6
+[cs.CL]
+for this version)
+https://doi.org/10.48550/arXiv.2303.08774
+Focus to learn more
+arXiv-issued DOI via DataCite
+Submission history
+From: Adrien Ecoffet [
+view email
+]
+[v1]
+Wed, 15 Mar 2023 17:15:04 UTC (3,853 KB)
+[v2]
+Thu, 16 Mar 2023 04:59:24 UTC (3,855 KB)
+[v3]
+Mon, 27 Mar 2023 17:46:54 UTC (4,016 KB)
+[v4]
+Tue, 19 Dec 2023 00:34:40 UTC (3,850 KB)
+[v5]
+Fri, 1 Mar 2024 16:30:27 UTC (3,849 KB)
+[v6]
+Mon, 4 Mar 2024 06:01:33 UTC (3,849 KB)
+Full-text links:
+Access Paper:
+View a PDF of the paper titled GPT-4 Technical Report, by OpenAI and 279 other authors
+View PDF
+HTML (experimental)
+TeX Source
+view license
+Current browse context:
+cs.CL
+< prev
+|
+next >
+new
+|
+recent
+|
+2023-03
+Change to browse by:
+cs
+cs.AI
+References & Citations
+NASA ADS
+Google Scholar
+Semantic Scholar
+9 blog links
+(
+what is this?
+)
+export BibTeX citation
+Loading...
+BibTeX formatted citation
+×
+loading...
+Data provided by:
+Bookmark
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer
+(
+What is the Explorer?
+)
+Connected Papers Toggle
+Connected Papers
+(
+What is Connected Papers?
+)
+Litmaps Toggle
+Litmaps
+(
+What is Litmaps?
+)
+scite.ai Toggle
+scite Smart Citations
+(
+What are Smart Citations?
+)
+Code, Data, Media
+Code, Data and Media Associated with this Article
+alphaXiv Toggle
+alphaXiv
+(
+What is alphaXiv?
+)
+Links to Code Toggle
+CatalyzeX Code Finder for Papers
+(
+What is CatalyzeX?
+)
+DagsHub Toggle
+DagsHub
+(
+What is DagsHub?
+)
+GotitPub Toggle
+Gotit.pub
+(
+What is GotitPub?
+)
+Huggingface Toggle
+Hugging Face
+(
+What is Huggingface?
+)
+Links to Code Toggle
+Papers with Code
+(
+What is Papers with Code?
+)
+ScienceCast Toggle
+ScienceCast
+(
+What is ScienceCast?
+)
+Demos
+Demos
+Replicate Toggle
+Replicate
+(
+What is Replicate?
+)
+Spaces Toggle
+Hugging Face Spaces
+(
+What is Spaces?
+)
+Spaces Toggle
+TXYZ.AI
+(
+What is TXYZ.AI?
+)
+Related Papers
+Recommenders and Search Tools
+Link to Influence Flower
+Influence Flower
+(
+What are Influence Flowers?
+)
+Core recommender toggle
+CORE Recommender
+(
+What is CORE?
+)
+Author
+Venue
+Institution
+Topic
+About arXivLabs
+arXivLabs: experimental projects with community collaborators
+arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.
+Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.
+Have an idea for a project that will add value for arXiv's community?
+Learn more about arXivLabs
+.
+Which authors of this paper are endorsers?
+|
+Disable MathJax
+(
+What is MathJax?
+)

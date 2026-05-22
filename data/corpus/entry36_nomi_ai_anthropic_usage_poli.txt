@@ -1,0 +1,14 @@
+# SOURCE: https://nomi.ai/compliance-with-california-bill-sb-243/
+# ENTRY: 36 | COMPANY: Nomi AI | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+California has passed
+Bill SB-243
+for residents of California. This legislation requires all AI companion chatbot platforms to maintain:
+“a protocol for preventing the production of suicidal ideation, suicide, or self-harm content to the user, including, but not limited to, by providing a notification to the user that refers the user to crisis service providers, including a suicide hotline or crisis text line, if the user expresses suicidal ideation, suicide, or self-harm.” –
+22602 Bill SB-243
+To remain compliant with the laws of the state of California and continue offering the
+Nomi.ai
+platform to users in California, we have implemented the following protocol: If a user is located in California and the AI detects expressions of self harm, the user will see a message in their app with links to crisis service resources.
+To respect our user’s privacy, these messages are sent anonymously.
+As legislation continues to evolve, we will remain compliant while ensuring we continue to respect our user’s agency, privacy, and relationships.

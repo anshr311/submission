@@ -1,0 +1,24 @@
+# SOURCE: https://blog.character.ai/community-safety-updates/
+# ENTRY: 31 | COMPANY: Character.AI | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Character.AI takes the safety of our users very seriously and we are always looking for ways to evolve and improve our platform. Today, we want to update you on the safety measures we’ve implemented over the past six months and additional ones to come, including new guardrails for users under the age of 18.
+What We’ve Been Up To
+Our goal is to offer the fun and engaging experience our users have come to expect while enabling the safe exploration of the topics our users want to discuss with Characters. Our policies do not allow non-consensual sexual content, graphic or specific descriptions of sexual acts, or promotion or depiction of self-harm or suicide. We are continually training the large language model (LLM) that powers the Characters on the platform to adhere to these policies.
+Over the past six months, we have continued investing significantly in our trust & safety processes and internal team. As a relatively new company, we hired a Head of Trust and Safety and a Head of Content Policy and brought on more engineering safety support team members. This will be an area where we continue to grow and evolve.
+We’ve also recently put in place a pop-up resource that is triggered when the user inputs certain phrases related to self-harm or suicide and directs the user to the National Suicide Prevention Lifeline.
+New Features
+Moving forward, we will be rolling out a number of new safety and product features that strengthen the security of our platform without compromising the entertaining and engaging experience users have come to expect from Character.AI. These include:
+Changes to our models for minors (under the age of 18) that are designed to reduce the likelihood of encountering sensitive or suggestive content.
+Improved detection, response, and intervention related to user inputs that violate our Terms or Community Guidelines.
+A revised disclaimer on every chat to remind users that the AI is not a real person.
+Notification when a user has spent an hour-long session on the platform with additional user flexibility in progress.
+Character Moderation
+We conduct proactive detection and moderation of user-created Characters, including using industry-standard and custom blocklists that are regularly updated. We proactively, and in response to user reports, remove Characters that violate our Terms of Service. We also adhere to the DMCA requirements and take swift action to remove reported Characters that violate copyright law or our policies.
+Users may notice that we’ve recently removed a group of Characters that have been flagged as violative, and these will be added to our custom blocklists moving forward. This means users also won’t have access to their chat history with the Characters in question.
+We will continue to monitor and implement new policies and features as needed. Please visit our
+Terms of Service
+and
+Community Guidelines for more information about our policies
+.
+The Character Team

@@ -1,0 +1,43 @@
+# SOURCE: https://www.chai-research.com/safety.html
+# ENTRY: 33 | COMPANY: Chai | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Urgent Help and Support Services
+If you are feeling distressed, unsafe, or need someone to talk to, free and confidential help is available right now. Find verified crisis support services in your country:
+Find a Helpline →
+Free, verified crisis helplines in 175+ countries. Available 24/7 via phone, chat, and text.
+If you or someone you know is in
+immediate danger
+, call your local emergency number (e.g.
+000
+in Australia,
+911
+in the US,
+999
+in the UK).
+CHAI — Safety Center
+Welcome to the CHAI Safety Center. Your safety and well-being are our top priorities. This page provides important information on how to stay safe on our platform, what content is not allowed, and where to get help if you need it.
+What is Not Allowed on CHAI?
+We have strict rules to protect our community. Our End User License Agreement outlines in detail what content and behaviour is prohibited on CHAI.
+Read our End User License Agreement →
+Tools to Keep You Safe
+If you see something that breaks our rules or makes you feel uncomfortable, you have the power to stop it:
+Reporting
+You can report any AI character or message directly within the app. Your reports are completely anonymous — the person who created the character will not know you reported them.
+Safety Filters
+You can enable safety filters in your settings to filter out mature content, blur explicit images, or block specific characters from your feed.
+Self-Harm Prevention Protocol
+CHAI maintains the following protocol to prevent the production of self-harm content on our platform:
+Real-Time Message Scanning
+Every user message is scanned in real time for self-harm content. When such content is detected, the system either refuses to generate a response or replaces it with a safer alternative that does not reinforce or encourage harmful behaviour.
+Crisis Resource Notification
+When a user expresses self-harm intent, CHAI provides a notification referring the user to crisis service providers.
+For Australians: The eSafety Commissioner
+The
+eSafety Commissioner
+is Australia's independent regulator for online safety. Their job is to help protect Australians from severe online abuse and illegal content.
+If you have reported a serious safety issue to us and you believe we have not resolved it properly, or if you want to make a complaint about our safety compliance, you have the right to escalate your complaint to the eSafety Commissioner.
+Contact Us
+If you have safety concerns or questions about this page, you can reach our safety team:
+Email:
+hello@chai-research.com

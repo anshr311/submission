@@ -1,0 +1,54 @@
+# SOURCE: https://www.eleuther.ai/
+# ENTRY: 17 | COMPANY: EleutherAI | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+EleutherAI
+Explore our research
+Interpreting Across Time
+How do properties of models emerge and evolve over the course of training?
+Eliciting Latent Knowledge
+As models get smarter, humans won't always be able to independently check if a model's claims are true or false. We aim to circumvent this issue by directly eliciting latent knowledge (ELK) inside the model’s activations.
+Training LLMs
+EleutherAI has trained and released many powerful open source LLMs.
+Recent Publications
+16 February 2026
+arXiv
+Quantifying the Effect of Test Set Contamination on Generative Evaluations
+16 February 2026
+arXiv
+As frontier AI systems are pretrained on web-scale data, test set contamination has become a critical concern for accurately assessing their capabilities. While research has thoroughly investigated the impact of test set contamination on discriminative evaluations like multiple-choice question-answering, comparatively little research has studied the impact of test set contamination on generative evaluations. In this work, we quantitatively assess the effect of test set contamination on generative evaluations through the language model lifecycle. We pretrain language models on mixtures of web data and the MATH benchmark, sweeping model sizes and number of test set replicas contaminating the pretraining corpus; performance improves with contamination and model size. Using scaling laws, we make a surprising discovery: including even a single test set replica enables models to achieve lower loss than the irreducible error of training on the uncontaminated corpus. We then study further training: overtraining with fresh data reduces the effects of contamination, whereas supervised finetuning on the training set can either increase or decrease performance on test data, depending on the amount of pretraining contamination. Finally, at inference, we identify factors that modulate memorization: high sampling temperatures mitigate contamination effects, and longer solutions are exponentially more difficult to memorize than shorter ones, presenting a contrast with discriminative evaluations, where solutions are only a few tokens in length. By characterizing how generation and memorization interact, we highlight a new layer of complexity for trustworthy evaluation of AI systems.
+16 February 2026
+arXiv
+25 August 2025
+Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs
+25 August 2025
+25 August 2025
+9 July 2025
+Composable Interventions for Language Models
+9 July 2025
+9 July 2025
+8 July 2025
+Evaluating Morphological Alignment of Tokenizers in 70 Languages
+8 July 2025
+8 July 2025
+30 June 2025
+Scaling Self-Supervised Representation Learning for Symbolic Piano Performance
+30 June 2025
+30 June 2025
+News
+18 May 2026
+A short retrospective on the EleutherAI Summer of Open AI Research
+18 May 2026
+18 May 2026
+7 July 2025
+Summer of Open Science
+7 July 2025
+7 July 2025
+15 June 2025
+Common Pile v0.1
+15 June 2025
+15 June 2025
+12 June 2025
+EvalEval Coallition
+12 June 2025
+12 June 2025

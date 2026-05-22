@@ -1,0 +1,59 @@
+# SOURCE: https://www.rabbit.tech/research
+# ENTRY: 60 | COMPANY: Rabbit | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+*_*
+product
+introducing
+DLAM
+shortcuts
+create custom voice-activated shortcuts for common computer tasks, making
+DLAM
+more efficient and personalized.
+feb 27, 2026
+*_*
+product
+get started using
+DLAM
+on r1
+a step-by-step guide to using
+DLAM
+, the general computer agent that lets you control your computer by talking to it.
+jan 31, 2026
+*_*
+product
+connect your r1 to
+OpenClaw
+a quick guide to connecting your rabbit r1 to
+OpenClaw
+for voice-controlled agent interactions.
+jan 31, 2026
+o_o
+company
+first major update of 2026 —
+DLAM
+,
+OpenClaw
+, and a surprise
+we're starting 2026 strong.
+DLAM
+OTA
+,
+OpenClaw
+access on r1, and introducing our next hardware project.
+jan 29, 2026
+>_
+engineering
+making r1 more accessible to the developer community
+opening up our platform to enable developers to build powerful experiences with rabbit r1.
+mar 20, 2025
+>_
+engineering
+first look at rabbit's android agent
+introducing our groundbreaking android agent that understands and acts on your behalf.
+feb 19, 2025
+>_
+engineering
+a peek into rabbit's progress with LAM playground
+exploring the evolution of our large action model through an interactive playground experience.
+oct 1, 2024

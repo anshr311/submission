@@ -1,0 +1,50 @@
+# SOURCE: https://newsroom.spotify.com/2023-02-22/spotify-debuts-a-new-ai-dj-right-in-your-pocket/
+# ENTRY: 41 | COMPANY: Spotify | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Personalization is at the heart of what we do at Spotify—just think of fan-favorite playlists like
+Discover Weekly
+, or our annual
+Wrapped
+campaign. The beauty of these experiences is our ability to deliver the right piece of music for that exact moment in time, and maybe even connect you with your next favorite artist in the process. We’re building on that innovation by harnessing the power of AI in an entirely new way. And today, we’re excited to share that we’re taking our personalization to a whole new level with
+DJ
+.
+Ready for a brand-new way to listen on Spotify and connect even more deeply with the artists you love? The DJ is a personalized AI guide that knows you and your music taste so well that it can choose what to play for you. This feature, first rolling out in beta, will deliver a curated lineup of music alongside commentary around the tracks and artists we think you’ll like in a stunningly realistic voice.
+It will sort through the latest music and look back at some of your old favorites—maybe even resurfacing that song you haven’t listened to for years. It will then review what you might enjoy and deliver a stream of songs picked just for you. And what’s more, it constantly refreshes the lineup based on your feedback.
+If you’re not feeling the vibe, just tap the DJ button and it will switch it up. The more you listen and tell the DJ what you like (and don’t like!), the better its recommendations get. Think of it as the very best of Spotify’s personalization—but as an AI DJ in your pocket.
+How our AI DJ works
+To create the DJ we reimagined the way users listen on Spotify. The DJ knows you and your music taste so well that it will scan the latest releases we know you’ll like, or take you back to that nostalgic playlist you had on repeat last year. Never before has listening felt so completely personal to each and every user, thanks to the powerful combination of:
+Spotify’s personalization technology
+, which gives you a lineup of music recommendations based on what we know you like.
+Generative AI
+through the use of OpenAI technology. We put this in the hands of our music editors to provide you with insightful facts about the music, artists, or genres you’re listening to. The expertise of our editors is something that’s really important to our philosophy at Spotify.
+We have experts in genres who know music and culture inside and out. And no one knows the music scene better than they do.
+With this generative AI tooling, our editors are able to scale their innate knowledge in ways never before possible.
+A dynamic AI voice
+platform from our
+Sonantic
+acquisition
+that brings to life stunningly realistic voices from text.
+To create the voice model for the DJ, we partnered with our own Head of Cultural Partnerships, Xavier “X” Jernigan. Previously, X served as one of the hosts on Spotify’s first (and personalized) morning show,
+The Get Up
+. His personality and voice resonated with our listeners and resulted in a loyal following for the podcast. His voice is the first model for the DJ,
+and we’ll continue to iterate and innovate, as we do with all our products.
+Where to find the DJ
+Ready to have the DJ soundtrack your day? It’s rolling out in English starting today for Spotify Premium users in the U.S. and Canada.
+Head to your
+Music Feed
+on Home in the Spotify mobile app on your iOS or Android device.
+Tap Play on the DJ card.
+Let Spotify do the rest! The DJ will serve a lineup of music alongside short commentary on the songs and artists, picked just for you.
+Not feeling the vibe? Just hit the DJ button at the bottom right of the screen to be taken to a different genre, artist, or mood.
+At Spotify we’re uniquely positioned to transform audio.
+We’re always looking for innovative new ways to improve our users’ listening experiences to meet their needs—so stay tuned for more.
+*Update May 16, 2023:
+DJ is now rolling out in the U.K. and Ireland
+.
+*Update August 8, 2023:
+DJ is now rolling out in 46 more markets around the world
+.
+*Update March 18, 2026: DJ is now available in English and
+Spanish
+to Premium users in Belgium, Czech Republic, Denmark, Finland, Japan, Netherlands, Norway, and Poland.

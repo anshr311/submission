@@ -1,0 +1,9 @@
+# SOURCE: https://khanmigo.ai/
+# ENTRY: 58 | COMPANY: Khan Academy | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+For teachers
+Experience the best AI for teachers.
+Built for educators by educators, with your needs in mind. Khanmigo simplifies your workflow while keeping your work and your student data private and secure.
+Sign up for free
+Learn more

@@ -1,0 +1,69 @@
+# SOURCE: https://aleph-alpha.com/
+# ENTRY: 10 | COMPANY: Aleph Alpha | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Vertrauen.
+Verantwortung.
+SouverÃ¤nitÃ¤t.
+01 Vision
+Spezialisierte Sprachmodelle
+fÃ1⁄4r ein souverÃ¤nes Europa.
+In enger Partnerschaft mit unseren Kunden konzipieren, entwickeln und betreiben wir
+ individualisierte, sichere Sprachmodelle (SLLMs) fÃ1⁄4r reale, geschÃ¤ftskritische Umgebungen und
+ Entscheidungen.
+02 Technologie
+MaÃgeschneiderte Sprachmodelle
+spezialisiert
+fÃ1⁄4r Ihre DomÃ¤ne.
+Wir befÃ¤higen Unternehmen und Ã¶ffentliche Institutionen, ihr wichtigstes Wissen zu
+ transformieren.
+Allgemeine Modelle scheitern dort, wo DomÃ¤nenwissen, regulatorische Compliance und
+ DatensouverÃ¤nitÃ¤t unverhandelbar sind. Unsere SLLMs laufen kompromisslos auf europÃ¤ischer
+ Infrastruktur und werden gemÃ¤Ã dem geltenden EU-Recht speziell auf Ihrer DomÃ¤ne trainiert.
+Ob Recht, Verwaltung, Industrie oder Wissenschaft: wir begleiten unsere Partner von der ersten
+ Idee bis zur EinfÃ1⁄4hrung und Weiterentwicklung Ihrer passgenauen LÃ¶sung. Ein reiches Set an
+ Methoden und Tools helfen bei gemeinsamen Evaluierungen mit Ihrem Team und stellen sicher,
+ dass unsere LÃ¶sung zu Ihrem Unternehmen und Ihren ArbeitsablÃ¤ufen passt.
+03 Kunden
+Messbare Erfolge fÃ1⁄4r
+Ihre Ziele.
+Wir genieÃen das Vertrauen von Partnern aus den unterschiedlichsten Branchen und kÃ¶nnen
+ messbare Erfolge nachweisen.
+Die EinfÃ1⁄4hrung eines KI-Assistenten in einer BehÃ¶rde hilft
+80.000 Nutzern
+, die Verwaltungsprozesse souverÃ¤n zu beschleunigen.
+Der Einsatz eines KI-Agenten zur Gewinnung verifizierbarer Erkenntnisse aus sensiblen und komplexen Dokumenten eines globalen Chipherstellers
+verkÃ1⁄4rzte die Suchzeiten um 90 %
+.
+Der Einsatz KI-gestÃ1⁄4tzter Methoden im Requirements Engineering eines Automobilzulieferers fÃ1⁄4hrte zu einer um
+40 % schnelleren RFQ-Bearbeitung
+.
+04 Branchen
+Technologie fÃ1⁄4r Organisationen
+mit Verantwortung.
+Unsere Kunden sind Spezialisten in Industrie, Ã¶ffentlichem Sektor und Verteidigung, wo Daten
+ und Expertise souverÃ¤n bleiben und Ergebnisse zuverlÃ¤ssig sein mÃ1⁄4ssen, um echte Wirkung zu
+ erzielen. Unsere Technologie setzt da ein, wo generative KI noch scheitert: bei der sicheren
+ VerknÃ1⁄4pfung von DomÃ¤nenwissen mit internen ArbeitsablÃ¤ufen. Die Technologie von Aleph Alpha
+ schlieÃt diese LÃ1⁄4cke und verbindet auf einzigartige Weise die Wissensarbeiter mit ihren
+ operativen Aufgaben in sensiblen Umgebungen.
+05 Unternehmen
+KI Made in Germany.
+FÃ1⁄4r Europa.
+An vier deutschen Standorten entwickelt unser internationales Team aus Ingenieuren,
+ Wissenschaftlern und Innovatoren souverÃ¤ne KI - geprÃ¤gt von Zusammenarbeit, Offenheit und
+ einem tiefen Bekenntnis zur Verantwortung.
+Aleph Alpha
+Leadership
+Ilhan Scheer
+Co-Chief Executive Officer
+Lucie Prinz
+Chief People Officer
+Samuel Weinbach
+Co-Chief Research Officer, Co-Founder
+Reto SpÃ¶rri
+Co-Chief Executive Officer
+Yasser Jadidi
+Co-Chief Research Officer
+Ben Oppl
+Chief Operating Officer

@@ -1,0 +1,48 @@
+# SOURCE: https://www.zendesk.com/company/agreements-and-terms/
+# ENTRY: 50 | COMPANY: Zendesk | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Agreements and Terms
+Policies and Guidelines
+Trademarks and Intellectual Property
+Procurement and Suppliers
+Data Protection and Privacy
+Agreements and Terms
+Customer Agreements and User Terms for Products and Services
+Zendesk Customer Agreement
+Request a ZCA
+Request an MNDA
+Region-Specific Terms
+Professional Services Terms
+How We Protect Your Service Data (Enterprise Services)
+How We Protect Your Service Data (Innovation Services)
+Innovation Services List
+Zendesk Partner Agreement
+AI Services Addendum
+Application Developer and API License Agreement
+Marketplace Terms of Use
+Assignments and Transfers
+Reseller Subscription Services Agreement
+Privacy and Data Protection
+Zendesk Privacy and Data Protection Site
+Privacy Notice
+Cookie Notice
+Data Processing Agreement
+Feature Deprecation Policy
+CCPA Addendum PowerForm
+LGPD Addendum Powerform
+US State Addendum
+BAA Powerform
+Government Data Request Policy
+Policies
+Data Deletion Policy
+Promotional Credits Policy
+Regional Data Hosting Policy
+Sub-processor Policy
+Zendesk User Content and Conduct Policy
+Product Terms
+Accessibility Policy
+In-Product Cookies Policy
+Service-Specific Terms
+Free Trial Terms
+Free Trials

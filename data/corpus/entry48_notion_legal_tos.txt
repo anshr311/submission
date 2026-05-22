@@ -1,0 +1,48 @@
+# SOURCE: https://www.notion.so/28ffdd083dc3473e9c2da6ec011b58ac
+# ENTRY: 48 | COMPANY: Notion | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Terms and Conditions
+Master Subscription Agreement
+Personal Use Terms of Service
+Service Level Terms
+Developer Terms
+Business Associate Agreement
+Notion Marketplace Terms of Use
+Certified Consultant Terms (DEPRECATED)
+Marketing Program Participant Terms
+Integration Gallery Terms of Service
+Notion Research Participation Terms
+Notion Solutions Partner Program Agreement
+Notion Certification Program Terms and Conditions
+Security Exhibit
+Professional Services Addendum
+Supplementary Terms
+Premium Support Supplementary Terms
+Notion AI and Notion Credit Supplementary Terms
+Other
+Master Subscription Agreement Update Summary - April 2026
+Notion Terms Update Summary - April 2025
+Notion Terms Update Summary - April 2024
+Digital Services Act Transparency Disclosures
+Notion Open Source Notices
+Notion Modern Slavery Act Statement
+Privacy
+Data Processing Addendum
+Privacy Policy
+Cookie Notice
+Notion’s List of Subprocessors
+GDPR
+Transfer Impact Assessment Information
+Policies and Guidelines
+Abusive Behavior Policy
+Content & Use Policy
+DMCA Policy
+Notion Trademark Usage Guidelines
+Contact us if you have any questions:
+Notion Labs, Inc.
+685 Market Street
+San Francisco, CA 94105
+United States
+[email protected]
+German Impressum

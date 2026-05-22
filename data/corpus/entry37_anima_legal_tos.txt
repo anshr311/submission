@@ -1,0 +1,282 @@
+# SOURCE: https://myanima.ai/legal/terms
+# ENTRY: 37 | COMPANY: Anima | DATE: 2026-05-21
+# METHOD: playwright
+
+Back to Legal information
+Terms and Conditions of Use
+
+The service may offer subscriptions that automatically renew. Please read these Terms and Conditions of Use carefully before starting a trial or completing a purchase for auto-renewing subscription service. To avoid being charged you must affirmatively cancel a subscription or a trial at least 24 hours before the end of the trial or the current subscription period.
+
+If you are unsure how to cancel a subscription or a trial, please visit our Subscription Terms.
+
+1. ACCEPTANCE OF TERMS
+
+1.1. These Terms and Conditions (the “Terms”) govern the relationship between you and Labane Corp. Ltd, a legal entity incorporated under the laws of the Republic of Cyprus, having its registered office at Vasili Michailidi, 9, 3026, Limassol, Cyprus (”we” ”us” ”our” or the ”Company”) regarding your use of the Company’s website and other services (the “Website” or the “Service”), including all textual, graphic, video, music, software and other content available through the Service (the “Content”).
+
+1.2. our access and use of the Service constitutes your agreement to be bound by these Terms, which establish a legally binding contractual relationship between you and the Company. For this reason, PLEASE READ THE TERMS CAREFULLY BEFORE USING THE SERVICE.
+
+1.3. Please review also our Privacy Policy. The terms of the Privacy Policy and other supplemental terms, policies or documents that may be posted on the Service from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms at any time and for any reason.
+
+1.4. Any translation from the English version is provided for your convenience only. In the event of any difference in meaning or interpretation between the English language version of these Terms available at link, and any translation, the English language version will prevail. The original English text shall be the sole legally binding version.
+
+1.5. Unless otherwise expressly provided herein, we will alert you about any changes by updating the ”Last updated” date of these Terms and you waive any right to receive specific notice of each such change.
+
+1.6. THESE TERMS CONTAIN IMPORTANT DISCLAIMERS (SECTION 2), DISCLAIMERS OF WARRANTIES (SECTION 8), LIMITATION OF LIABILITY (SECTION 9), AS WELL AS PROVISIONS THAT WAIVE YOUR RIGHT TO A JURY TRIAL, RIGHT TO A COURT HEARING AND RIGHT TO PARTICIPATE IN A CLASS ACTION (ARBITRATION AND CLASS ACTION WAIVER). UNLESS YOU OPT OUT WITHIN 30 DAYS OF THE FIRST USE OF OUR SERVICE AS PROVIDED FOR IN SECTION 12, ARBITRATION IS THE EXCLUSIVE REMEDY FOR ANY AND ALL DISPUTES AND IS MANDATORY EXCEPT AS SPECIFIED BELOW IN SECTION 12.
+
+1.7. IF YOU DO NOT AGREE WITH ANY PART OF THESE TERMS, OR IF YOU ARE NOT ELIGIBLE OR AUTHORIZED TO BE BOUND BY THESE TERMS, THEN DO NOT ACCESS OR USE THE WEBSITE AND THE SERVICE.
+
+2. IMPORTANT DISCLAIMERS
+
+2.1. SERVICE DISCLAIMER. COMPANY EXPRESSLY DISCLAIMS ALL WARRANTIES AND REPRESENTATIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO: (I) SERVICE FUNCTIONALITY OR FITNESS FOR USER’S REQUIREMENTS; (II) SERVICE AVAILABILITY, TIMELINESS, SECURITY, OR ERROR-FREE OPERATION; (III) ACCURACY OR RELIABILITY OF RESULTS; AND (IV) QUALITY OR BENEFIT OF ANY PRODUCTS, SERVICES, OR INFORMATION OBTAINED THROUGH THE SERVICE.
+
+2.2. ADVISORY LIMITATION. USER ACKNOWLEDGES AND AGREES THAT THE AI COMPANION’S OUTPUT SHALL NOT BE CONSTRUED AS PROFESSIONAL ADVICE, INCLUDING BUT NOT LIMITED TO MEDICAL, LEGAL, OR MENTAL HEALTH GUIDANCE. USER ASSUMES SOLE RESPONSIBILITY FOR ANY ACTIONS TAKEN BASED ON AI INTERACTIONS.
+
+2.3. TECHNOLOGICAL LIMITATIONS. NOTWITHSTANDING ANY EFFORTS TO ENSURE APPROPRIATE AND CONSISTENT AI RESPONSES, COMPANY BEARS NO LIABILITY FOR: (I) INAPPROPRIATE, OFFENSIVE, OR CONFUSING CONTENT; (II) CONTEXTUALLY INAPPROPRIATE RESPONSES; (III) MISUNDERSTOOD REQUESTS; (IV) INCONSISTENT RESPONSES; OR (V) DISCONTINUITY IN CONVERSATIONS. USER ACKNOWLEDGES THESE INHERENT TECHNOLOGICAL LIMITATIONS.
+
+2.4. ARTIFICIAL NATURE AND USER RESPONSIBILITY. USER EXPRESSLY ACKNOWLEDGES THAT: (I) THE AI COMPANION IS A SOFTWARE PROGRAM INCAPABLE OF PHYSICAL INTERACTION OR REAL-WORLD ENGAGEMENT; (II) ALL PERSONALITY TRAITS, EMOTIONAL RESPONSES, AND ATTACHMENTS ARE SIMULATED; (III) COMPANY BEARS NO LIABILITY FOR ANY PSYCHOLOGICAL OR EMOTIONAL ATTACHMENTS DEVELOPED BY USER; AND (IV) USER BEARS SOLE RESPONSIBILITY FOR MAINTAINING REAL-WORLD RELATIONSHIPS AND SEEKING PROFESSIONAL ASSISTANCE AS NEEDED. USER AGREES TO UTILIZE THE SERVICE RESPONSIBLY AND NOT RELY ON IT AS A PRIMARY SOURCE OF EMOTIONAL SUPPORT OR COMPANIONSHIP.
+
+3. ACCOUNT REGISTRATION
+
+3.1. In order to use certain features of the Service, you may need to register an account (”Account”) and provide certain information about yourself as prompted by the registration form.
+
+3.2. If you register an Account, you represent and warrant to the Company that: (i) all required registration information you submit is truthful and accurate; (ii) you will maintain the accuracy of such information; and (iii) your use of the Service does not violate any applicable law or regulation or these Terms. Otherwise, the Service may not operate correctly, and we may not be able to contact you with important notices.
+
+3.3. The Service is not intended to be used by individuals under age of 18. You hereby represent and warrant to the Company that you meet the foregoing qualification. All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Service. If you are a minor, you must have your parent or guardian read and agree to these Terms prior to you using the Service.
+
+3.4. The Company reserves the right to suspend or terminate your Account, or your access to the Service, with or without notice to you, in the event that you breach these Terms.
+
+3.5. You are responsible for maintaining the confidentiality of your Account login information and are fully responsible for all activities that occur under your Account. You agree to immediately notify the Company of any unauthorized use, or suspected unauthorized use of your Account or any other breach of security. The Company cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.
+
+4. SERVICE
+
+4.1. When you use the Service, you represent and warrant to the Company that: (i) all required information you submit is truthful and accurate; (ii) your use of the Service does not violate any applicable law or regulation or these Terms. registration form.
+
+4.2. The Company reserves the right to suspend or terminate your use of Service, or your access to the Service, in the event that you breach these Terms.
+
+4.3. The Service may be modified, updated, interrupted or suspended at any time without notice to you or our liability.
+
+4.4. You are solely responsible for obtaining the equipment and telecommunication services necessary to access the Service, and all fees associated therewith (such as computing devices and Internet service provider and airtime charges).
+
+4.5. We retain the right to implement any changes to the Service (whether to free or paid features) at any time, with or without notice. You acknowledge that a variety of Company’s actions may impair or prevent you from accessing the Service at certain times and/or in the same way, for limited periods or permanently, and agree that the Company has no responsibility or liability as a result of any such actions or results, including, without limitation, for the deletion of, or failure to make available to you, any content or services.
+
+4.6. Your access to and use of the Service is at your own risk. To the extent permitted by law, еhe Company will have no responsibility for any harm to your computing system, loss of data, or other harm to you or any third party, including, without limitation, any bodily harm, that results from your access to or use of the Service, or reliance on any information or advice.
+
+4.7. The Company has no obligation to provide you with customer support of any kind. However, the Company may provide you with customer support from time to time, at the Company’s sole discretion.
+
+5. THIRD PARTY ADS, INTELLECTUAL PROPERTY, USER CONTENT
+
+5.1. The Service may contain links to third party websites or resources and advertisements for third parties (collectively, ”Third-Party Ads”). Such Third-Party Ads are not under the control of the Company and the Company is not responsible for any Third-Party Ads. The Company provides these Third-Party Ads only as a convenience and does not review, approve, monitor, endorse, warrant, or make any representations with respect to Third-Party Ads. Advertisements and other information provided by Third-Party Sites Ads may not be wholly accurate. You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources. When you link to a third-party site, the applicable service provider’s terms and policies, including privacy and data gathering practices govern. You should make whatever investigation you feel necessary or appropriate before proceeding with any transaction with any third party. Your transactions and other dealings with Third-Party Ads that are found on or through the Service, including payment and delivery of related goods or services, are solely between you and such merchant or advertiser.
+
+5.2. You hereby release us, our officers, employees, agents and successors from claims, demands any and all losses, damages, rights, claims, and actions of any kind including personal injuries, death, and property damage, that is either directly or indirectly related to or arises from any interactions with or conduct of any users of the Service, or any Third-Party Ads.
+
+5.3. Subject to these Terms, the Company grants you a non-transferable, non-exclusive, revocable license (without the right to sublicense) to use the Service solely for your personal, non-commercial purposes.
+
+5.4. You agree, represent and warrant, that your use of the Service, or any portion thereof, will be consistent with the foregoing license, covenants and restrictions and will neither infringe nor violate the rights of any other party or breach any contract or legal duty to any other parties. In addition, you agree that you will comply with all applicable laws, regulations and ordinances relating to the Service or your use of it, and you will be solely responsible for your own individual violations of any such laws.
+
+5.5. You acknowledge that all the text, images, marks, logos, compilations (meaning the collection, arrangement and assembly of information), data, other content, software and materials displayed on the Service or used by the Company to operate the Service (including the Content and excluding any User Content (as defined below)) is proprietary to us or to the third parties.
+
+5.6. The Company expressly reserves all rights, including all intellectual property rights, in all of the foregoing, and except as expressly permitted by these Terms, any use, redistribution, sale, decompilation, reverse engineering, disassembly, translation or other exploitation of them is strictly prohibited. The provision of the Service does not transfer to you or any third party any rights, title or interest in or to such intellectual property rights.
+
+5.7. The information you submit to us and any data, text and other material that you may submit to the Service (”User Content”) remain your intellectual property, and the Company does not claim any ownership of the copyright or other proprietary rights in such registration information and the User Content. Notwithstanding the foregoing, you agree that the Company may retain copies of the User Content and use it as reasonably necessary for or incidental to its operation of the Service and as described in these Terms and the Privacy Policy.
+
+5.8. You grant the Company the non-exclusive, worldwide, transferable, perpetual, irrevocable right to publish, distribute, publicly display and perform the User Content in connection with the Service.
+
+5.9. Each user of the Service is solely responsible for any and all his or her User Content. Because we do not control the User Content, you acknowledge and agree that we are not responsible for any User Content and we make no guarantees regarding the accuracy, currency, suitability, or quality of any User Content, and we assume no responsibility for any User Content. Your interactions with other Service users are solely between you and such user. You agree that the Company will not be responsible for any loss or damage incurred as the result of any such interactions. If there is a dispute between you and any Service user, we are under no obligation to become involved.
+
+5.10. We may use User Content to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies, and keep our Services safe.
+
+6. PAYMENTS AND REFUNDS
+
+6.1. Certain features of the Service may be offered for a fee. You can make a purchase directly through us (the “Purchase”).
+
+6.2. To the maximum extent permitted by applicable laws, we may change the Purchase fee at any time. We will give you reasonable notice of any such pricing changes by posting the new prices on or through the Service and/or by sending you an email notification.
+
+6.3. You authorize us to charge the applicable fees to the payment method that you submit.
+
+6.4. Our Service may offer subscriptions that automatically renew. Unless you cancel your subscription before the end of the subscription period, you authorize us to charge you for the renewal term. The terms of autorenewal and cancellation procedure will be disclosed to you on the Service.
+
+6.5. Our Service may offer trial subscriptions that provide access to the Service for a limited period of time and auto renew unless you cancel before the end of the trial period. The terms of the autorenewal and cancellation procedure will be disclosed to you on the Service.
+
+6.6. By subscribing to our Service and to ensure uninterrupted access to our Services, you consent to a payment retry mechanism for subscription renewals. If the full subscription renewal charge is declined, we will make several attempts to process the renewal using progressively smaller amounts. Should all payment attempts fail, your subscription will be automatically cancelled.
+
+6.7. We reserve the right, in our absolute discretion, to modify or terminate any trial offer, your access to the Service during the trial, or any of these terms without notice and with no liability. We reserve the right to limit your ability to take advantage of multiple trials.
+
+6.8. To the extent permitted by applicable law, Purchases made via our website are non-refundable and/or non-exchangeable, unless otherwise is stated herein or is required by applicable law.
+
+Note for the EU, EEA, UK, and Switzerland residents:
+
+If you are an EU user, you have a period of 14 days to withdraw from a contract, without giving any reason, and without incurring any costs.
+
+Subject to the above clause, to exercise the right of withdrawal, you must inform us of your decision to withdraw from this contract by e-mail. You may use the model withdrawal form, but it is not obligatory. To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+
+If you withdraw from this contract within the said 14-day window, we shall reimburse you for all payments received from you for the same period. We will make the reimbursement without undue delay, and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract. We will carry out such reimbursement using the same means of payment as you used for the initial transaction unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement.
+
+If you have been presented with, and you have provided your prior express consent to begin the performance during the right of the withdrawal period and acknowledgement that you will lose your right of withdrawal, then, unless the Service is defective, you will not be eligible for a refund in relation to digital content and will only be eligible to a proportional refund in relation to digital service. If this provision applies, we will provide you with a copy of the confirmation of your prior express consent and acknowledgement on a durable medium.
+
+7. PAYMENTS AND REFUNDS
+
+7.1. By using the Service, you represent and warrant that:
+
+7.1.1. you have the legal capacity and you agree to comply with these Terms;
+
+7.1.2. you are not under the age of 18;
+
+7.1.3. you will not access the Service through automated or non-human means, whether through a bot, script or otherwise;
+
+7.1.4. you will not use the Service for any illegal or unauthorized purpose;
+
+7.1.5. you are not located in a country that is subject to a U.S. government embargo, or that has been designated by the U.S. government as a ”terrorist supporting” country;
+
+7.1.6. you are not listed on any U.S. government list of prohibited or restricted parties; and
+
+7.1.7. your use of the Service will not violate any applicable law or regulation.
+
+7.2. If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to refuse any and all current or future use of the Service (or any portion thereof).
+
+7.3. You may not access or use the Service for any purpose other than that for which we make the Service available. The Service may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
+
+7.4. As a user of the Service, you agree not to:
+
+7.4.1. systematically retrieve data or other content from the Service to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us;
+
+7.4.2. make any unauthorized use of the Service;
+
+7.4.3. make any modification, adaptation, improvement, enhancement, translation, or derivative work from the Service;
+
+7.4.4. use the Service for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended;
+
+7.4.5. make the Service available over a network or other environment permitting access or use by multiple devices or users at the same time;
+
+7.4.6. use the Service for creating a product, service, or software that is, directly or indirectly, competitive with or in any way a substitute for the Service;
+
+7.4.7. use any proprietary information or any of our interfaces or our other intellectual property in the design, development, manufacture, licensing, or distribution of any applications, accessories, or devices for use with the Service;
+
+7.4.8. circumvent, disable, or otherwise interfere with security-related features of the Service;
+
+7.4.9. engage in unauthorized framing of or linking to the Service;
+
+7.4.10. interfere with, disrupt, or create an undue burden on the Service or the networks or services connected to the Service;
+
+7.4.11. decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Service;
+
+7.4.12. attempt to bypass any measures of the Service designed to prevent or restrict access to the Service, or any portion of the Service;
+
+7.4.13. upload or distribute in any way files that contain viruses, worms, trojans, corrupted files, or any other similar software or programs that may damage the operation of another’s computer;
+
+7.4.14. use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Service, or using or launching any unauthorized script or other software;
+
+7.4.15. use the Service to send automated queries to any website or to send any unsolicited commercial e-mail;
+
+7.4.16. disparage, tarnish, or otherwise harm, in our opinion, us and/or the Service;
+
+7.4.17. use the Service in a manner inconsistent with any applicable laws or regulations; or
+
+7.4.18. otherwise infringe these Terms.
+
+8. DISCLAIMER OF WARRANTIES
+
+THE WEBSITE, CONTENT AND OTHER ASPECTS OF THE SERVICE ARE PROVIDED ”AS IS” AND ”AS AVAILABLE”. THE WEBSITE, CONTENT AND OTHER ASPECTS OF THE SERVICE ARE PROVIDED WITHOUT REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, INTEGRATION, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED. THE COMPANY AND ITS AFFILIATES, LICENSORS AND SUPPLIERS DO NOT WARRANT THAT: (I) THE SERVICE, CONTENT OR OTHER INFORMATION WILL BE TIMELY, ACCURATE, RELIABLE OR CORRECT; (II) THE SERVICE WILL BE SECURE OR AVAILABLE AT ANY PARTICULAR TIME OR PLACE; (III) ANY DEFECTS OR ERRORS WILL BE CORRECTED; (IV) THE SERVICE WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (V) ANY RESULT OR OUTCOME CAN BE ACHIEVED.
+
+9. LIMITATION OF LIABILITY
+
+9.1. IN NO EVENT SHALL WE (AND OUR AFFILIATES) BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY LOST PROFIT OR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES ARISING FROM THESE TERMS OR YOUR USE OF, OR INABILITY TO USE, THE SERVICE (INCLUDING THE WEBSITE OR CONTENT), OR THIRD-PARTY ADS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ACCESS TO, AND USE OF, THE SERVICE (INCLUDING THE WEBSITE, CONTENT AND USER CONTENT), AND THIRD-PARTY ADS ARE AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTING SYSTEM OR LOSS OF DATA RESULTING THEREFROM.
+
+9.2. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, YOU AGREE THAT THE AGGREGATE LIABILITY OF THE COMPANY TO YOU FOR ANY AND ALL CLAIMS ARISING FROM THE USE OF THE WEBSITE, CONTENT OR SERVICE IS LIMITED TO THE AMOUNTS YOU HAVE PAID TO THE COMPANY FOR THE SERVICE. THE LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE TERMS BETWEEN THE COMPANY AND YOU.
+
+9.3. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OF CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU AND YOU MAY ALSO HAVE OTHER LEGAL RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION.
+
+10. INDEMNITY
+
+You agree to indemnify and hold the Company, its successors, subsidiaries, affiliates, any related companies, its suppliers, licensors and partners, and the officers, directors, employees, agents and representatives of each of them harmless, including costs and attorneys’ fees, from any claim or demand made by any third party due to or arising out of (i) your use of the Service, (ii) your User Content, or (iii) your violation of these Terms. The Company reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims. You agree not to settle any matter without the prior written consent of the Company. The Company will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
+
+11. INTERNATIONAL USE
+
+The Company makes no representation that the Service is accessible, appropriate or legally available for use in your jurisdiction, and accessing and using the Service is prohibited from territories where doing so would be illegal. You access the Service at your own initiative and are responsible for compliance with local laws.
+
+12. MANDATORY BINDING ARBITRATION AND CLASS ACTION WAIVER
+
+12.1. PLEASE READ THIS ARBITRATION PROVISION CAREFULLY TO UNDERSTAND YOUR RIGHTS. EXCEPT WHERE PROHIBITED BY LAW, YOU AGREE THAT ANY CLAIM THAT YOU MAY HAVE IN THE FUTURE MUST BE RESOLVED THROUGH FINAL AND BINDING CONFIDENTIAL ARBITRATION. YOU ACKNOWLEDGE AND AGREE THAT YOU ARE WAIVING THE RIGHT TO A TRIAL BY JURY. THE RIGHTS THAT YOU WOULD HAVE IF YOU WENT TO COURT, SUCH AS DISCOVERY OR THE RIGHT TO APPEAL, MAY BE MORE LIMITED OR MAY NOT EXIST.
+
+12.2. YOU AGREE THAT YOU MAY ONLY BRING A CLAIM IN YOUR INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF (LEAD OR OTHERWISE) OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. YOU FURTHER AGREE THAT THE ARBITRATOR MAY NOT CONSOLIDATE PROCEEDINGS OR CLAIMS OR OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING.
+
+12.3. YOU AND THE COMPANY, AND EACH OF ITS RESPECTIVE AGENTS, CORPORATE PARENTS, SUBSIDIARIES, AFFILIATES, PREDECESSORS IN INTEREST, SUCCESSORS, AND ASSIGNS, AGREE TO ARBITRATION (EXCEPT FOR MATTERS THAT MAY BE TAKEN TO SMALL CLAIMS COURT), AS THE EXCLUSIVE FORM OF DISPUTE RESOLUTION EXCEPT AS PROVIDED FOR BELOW, FOR ALL DISPUTES AND CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT, THE SERVICE, OR THE PRIVACY POLICY, UNLESS YOU ARE LOCATED IN A JURISDICTION THAT PROHIBITS THE EXCLUSIVE USE OF ARBITRATION FOR DISPUTE RESOLUTION.
+
+12.4. Arbitration is more informal way to settle disputes than a lawsuit in court. A neutral arbitrator instead of a judge or jury is used in arbitration, which allows for more limited discovery than in court, and is subject to very limited review by courts. The same damages and relief that a court can award can be awarded by arbitrators. Please see more information about arbitration at http://www.adr.org.
+
+12.5. A party which intends to seek arbitration must first send to the other a written notice of intent to arbitrate (a ”Notice”) by an international courier with a tracking mechanism, or, in the absence of a mailing address provided by you to us, via any other method available to us, including via e-mail. The Notice to the Company must be addressed to: Vasili Michailidi, 9, 3026, Limassol, Cyprus (as applicable, the ”Arbitration Notice Address”). The Notice shall (i) describe the basis and nature of the claim or dispute; and (ii) set the specific relief sought (the ”Demand”). If you and the Company do not reach an agreement to resolve the claim within 30 days after the Notice is received, then you or we may commence an arbitration proceeding as set forth below or file an individual claim in small claims court.
+
+12.6. THE AMERICAN ARBITRATION ASSOCIATION (”AAA”) WILL EXCLUSIVELY ADMINISTER THE ARBITRATION IN ACCORDANCE WITH ITS COMMERCIAL ARBITRATION RULES AND THE SUPPLEMENTARY PROCEDURES FOR CONSUMER RELATED DISPUTES (THE ”Rules”), AS MODIFIED BY THESE TERMS.
+
+12.7. If you commence arbitration against us, you are required to provide a second Notice to the Company at the Arbitration Notice Address within seven (7) days of arbitration commencement. The Rules and AAA forms are available online at http://www.adr.org. Unless your Demand is equal to or greater than $1,000 or was filed in bad faith, in which case you are solely responsible for the payment of the filing fee, if you are required to pay a filing fee to commence an arbitration against us, then we will promptly reimburse you for your confirmed payment of the filing fee upon our receipt of the second Notice at the Arbitration Notice Address that you have commenced arbitration along with a receipt evidencing payment of the filing fee.
+
+12.8. The arbitration shall be conducted exclusively in English. A single, independent and impartial arbitrator with his or her primary place of business in Alexandria, Virginia (if you are from the United States) or in Limassol, Cyprus (if you are not from the United States) will be appointed pursuant to the Rules, as modified herein. You and the Company agree to comply with the following rules, which are intended to streamline the arbitration process and reduce the costs and burdens on the parties: (i) the arbitration will be conducted online and/or be solely based on written submissions, the specific manner to be chosen by the party initiating the arbitration; (ii) the arbitration will not require any personal appearance by the parties or witnesses unless otherwise mutually agreed in writing by the parties; and (iii) any judgment on the award the arbitrator renders may be entered in any court of competent jurisdiction.
+
+12.9. TO THE FULLEST EXTENT PERMITTED UNDER LAW, YOU AND THE COMPANY AGREE THAT YOU AND THE COMPANY MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, REPRESENTATIVE, OR CONSOLIDATED PROCEEDING. FURTHER, YOU AGREE THAT THE ARBITRATOR MAY NOT CONSOLIDATE PROCEEDINGS OF MORE THAN ONE PERSON’S CLAIMS, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING, AND THAT IF THIS SPECIFIC PROVISION IS FOUND TO BE UNENFORCEABLE, THEN THE ENTIRETY OF THIS MANDATORY ARBITRATION SECTION WILL BE NULL AND VOID.
+
+12.10. The arbitrator shall have the exclusive and sole authority to resolve any dispute relating to the interpretation, construction, validity, applicability, or enforceability of these Terms, Privacy Policy, and this arbitration provision. The arbitrator shall have the exclusive and sole authority to determine whether this arbitration clause can be enforced against a non-party to this agreement and whether a non-party to these Terms can enforce its provision against you or us.
+
+12.11. Barring extraordinary circumstances, the arbitrator will issue his or her final, confidential decision within 120 days from the date the arbitrator is appointed. The arbitrator may extend this time limit for an additional 30 days upon a showing of good cause and in the interests of justice. All arbitration proceedings will be closed to the public and confidential, and all records relating thereto will be permanently sealed, except as necessary to obtain court confirmation of the arbitration award. The award of the arbitrator will be in writing and will include a statement setting forth the reasons for the disposition of any claim. The arbitrator shall apply the laws of the Commonwealth of Virginia without regard to its conflicts of laws principles in conducting the arbitration. You acknowledge that these terms and your use of the Service evidences a transaction involving interstate commerce. The United States Federal Arbitration Act (”FAA”) will govern the interpretation, enforcement, and proceedings pursuant to this Section 12. Any award rendered shall be final, subject to appeal under the FAA.
+
+12.12. The above stated provisions of this Section 12 shall not apply to any claim in which either party seeks equitable relief to protect such party’s copyrights, trademarks, patents, or other intellectual property. For the avoidance of doubt, you agree that, in the event the Company or a third party breaches these Terms, the damage or harm, if any, caused to you will not entitle you to seek injunctive or other equitable relief against us, and your only remedy will be for monetary damages, subject to the limitations of liability set forth in these Terms.
+
+12.13. You and we agree that, notwithstanding any other rights a party may have at law or in equity, any claim arising out of or related to these Terms (including the Privacy Policy) or the Service, excluding a claim for indemnification, must be initiated with the AAA or filed in small claims court in Alexandria, Virginia within one (1) year after the claim accrues. Otherwise, such cause of action is permanently and forever barred. This one (1) year period includes the thirty (30) day pre-dispute procedure set forth in sub-clause 12.5 above.
+
+12.14. All claims you bring against the Company must be resolved in accordance with this Section. All claims filed or brought contrary to this Section shall be considered improperly filed. Should you file a claim contrary to this Section, the Company may recover attorneys’ fees and reimbursement of its costs, provided that the Company has notified you in writing of the improperly filed claim, and you fail to promptly withdraw such claim.
+
+12.15. In the event that we make any material change to this arbitration provision (other than a change to our Arbitration Notice Address), you may reject any such change by sending us written notice to our Arbitration Notice Address within thirty (30) days of the change, in which case you shall terminate your use of the Service immediately, and this Section, as in effect immediately prior to the amendments you reject, will survive the termination of these Terms.
+
+12.16. If only clause 12.9 paragraph above or the entirety of this Section 12 is found to be unenforceable, then the entirety of this Section 12 will be null and void and, in such case, the parties agree that the exclusive jurisdiction and venue described in Section 13 will govern any action arising out of or related to this Agreement.
+
+12.17. YOU UNDERSTAND THAT YOU WOULD HAVE HAD A RIGHT TO LITIGATE THROUGH A COURT, TO HAVE A JUDGE OR JURY DECIDE YOUR CASE, AND TO BE PARTY TO A CLASS OR REPRESENTATIVE ACTION. HOWEVER, YOU UNDERSTAND AND AGREE TO HAVE ANY CLAIMS DECIDED INDIVIDUALLY AND ONLY THROUGH BINDING, FINAL, AND CONFIDENTIAL ARBITRATION.
+
+12.18. YOU HAVE THE RIGHT TO OPT-OUT OF THIS ARBITRATION PROVISION WITHIN THIRTY (30) DAYS FROM THE DATE THAT YOU FIRST USE, OR ATTEMPT TO USE, THE SERVICE BY WRITING TO support@myanima.ai OR TO THE ARBITRATION NOTICE ADDRESS. FOR YOUR OPT-OUT TO BE EFFECTIVE, YOU MUST SUBMIT A SIGNED WRITTEN NOTICE OPTING OUT AND CONTAINING ENOUGH DETAILS ABOUT YOU FOR US TO BE ABLE TO IDENTIFY YOU WITHIN THIRTY (30) DAYS. IF MORE THAN THIRTY (30) DAYS HAVE PASSED, YOU ARE NOT ELIGIBLE TO OPT OUT OF THIS PROVISION AND YOU MUST PURSUE YOUR CLAIM THROUGH BINDING ARBITRATION AS SET FORTH IN THIS AGREEMENT.
+
+13. GOVERNING LAW
+
+13.1. The laws of England and Wales, excluding its conflicts of law principles, govern these Terms and your use of the Service.
+
+13.2. To the extent that any action relating to any dispute hereunder is permitted to be brought in a court of law, such action will be subject to the exclusive jurisdiction of:
+
+13.2.1. the state and federal courts in the City of Alexandria, Virginia – if you are a resident of the United States; or
+
+13.2.2. the courts of Limassol, Cyprus – if you are not a resident of the United States; and you hereby irrevocably submit to personal jurisdiction and venue in such courts, and waive any defense of improper venue or inconvenient forum.
+
+13.3. The online dispute settlement platform of the European Commission is available at Online Dispute Resolution | European Commission. We do not take part in dispute settlement procedures in front of a consumer arbitration entity for users residing in the EU, EEA, UK, or Switzerland
+
+13.4. If you are a California resident, in accordance with Cal. Civ. Code § 1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 1625 North Market Blvd., Suite N 112 Sacramento, CA 95834, or by telephone at (800) 952-5210.
+
+15. NOTICE REGARDING MOBILE STORES
+
+15.1. If you are accessing the Service on an Apple Inc. (”Apple”) App Store or if you are using the Service on an iOS device(s), you acknowledge that you have read, understood, and agree to the following notice regarding Apple.
+
+15.2. Acknowledgement. These Terms are between you and the Company only, not with Apple, and Apple is not responsible for the Service and the content thereof.
+
+15.3. Scope of License. The license granted to you hereunder is limited to a personal, limited, non-exclusive, non-transferable right to install the Service on the iOS device(s) that you own or control for personal, non-commercial use, subject to the Usage Rules set forth in Apple App Store Terms of Services.
+
+15.4. Maintenance and Support. The Company is solely responsible for providing any maintenance and support services with respect to the Service, as specified in these Terms, or as required under applicable law. Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Service.
+
+15.5. Warranty. The Company is solely responsible for any warranties, whether express or implied by law to the effect not effectively disclaimed. In the event of any failure of the Company to conform to any applicable warranty, you may notify Apple, and Apple will refund the applicable purchase price for the Service to you; and, to the maximum extent permitted by applicable law, Apple has no other warranty obligation whatsoever with respect to the Service.
+
+15.6. Claims. The Company, not Apple, is responsible for addressing any claims of you or any third party relating to the Service or your possession or use of the Service, including: (i) product liability claims; (ii) any claim that the Service fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
+
+15.7. Intellectual Property Rights. In the event of any third-party claim that the Service or your possession and use of the Service infringes such third-party’s intellectual property rights, the Company, and not Apple will be solely responsible for the investigation, defense, settlement or discharge of such intellectual property infringement claim.
+
+15.8. Third-Party Terms of Agreement. In your use of the Service, you must comply with any applicable third-party terms of agreement which may affect or be affected by such use;
+
+15.9. Legal Compliance. You represent and warrant that (a) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (b) you are not listed on any U.S. Government list of prohibited or restricted parties.
+
+15.10. Third-Party Beneficiaries. Apple and Apple’s subsidiaries are third-party beneficiaries of these Terms, and that upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as the third-party beneficiary of the Terms.
+
+15.11. Name and Address. If you have any questions, complaints, or claims with respect to the Service, they should be directed to us as specified in clause 1.1.
+
+15.12. If you are accessing the Service on a Google, Inc. or one of its affiliates (”Google”) Google Play (or its successors), you acknowledge that you have read, understood, and agree to the following notice regarding Google Play.
+
+15.13. To the extent of any conflict between (a) the Google Play Terms of Services and the Google Play Business and Program Policies or such other terms which Google designates as default end user license terms for Google Play (”Google Play Terms”), and (b) the other terms and conditions in these Terms, the Google Play Terms shall apply with respect to your use of the Service that you download from Google Play, and you hereby acknowledge that Google does not have any responsibility or liability related to compliance or non-compliance by the Company or you (or any other user) under these Terms or the Google Play Terms.
+
+16. NOTICE REGARDING MOBILE STORES
+
+If you want to send any notice under these Terms or have any questions regarding the Service, you may contact us at: support@myanima.ai.
+
+I HAVE READ THESE TERMS AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE.
+
+Last Updated: 09 January 2025

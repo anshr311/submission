@@ -1,0 +1,21 @@
+# SOURCE: https://news.microsoft.com/source/topics/ai/
+# ENTRY: 43 | COMPANY: Microsoft | DATE: 2026-05-21
+# METHOD: playwright
+
+Skip to main content
+AI
+Tag:
+Accessibility
+Why better AI starts with the people it often misses
+Tag:
+AI
+At aged care provider Regis, AI takes on paperwork so staff can focus on residents
+Tag:
+AI
+Costa Rican dairy cooperative turns AI agents into coworkers
+Tag:
+Customers
+4 ways AI is enabling the future of industrial work
+Tag:
+AI
+Inside Porsche Cup Brasil’s AI-powered race operations

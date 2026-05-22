@@ -1,0 +1,194 @@
+# SOURCE: https://arxiv.org/abs/2301.08110
+# ENTRY: 10 | COMPANY: Aleph Alpha | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Computer Science > Machine Learning
+arXiv:2301.08110
+(cs)
+[Submitted on 19 Jan 2023 (
+v1
+), last revised 7 Jan 2025 (this version, v6)]
+Title:
+AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation
+Authors:
+Björn Deiseroth
+,
+Mayukh Deb
+,
+Samuel Weinbach
+,
+Manuel Brack
+,
+Patrick Schramowski
+,
+Kristian Kersting
+View a PDF of the paper titled AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation, by Bj\"orn Deiseroth and 5 other authors
+View PDF
+HTML (experimental)
+Abstract:
+Generative transformer models have become increasingly complex, with large numbers of parameters and the ability to process multiple input modalities. Current methods for explaining their predictions are resource-intensive. Most crucially, they require prohibitively large amounts of extra memory, since they rely on backpropagation which allocates almost twice as much GPU memory as the forward pass. This makes it difficult, if not impossible, to use them in production. We present AtMan that provides explanations of generative transformer models at almost no extra cost. Specifically, AtMan is a modality-agnostic perturbation method that manipulates the attention mechanisms of transformers to produce relevance maps for the input with respect to the output prediction. Instead of using backpropagation, AtMan applies a parallelizable token-based search method based on cosine similarity neighborhood in the embedding space. Our exhaustive experiments on text and image-text benchmarks demonstrate that AtMan outperforms current state-of-the-art gradient-based methods on several metrics while being computationally efficient. As such, AtMan is suitable for use in large model inference deployments.
+Subjects:
+Machine Learning (cs.LG)
+; Artificial Intelligence (cs.AI)
+Cite as:
+arXiv:2301.08110
+[cs.LG]
+(or
+arXiv:2301.08110v6
+[cs.LG]
+for this version)
+https://doi.org/10.48550/arXiv.2301.08110
+Focus to learn more
+arXiv-issued DOI via DataCite
+Submission history
+From: Björn Deiseroth [
+view email
+]
+[v1]
+Thu, 19 Jan 2023 15:01:00 UTC (32,105 KB)
+[v2]
+Mon, 23 Jan 2023 23:30:02 UTC (47,675 KB)
+[v3]
+Fri, 20 Oct 2023 20:50:46 UTC (41,082 KB)
+[v4]
+Wed, 25 Oct 2023 12:05:01 UTC (41,138 KB)
+[v5]
+Sun, 5 Nov 2023 14:16:21 UTC (41,138 KB)
+[v6]
+Tue, 7 Jan 2025 17:26:26 UTC (41,301 KB)
+Full-text links:
+Access Paper:
+View a PDF of the paper titled AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation, by Bj\"orn Deiseroth and 5 other authors
+View PDF
+HTML (experimental)
+TeX Source
+view license
+Current browse context:
+cs.LG
+< prev
+|
+next >
+new
+|
+recent
+|
+2023-01
+Change to browse by:
+cs
+cs.AI
+References & Citations
+NASA ADS
+Google Scholar
+Semantic Scholar
+export BibTeX citation
+Loading...
+BibTeX formatted citation
+×
+loading...
+Data provided by:
+Bookmark
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer
+(
+What is the Explorer?
+)
+Connected Papers Toggle
+Connected Papers
+(
+What is Connected Papers?
+)
+Litmaps Toggle
+Litmaps
+(
+What is Litmaps?
+)
+scite.ai Toggle
+scite Smart Citations
+(
+What are Smart Citations?
+)
+Code, Data, Media
+Code, Data and Media Associated with this Article
+alphaXiv Toggle
+alphaXiv
+(
+What is alphaXiv?
+)
+Links to Code Toggle
+CatalyzeX Code Finder for Papers
+(
+What is CatalyzeX?
+)
+DagsHub Toggle
+DagsHub
+(
+What is DagsHub?
+)
+GotitPub Toggle
+Gotit.pub
+(
+What is GotitPub?
+)
+Huggingface Toggle
+Hugging Face
+(
+What is Huggingface?
+)
+ScienceCast Toggle
+ScienceCast
+(
+What is ScienceCast?
+)
+Demos
+Demos
+Replicate Toggle
+Replicate
+(
+What is Replicate?
+)
+Spaces Toggle
+Hugging Face Spaces
+(
+What is Spaces?
+)
+Spaces Toggle
+TXYZ.AI
+(
+What is TXYZ.AI?
+)
+Related Papers
+Recommenders and Search Tools
+Link to Influence Flower
+Influence Flower
+(
+What are Influence Flowers?
+)
+Core recommender toggle
+CORE Recommender
+(
+What is CORE?
+)
+IArxiv recommender toggle
+IArxiv Recommender
+(
+What is IArxiv?
+)
+Author
+Venue
+Institution
+Topic
+About arXivLabs
+arXivLabs: experimental projects with community collaborators
+arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.
+Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.
+Have an idea for a project that will add value for arXiv's community?
+Learn more about arXivLabs
+.
+Which authors of this paper are endorsers?
+|
+Disable MathJax
+(
+What is MathJax?
+)

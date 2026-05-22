@@ -1,0 +1,50 @@
+# SOURCE: https://research.atspotify.com/
+# ENTRY: 41 | COMPANY: Spotify | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Research
+dedicated to extending the state
+of the art in audio and video
+Mar 17, 2026
+Cold-Starting Podcast Ads with Multi-Task Learning
+Podcasts are one of Spotify’s fastest-growing content verticals, with over 750 million users discovering...
+Search & Recommendations
+Artificial Intelligence
+Nov 27, 2025
+Transforming AI Research into Personalized Listening: Spotify at NeurIPS 2025
+Spotify is proud to sponsor NeurIPS 2025...
+Artificial Intelligence
+Nov 25, 2025
+Teaching Large Language Models to Speak Spotify: How Semantic IDs Enable Personalization
+Spotify’s mission is to connect every listener with the right audio and help every creator be discovered...
+Artificial Intelligence
+Search & Recommendations
+Audio and Visual Intelligence
+Nov 18, 2025
+Spillover Detection for Donor Selection in Synthetic Control Models
+There are many situations at Spotify where A/B tests can’t be performed...
+Causal Inference
+More posts
+Latest Publications
+We publish research papers and present our work in a wide range of venues.
+More publications
+Cold-Starting Podcast Ads and Promotions with Multi-Task Learning on Spotify
+Shivam Verma, Hannes Karlbom, Yu Zhao, Nick Topping, Vivian Chen, Kieran Stanley, Bharath Rengarajan
+Spillover Detection for Donor Selection in Synthetic Control Models
+Michael O'Riordan, Ciarán Gilligan-Lee
+Learning Optimal Personalised Reservation Prices in Impression Ad Auctions with Mixture Density Networks
+Dmitrii Moor, Emma Zetterdahl, Paul van Vliet, Zhenwen Dai, Mounia Lalmas
+Research Areas
+How do we create more personalized experiences? What can we learn about listeners on how they use written language? How do we optimize testing methodologies? Explore all our research areas below.
+Algorithmic Responsibility
+Artificial Intelligence
+Audio and Visual Intelligence
+Causal Inference
+Economics
+Evaluation
+Search & Recommendations
+Speech and NLP
+User Modeling
+We are looking for pioneers to join us in all research areas
+We're expanding knowledge of audio and video technology every day, sharing open source frameworks, tools, libraries, and models for everything from research exploration to large-scale production deployment.
+Join Us

@@ -1,0 +1,166 @@
+# SOURCE: https://www.intercom.com/fin
+# ENTRY: 49 | COMPANY: Intercom | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+The #1 AI Agent for
+all
+your customer service
+#1 in bake-offs
+#1 in benchmarks
+#1 for complex queries
+View demo
+Start free trial
+POWERED BY FIN APEX 1.0
+The highest-performing, fastest model for customer service.
+Learn more
+POWERED BY FIN APEX 1.0
+The highest-performing, fastest model for customer service.
+Learn more
+Capabilities
+Fin resolves the most complex queries on every channel
+01
+Fin handles even the most complex queries through a continuous improvement loop called the Fin Flywheel. Train Fin on your Procedures, knowledge, and policies, test performance before launch, deploy across every channel, then analyze and improve with AI-powered Insights—so every query is resolved accurately and consistently.
+Explore all capabilities
+1. Train
+Train Fin to resolve even the most complex queries with your Procedures, knowledge and policies.
+Learn more
+2. Test
+Run fully simulated customer conversations from start to finish to see exactly how Fin will behave before going live.
+Learn more
+3. Deploy
+Set Fin live across every channel—voice, email, chat, and social—for consistent support wherever customers reach out.
+Learn more
+4. Analyze
+Use AI-powered Insights to analyze and  improve Fin’s performance and deliver better customer experiences.
+Learn more
+1. Train
+Train Fin to resolve even the most complex queries with your Procedures, knowledge and policies.
+Learn more
+2. Test
+Run fully simulated customer conversations from start to finish to see exactly how Fin will behave before going live.
+Learn more
+3. Deploy
+Set Fin live across every channel—voice, email, chat, and social—for consistent support wherever customers reach out.
+Learn more
+4. Analyze
+Use AI-powered Insights to analyze and  improve Fin’s performance and deliver better customer experiences.
+Learn more
+Unrivaled Performance
+Fin outperforms every competitor.
+Every time.
+Fig 2.A -
+Fin’s average resolution rate has grown from 23% to 71% since launch
+Fig 2.B -
+Fin wins every head-to-head test ON RESOLUTION RATE
+Resolution rate based on independent testing conducted by Fin customers.
+Fig 2.C -
+Fintech Customer
+“Fin is in a completely different league. It’s now involved in 99% of conversations and
+successfully resolves up to 65% end-to-end—even the more complex ones.
+”
+Angelo Livanos, Vice President of Global Support at Lightspeed
+Seamless integration
+Fin works with any helpdesk
+03
+Set up Fin with your existing helpdesk or Intercom—with support for additional platforms and custom channels.
+Fin and Intercom
+Fin for Salesforce
+Key features
+Set up in under an hour.
+Integrates into your current support channels—tickets, email, live chat, and more.
+Follows your existing assignment rules, automations, and reporting.
+Escalates to agents in your preferred inbox.
+Fin and Intercom
+Fin for Salesforce
+Superior Technology
+Powered by the Fin AI EngineTM
+Powered by the Fin AI EngineTM
+04
+The Fin AI EngineTM is a patented AI architecture specifically engineered for complex customer service queries. Every layer is optimized for accuracy, speed, and reliability—so Fin can resolve more conversations, more effectively than competing AI Agents.
+Learn more
+Fig 4.A -
+Fin AI EngineTM
+refine the query
+retrieve relevant content
+rerank for precision
+generate a response
+validate accuracy
+engine optimization
+[4.a.1] Refine the query
+In order to optimize the accuracy of an answer that an LLM generates, the inputs the LLM receives must be refined for comprehension.
+[4.a.2] Retrieve relevant content
+The retrieval process, powered by our proprietary fin-cx-retrieval model, searches across all knowledge sources and selects the most relevant information for accurate answers.
+Powered by fin-cx
+[4.a.3] Rerank for precision
+The reranking process, powered by our proprietary fin-cx-reranker model, scores retrieved content for relevance and accuracy, then selects the optimal pieces for the LLM to use.
+Powered by fin-cx
+[4.a.4] Generate a response
+Fin Apex 1.0 is the generative core of Fin. It takes the most relevant content retrieved and ranked by the Fin model suite, applies your configured policies, and produces a direct answer or decides the question needs a human.
+Powered by Fin Apex 1.0
+[4.a.5] Validate accuracy
+In the final step, the Fin AI EngineTM checks whether the LLM output meets response accuracy and safety standards.
+[4.a.6] Engine optimization
+To calibrate performance, the Fin AI EngineTM uses integrated tools that optimize answer generation, efficiency, precision, and coverage.
+Trusted and fully certified
+AI Team
+Built by a world-class team of AI experts
+05
+The AI Group, an expert team of over 60 machine learning scientists, engineers and designers, continuously optimize Fin’s performance through cutting-edge research, experimentation, and innovation—and publish their insights in the
+AI research blog
+.
+AI Group Leadership
+Pratik Bothra
+Principal Machine Learning Engineer
+Rob Clancy
+Principal Machine Learning Engineer
+Mario Kostelac
+Principal Machine Learning Engineer
+Molly Mahar
+Principal AI Designer
+Brian McDonnell
+Director, Engineering
+Fedor Parfenov
+Staff Machine Learning Scientist
+Fergal Reid
+Chief AI Officer
+Pedro Tabacof
+Principal Machine Learning Scientist
+Alexey Tarasov
+Senior Manager, ML Engineering
+Rati Zvirawa
+Director, Product Management
+Get the #1 AI Agent for
+all your customer service
+FIN MILLION DOLLAR GUARANTEE
+Fin with your
+current helpdesk
+Fin AI Agent works seamlessly with any helpdesk, including Salesforce, HubSpot, and more.
+$
+0.99
+per outcome
+50 outcomes per month minimum
+Free 14 day trial
+Get a demo
+Fin and Intercom
+Includes Fin and Intercom working together.
+From
+$
+0.99
+per
+outcome
++
+$
+29
+per helpdesk seat
+per month
+(see all plans)
+Free 14 day trial
+Get a demo
+Get started with the
+#1 AI Agent today
+View demo
+Start free trial
+Customer Agent
+Our vision—one Agent for the entire customer experience
+Imagine a single Customer Agent across the whole customer journey. A future that opens the door to a previously-unimaginable level of customer experience.
+Learn more

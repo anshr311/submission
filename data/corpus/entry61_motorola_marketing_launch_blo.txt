@@ -1,0 +1,70 @@
+# SOURCE: https://www.motorola.com/us/smartphones-moto-ai-features
+# ENTRY: 61 | COMPANY: Motorola | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Preorder Exclusive - Get a
+free watch, plus 1 year of Moto Care.
+Pre-order
+Preorder now and save up to $500
+with Trade-in, plus get a free gift!
+Pre-order
+Preorder and get $500 with
+trade-in, plus a free active pen
+and 1 year of Moto Care!
+Pre-order
+Recommendations
+Find your edge
+Elevate every moment with edge.
+Shop
+edge
+Stylish yet durable
+Tackle life in style with
+moto g
+.
+Shop
+moto g
+Complete your
+experience
+Explore
+moto buds loop
+designed to keep you connected, in control,
+and ready for anything.
+Learn More
+Moto Care purchase protection
+Extend your warranty coverage with a Moto Care protection plan
+Learn more
+Motorola Videos
+Watch new announcements and get handy tips for all out latest smartphones!
+Learn more
+Find your perfect match
+Photographers
+Gamers
+Content creators
+Adventurers
+Learn more
+The official smartphone partner of FIFA
+Learn more
+Make the switch to moto
+Learn more
+Gear up with accessories that fit
+Learn more
+Get support for your Motorola devices
+Learn more
+The official smartphone partner of FIFA
+Learn more
+Make the switch to moto
+Learn more
+Gear up with accessories that fit
+Learn more
+Get support for your Motorola devices
+Learn more
+The official smartphone partner of FIFA
+Learn more
+Make the switch to moto
+Learn more
+Gear up with accessories that fit
+Learn more
+Get support for your Motorola devices
+Document
+Don't miss anything!
+{{payAccept}}

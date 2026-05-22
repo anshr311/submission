@@ -1,0 +1,14 @@
+# SOURCE: https://research.snap.com/
+# ENTRY: 40 | COMPANY: Snap Inc. | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Mission
+Snap Research serves as an innovation engine for Snap Inc. Our projects range from
+ solutions to hard technical problems that significantly enhance Snap’s existing products, to riskier
+ explorations that can lead to fundamental paradigm shifts in the way people communicate and express
+ themselves.
+Computational Imaging
+User Modeling & Personalization
+Creative Vision
+Snap Research Mission
+Snap Research serves as an innovation engine for Snap Inc. Our work spans from tackling challenging technical problems that support and enhance Snap’s products, to exploring emerging ideas that may shape future ways people communicate and express themselves.

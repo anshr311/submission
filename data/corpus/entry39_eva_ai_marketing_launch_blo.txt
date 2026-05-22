@@ -1,0 +1,272 @@
+# SOURCE: https://eva.ai/
+# ENTRY: 39 | COMPANY: EVA AI | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Workforce Decision Intelligence Platform
+Hiring, mobility, and skills decisions — faster, fairer and auditable at scale.
+Trusted by global enterprises and the United Nations across 170+ countries.
+Talk to Eleanor, our Workforce AI Advisor
+Winners / Finalists
+HR & TECH recognitions
+Time Savings
+0%
+reduction in cost and hours spent per job requisition. From 100 Hours to 10 Hours: Streamlined, Smart, Scalable
+Process Productivity
+0x
+more hiring workflows completed with fewer manual steps and less coordination time
+Talent Mobility Effectiveness
+0x
+increase in internal role matches and employee redeployments with skills-based recommendations and visibility
+HR Ops Cost savings
+0m
+in USD
+saved per 1,000 requisitions
+Quality of Hires
+0%
+Better matches, reduced churn, Match scores aligned to business outcomes
+User Experience
+0%
+Candidates & Employees rated Positive Experience with EVA Conversational AI
+We heard the first step is the hardest
+Step today into the world of
+Workforce Decision Intelligence
+DEMO MEETING
+EVA.AI SOLUTIONS
+Built for Human-AI Collaboration
+EVA is built for HR teams who want less admin and more impact with smart automation, conversational engagement, and predictive intelligence across the full talent lifecycle.
+And we never cut HR out of the loop.
+EVA is designed to augment, not replace. Our system, designed with
+human-in-the-loop logic
+, gives real-time control over AI recommendations, seamless bot-to-human handovers, and learns from your feedback.
+Smart Match
+AI Screening
+Conversational AI
+Skills Taxonomy
+Talent Marketplace
+HCM Automation
+Smart Match
+AI Powered Match with Precision and Speed
+Smart Match & Fast Shortlists
+EVA finds the right fit in seconds, using AI-powered logic aligned to your role needs. Our shortlists are magic.
+GPT experience
+to search talent using natural language prompts
+Source from internal or external talent databases with ease
+Deep-matching logic with real-time
+RAG scoring
+AI Justification
+: Know why someone fits, with objective match scores and a clear summary
+Explore Smart Match on EVA.ai
+AI Screening
+Explainable AI Decisions
+AI Screening
+Capture your
+essential and desired criteria
+, and let EVA’s AI generate real-time, data-backed shortlisting justifications.
+Customizable Criteria Inputs: Tailor AI decisions with your must-haves and nice-to-haves.
+Instant Decision Snapshots: See AI-generated evaluations at a glance.
+AI Conclusion
+: Get clear fit summaries like “Excellent Fit” or “Not a Good Fit.
+Explore AI Screening on EVA.ai
+Conversational AI
+Always on engagement with talent
+EVA Bot - Your HR sidekick
+EVA Bot engages candidates, employees, and contractors by screening, updating, and answering questions in real time.
+Pre-screens
+with set criteria and knockout logic
+Collects
+skills, availability,
+and preferences
+Answers
+FAQs
+and can handle 100+ standard HR topics
+Train on
+custom org policies
+and processes
+Escalates to HR agents
+smoothly, without hallucinating responses
+Asks for availability and
+schedules
+with zero back-and-forth
+Meet EVA Bot and its skills
+Skills Taxonomy
+Make Sense of your Skills Data
+Skills Taxonomy & Workforce Intelligence
+EVA structures and analyzes your workforce capabilities—so you can make informed, strategic talent decisions.
+Visualize
+skills, competencies, and proficiency levels aligned to your framework.
+Forecast
+skills gaps, demand, and mobility opportunities
+Automate
+skill updates through EVA Bot
+Full guide on Skill Taxonomy management
+Talent Marketplace
+Retain talent and nurture them
+Talent Marketplace and Internal Mobility
+EVA proactively surfaces internal matches, personalized job options, and career paths before your people start looking elsewhere.
+Proactively
+recommends
+internal roles and gigs.
+Skill-based internal matches +
+personalized career paths
+Boosts engagement,
+retention, and succession
+outcomes
+Explainer Sheet on Talent Marketplace
+HCM Automation
+Plan ahead. Act faster. Do more.
+HCM Automation & Workforce Planning
+EVA connects the dots across your HR ecosystem to automate, align, and future-proof your workforce strategy.
+Predict churn, hiring needs, and
+org restructuring
+Align
+workforce skills
+to strategic priorities
+Automate workflows
+and trigger actions
+Centralized insights. Zero silos.
+Plan Your Workforce Smarter
+Not sure what’s worth your time here?
+This is a quick way to understand what actually matters for
+your
+context.
+Meet Eleanor
+Eleanor is our AI teammate for Talent Ops and Workforce Productivity.
+She helps you make sense of hiring, internal mobility, workforce planning, and cost visibility without sitting through a demo.
+She’ll listen to what’s happening in your org, pinpoint the real constraint underneath, map it to the right EVA.ai capabilities, and give you one clear next step >>
+Chat with Eleanor
+Building a Better Future
+Testimonials
+We work with some of the most forward-thinking companies in the HCM space who believe in our Workforce Decision Intelligence vision.
+With EVA, our objective is to multiply by 5 the effectiveness of the UNDP GPN (Global Policy Network) / ExpRes (Experts Roster for Rapid Response) deployment of consultants for Crisis Management, Crisis Recovery and Resilience across all technical areas in the 170 countries and territories in which we operate.
+Saumik De
+Crisis Response, Talent Management and Deployments Expert of UNDP
+Our work is driven by intelligence. How we innovate, plan and measure the impact we have on teams just took a huge leap forward with the EVA bot for analytics. And it’s integrated into our own Webex Teams collab tech. Huge win for us!
+Scott Herpolsheimer
+Director of Team Success.  Talent Management. Team Performance. Technology. Human Resources.
+Configurable RPA workflows, a multi-channel chatbot and powerful machine learning combine to create a solution that feels like it was built for us. From the moment Drue gave us a tour of the system, I got that feeling that this was going to change everything. I’m glad I made the decision, For the first time in a while I get excited about the future of my business and that’s saying something in today’s competitive market.
+Rob Arnold
+Head of Business Development at Semester Recruitment
+I voted for EVA at Unleash as I believe they have developed something special in the automation space, aligned to key challenges that organisations are facing today. A solution that is scalable and flexible with a great user experience. Today we have a global partnership with EVA and are very excited about working with them closely in the future.
+Pag Miles
+Technology & Investment
+Using EVA.ai we are able to scale candidate engagement and recruiter productivity without increasing our overheads. In the healthcare space, the first-mover advantage is key and EVA gives us that competitive edge.
+Alvi Veselaj
+Director Vobis Medical Recruitment
+Congratulations to EVA.ai – Predictive Recruitment Technology, our first UNLEASH19 Startup Competition Winner, you have done an amazing job impressing both our expert jurors and the audience. Looking forward to seeing you shine!
+Unleash 2019
+Unleash 2019
+After reviewing extensively the market for the newest and most advanced recruitment technology solutions for both Corporate HR and agencies, I can affirm without a doubt, EVA.ai is head and shoulder above anything I’ve seen in the market! Their UX is as simple and beautiful as their features and plug-ins are all-encompassing.
+Javier Aguilera
+Former Global Recruitment Innovation Manager L’Oreal
+Eva is a pioneer in HR and automation technology. It is one of a select number of market leaders with genuine capabilities in AI , automation and analytics in the people domain . It is unique in its collaborative style and passion for customer fulfilment. Eva is a business that, in a short space of time, has come a long way and has an exponential journey of business growth to come.
+James Ballard
+Director and Co-Founder
+We want to work with EVA.ai in a strategic partnership to drive accelerated growth through an in-depth relationship following the Tech CEO Framework.
+HR Lead Analyst
+Gartner
+Eva Bot’s conversational AI makes every interaction smooth and engaging, saving our team countless hours in proactive and reactive communication. Its flexible APIs meant integration with our existing systems was effortless, and the Talent Management module keeps our employees actively updating their skills and preferences. On top of that, EVA.ai’s agile business model with clear roadmap visibility and lightning-fast change requests—feels like having a true partner in modern HR.
+Steve Clabby
+Global Process Lead - Contingent Workforce
+We are really benefitting from EVA.ai powering our platform (after the detailed set-up and fine-tuning – nothing comes easily in live...!). The benefits in terms of qualitative work output and productivity are nothing short of phenomenal – light years ahead of anyone still using drop-downs to search across talent pools....
+Fernando de Benavides
+Managing Director - Terra Firma Associates
+HR Cognitive Product Suite
+1 Platform with
+6 Pre-Configured Technology Products
+EVA.ai's platform is highly
+configurable
+&
+modular.
+Your tech infrastructure, however complex, can seamlessly
+integrate
+and be
+augmented
+without compromising on its
+security
+.
+Gain operational
+speed
+,
+autonomy
+, and
+agility
+with our flexible
+pre-configured
+platform to build the
+HCM solution
+tailored to your organisation’s needs.
+AI-powered Personalised Portals
+Ensure every stakeholder group has the right digital personalised experience and information to take the right actions and accelerate your operations.
+Learn More
+Conversational AI Assistant
+EVA's AI-enabled Conversational Assistant works 24/7 in a personalised fashion to supercharge people & growth.
+Learn More
+Machine Learning & Predictive AI
+EVA learns from decisions and your organisational data to fasten & augment consistent, unbiased decision-making processes for ethical Human Capital Management.
+Learn More
+Robotic Process Automation
+Give invaluable time back  to your people and leave the time consuming, tedious and repetitive work to robots
+Learn more
+People Analytics
+Generate real-time insights from your data via business intelligence reports and dashboards to drive strategic decisions, track productivity and measure effectiveness.
+Learn More
+Connectors
+Give your company’s existing tech stack a new life by connecting legacy HR systems, dispersed work processes and siloed data for full visibility & transparency of your organisation.
+Learn More
+We heard the first step is the hardest
+Step today into the world of
+Workforce Decision Intelligence
+DEMO MEETING
+Even More Reasons why Teams Love EVA.ai
+Business Consultation
+EVA's BA team run  ‘automation-first’ workshops with clients and potential clients. These sessions help teams analyse their current capabilities, understand breaks that interrupt workflows, and inform EVA.ai’s approach to building their unique solution.
+Download our C.A.R Framework
+Training
+Our team ensures your success with ongoing training sessions to help teams understand how EVA.ai works and establish new processes and guidelines for effective human capital management.
+Check how EVA works
+Customer Success Manager
+For each of our clients, our dedicated customer success manager works alongside HCM teams to drive adoption of our custom-designed solutions. Our main goal is to ensure that our automation-first solution drives maximum value across your entire organisation.
+Chat with our Success team
+Learn more about EVA's HCM Capabilities
+Case Studies, Whitepapers and more...
+Skills Intelligence and the End of “Talent Shortage” Thinking
+Artificial Intelligence
+,
+Automation
+,
+Blog
+,
+Talent Management
+11 December, 2025
+Automation in HR: Best Practices to balance tech and touch in HR
+Whitepapers
+8 April, 2025
+Webinar: Automation with Heart ♥ Balancing Tech and Touch in HR
+Press Release
+,
+TV Series & Videos
+8 April, 2025
+3 Ways Chatbots Improve Talent Engagement
+Blog
+,
+Conversational AI
+,
+Engagement
+,
+Experience
+8 January, 2025
+EVA.ai: How AI Is Used in Automating Talent Acquisition
+Artificial Intelligence
+,
+Automation
+,
+Conversational AI
+,
+Press Release
+,
+Talent Acquisition
+,
+TV Series & Videos
+,
+Workflows
+23 September, 2024

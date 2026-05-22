@@ -1,0 +1,14 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+playwright>=1.40.0
+pdfplumber>=0.10.0
+spacy>=3.7.0
+nltk>=3.8.0
+pandas>=2.0.0
+scipy>=1.11.0
+numpy>=1.24.0
+
+# After installing, also run:
+# python -m playwright install chromium-headless-shell
+# python -m spacy download en_core_web_sm
+# python -c "import nltk; nltk.download('punkt_tab')"

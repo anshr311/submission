@@ -1,0 +1,114 @@
+# SOURCE: https://inflection.ai/blog/pi
+# ENTRY: 12 | COMPANY: Inflection | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Pi, your personal AI
+Pi, your personal AI
+API
+API
+Enterprise
+Enterprise
+About Us
+About Us
+Introducing Pi, Your Personal AI
+May 2, 2023
+The First Release of a Kind and Supportive Companion Thatâs on Your Side
+Inflection AI today announced the first release of its Personal AI, Pi (
+heypi.com
+). A new class of AI, Pi is designed to be a kind and supportive companion offering conversations, friendly advice, and concise information in a natural, flowing style.
+Pi was created to give people a new way to express themselves, share their curiosities, explore new ideas, and experience a trusted personal AI. It is built on world-class proprietary AI technology developed in-house. The Pi experience is intended to prioritize conversations with people, where other AIs serve productivity, search, or answering questions. Pi is a coach, confidante, creative partner, or sounding board.
+âPi is a new kind of AI, one that isnât just smart but also has good EQ. We think of Pi as a digital companion on hand whenever you want to learn something new, when you need a sounding board to talk through a tricky moment in your day, or just pass the time with a curious and kind counterpartâ, said Mustafa Suleyman, CEO and co-founder of Inflection. âWe have a lot to learn and a long way to go, but we are excited to bring this first version of Pi to people around the world.â
+The Best Features of Pi, Your âPersonal AIâ
+Pi stands for âpersonal intelligenceâ because it can provide infinite knowledge based on a personâs unique interests and needs. Pi is a teacher, coach, confidante, creative partner, and sounding board. Pi is:
+Kind and supportive
+: it listens and empowers, to help process thoughts and feelings, work through tricky decisions step by step, for anything to talk over;
+Curious and humble
+: it is eager to learn and adapt, and gives feedback in plain, natural language that improves for each person over time;
+Creative and fun
+: it is playful and silly, laughs easily and is quick to make a surprising, creative connection; Knowledgeable, but succinct: it transforms browsing into a simple conversation;
+All yours
+: it is on your team, in your corner, and works to have your back;
+In development
+: it is still early days, so information could be wrong at times.
+âWe really are at an inflection point. AI is going to be the most transformational tool of our lifetimes. What motivates me to work on Pi is that we will soon be able to provide a smart and helpful personal AI to millions of people around the world,â Suleyman continued.
+Pi Anytime, Anywhere
+Pi is currently available across platforms and can continue the conversation whenever, wherever people are. Free to use at launch, Pi is available on:
+Instagram: follow
+@heypi.ai
+and
+click here to send Pi a DM
+.
+Facebook Messenger:
+click here to get in touch with Pi
+.
+WhatsApp
+and SMS: add +1 (314) 333-1111 to your contacts to message Pi.
+Online: talk with Pi at
+https://heypi.com
+Mobile: download
+Pi, your personal AI
+for iPhone or iPad. Pi will be available on Android soon.
+Safety at the Heart of Everything Pi
+Safety is the most important part of developing Pi. People rightly expect that the technologies they bring into their lives should have clear boundaries and be safe, trustworthy, and reliable. There are more details on our policy in our Safety center here.
+We are leveraging state of the art technical approaches, human feedback, and red teaming to ensure that Pi does not engage in harmful or offensive behaviors.
+We are creating a new form of âboundary trainingâ that will redefine how AIs learn and are trained.
+We make it easy for people to tell us when Pi doesnât meet their expectations - users can flag inappropriate messages right in our iPhone or iPad apps.
+We have robust internal security and privacy practices to protect user data against unauthorized access and leaks.
+We work hard to minimize hallucinations. Today, Pi is starting out to be more cautious and would rather say it doesnât know than get something wrong.
+âWeâve spent the past year developing one of the most sophisticated and advanced large language models in the world in order to achieve a new level of simplicity and natural interaction for people with Pi," said KarÃ©n Simonyan, Chief Scientist and co-founder of Inflection AI. âWith our world class team of scientists, developers, and trust & safety experts, we will continue to fine-tune, set boundaries, and expand capabilities that will have a positive impact on peopleâs lives.â
+âWith Pi, we set out to create a personal AI that is as flexible as it is powerful, so millions of people can use it to make their lives more meaningful, more productive, and more fun," said Reid Hoffman, co-founder of Inflection.
+About Inflection AI
+Based in Palo Alto, CA, Inflection AI is an âAI Studioâ specializing in creating personal AIs. It was founded in early 2022 by Mustafa Suleyman, KarÃ©n Simonyan, and Reid Hoffman.
+Inflection AIâs mission is to make personal AIs available to every person in the world. The company is set up as a Public Benefit Corporation, and the Inflection AI team includes some of the industryâs top AI experts who previously worked at DeepMind, Google, OpenAI and Meta.
+For more information about Pi or Inflection, please visit
+https://heypi.com
+and
+https://inflection.ai
+. Follow us on Instagram
+@heypi.ai
+, and Twitter
+@heypi_ai
+.
+Product and brand assets for Pi are available
+here
+.
+Press Contact: TJ Snyder Inflection press@inflection.ai
+Back to Blog Overview
+Back to Blog Overview
+Back to Blog Overview
+Back to Blog Overview
+Recent Articles
+Inflection Insights: a dialog with your data
+Mar 28, 2025
+Porting Inflection AIâs Inference Stack to Intel Gaudi: Lessons Learned
+Mar 25, 2025
+Little by Little, a Little Becomes a Lot
+Mar 6, 2025
+Inflection Insights: a dialog with your data
+Mar 28, 2025
+Porting Inflection AIâs Inference Stack to Intel Gaudi: Lessons Learned
+Mar 25, 2025
+Inflection Insights: a dialog with your data
+Mar 28, 2025
+Porting Inflection AIâs Inference Stack to Intel Gaudi: Lessons Learned
+Mar 25, 2025
+Â©
+2026
+â Inflection AI
+Terms of Service
+Privacy Policy
+Legal
+Cookie Settings
+Â©
+2026
+â Inflection AI
+Terms of Service
+Privacy Policy
+Legal
+Cookie Settings
+Â©
+2026
+â Inflection AI
+Terms of Service
+Privacy Policy
+Legal

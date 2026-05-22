@@ -1,0 +1,20 @@
+# SOURCE: https://www.notion.so/product/ai
+# ENTRY: 48 | COMPANY: Notion | DATE: 2026-05-21
+# METHOD: requests+bs4
+
+Free
+For individuals to organize personal projects and life.
+Sign up
+Includes:
+Trial AI capabilities like generating docs, or autofilling databases
+Trial of Notion AI
+Capture, organize, and act on responses right inside Notion.
+Basic forms
+Publish a Notion page to the web
+Basic sites
+Connect multiple Calendars to manage work and time together.
+Notion Calendar
+Connect your Gmail for an AI-powered, personalized inbox.
+Notion Mail (Syncs with Gmail)
+Organize hundreds or thousands of items in one place, like projects or tasks
+Databases including subtasks, dependencies, custom properties and more

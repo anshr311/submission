@@ -1,0 +1,84 @@
+# SOURCE: https://doubao-app.com/en/en-feartures/
+# ENTRY: 27 | COMPANY: ByteDance | DATE: 2026-05-21
+# METHOD: playwright
+
+Doubao AI Assistant
+Home
+Core Feartures
+AI Translation
+AI Search
+Download
+中文版
+Core Features
+Doubao AI integrates multiple intelligent capabilities to comprehensively improve efficiency for your learning and work.
+AI Writing Assistant
+Write a profound and unique movie review, intelligently polish documents, and provide creative writing inspiration.
+Creative Writing
+Document Polishing
+Intelligent Translation
+One-click precise translation, supporting selection translation, webpage bilingual translation, and PDF translation.
+Multi-language
+Real-time Translation
+AI Image Generation
+Generate exquisite images based on text descriptions, supporting multiple styles to unleash infinite creative possibilities.
+Image Generation
+Creative Design
+Document Analysis
+Intelligently analyze document content, extract key information, generate summaries, supporting multiple document formats.
+Document Processing
+Intelligent Analysis
+AI Search
+Deeply retrieve information from the entire web, precisely summarize answers, and comprehensively improve efficiency for your learning and work.
+Intelligent Search
+Information Integration
+Coding Assistant
+Share VS Code to help answer code questions, provide programming suggestions, and improve development efficiency.
+Code Assistance
+Dev Tools
+Typical Application Scenarios
+Learning & Research
+Paper summaries, foreign material translation, class note organization, improving learning efficiency.
+SummaryTranslation
+Office & Documentation
+Report writing, resume optimization, spreadsheet analysis, and chart generation, improving office quality.
+WritingCharts
+Development & Creation
+Code answers, architecture suggestions, creative poster and illustration generation, releasing creative potential.
+CodeGen Image
+Feature Comparison
+Capability	Desktop Assistant	Web Version	Advantage
+Selection Translation	Supported	Supported	Desktop Global Shortcut
+Webpage Bilingual Translation	Supported	Supported	Preserve Format
+PDF Full-text Comparison	Supported	Supported	Pro Reading Friendly
+Video Summary	Supported	Supported	Timeline Summary
+Code Assistant	Supported	Supported	VS Code Synergy
+User Reviews
+"PDF bilingual translation is very practical, saving a lot of time reading foreign papers."
+Graduate Student · Information Engineering
+"Video timeline summaries help quickly locate key points, significantly improving learning efficiency."
+Professional · Product Manager
+FAQ
+Is offline use supported?
+Core capabilities require an internet connection to ensure accurate and up-to-date results; some interfaces and settings support offline viewing.
+How to improve result quality?
+Doubao AI Assistant
+An AI desktop assistant that inspires creativity and instantly improves work and learning efficiency.
+Products
+Features
+AI Translation
+AI Search
+Support
+Help Center
+FAQ
+API Docs
+Company
+About Us
+Contact Us
+隐私政策
+免责声明
+Links
+Tradingview
+MetaTrader 4
+MetaTrader 5
+© 2025 Doubao AI Assistant. All rights reserved.
+Powered by ByteDance AI Lab
